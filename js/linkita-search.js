@@ -10,23 +10,45 @@
       console.error("searchWrapper is null");
       return;
     } else {
-      searchWrapperEl.classList.remove("hidden");
+      searchWrapperEl.classList.remove("yzz-hide");
+    }
+    doSearchAction()
+  }
+
+  function doSearchAction() {
+    const searchWrapperEl = document.getElementById("linkita-search-wrapper");
+    const searchResultsEl = document.getElementById("linkita-search-results");
+    const searchResultsFrameEl = document.getElementById("linkita-search-results-frame");
+    if (null == searchWrapperEl || null == searchResultsEl) {
+      console.error("searchWrapper is null");
+      return;
+    } else {
+      searchWrapperEl.classList.remove("yzz-hide");
     }
 
-    const q = prompt("Enter your search term");
-    if (null == q) {
-      searchWrapperEl.classList.add("hidden");
+    // const q = prompt("Enter your search term");
+    // if (null == q) {
+    //   searchWrapperEl.classList.add("yzz-hide");
+    //   return;
+    // }
+
+    const q = document.getElementById("search-bar-input").value
+    if (null == q || "" == q) {
+      searchResultsEl.innerHTML = ""
+      searchResultsFrameEl.classList.add("yzz-hide")
       return;
     }
-
-    if ("undefined" === typeof (searchIndex) && "undefined" === typeof (elasticlunr)) {
+    searchResultsFrameEl.classList.remove("yzz-hide")
+    if ("undefined" === typeof (searchIndex) && "undefined" === typeof (Fuse)) {
       searchResultsEl.innerHTML = "<li>Search: Please wait...</li>";
       Promise.all(searchFiles.map(loadScript))
         .catch(error => {
           showError(searchResultsEl, "<li>Search file not found: <code>" + error + "</code></li>");
         })
         .then((t) => {
-          mySearchIndex = elasticlunr.Index.load(window.searchIndex);
+          mySearchIndex = new Fuse(window.searchIndex, {
+            keys: ['title', 'body']
+          })
           doSearch(q, searchResultsEl);
         });
     } else {
@@ -35,21 +57,15 @@
   }
 
   function doSearch(q, searchResultsEl) {
-    const searchResults = mySearchIndex.search(q,{
-      fields: {
-          title: { boost: 2 }, // 标题字段权重更高
-          content: { boost: 1 },
-      },
-      expand: true // 启用词根扩展以支持部分匹配
-  });
+    const searchResults = mySearchIndex.search(q);
     const searchResultsCount = searchResults.length;
     if (searchResultsCount > 0) {
       const searchResultsRows = ["<li><strong>" + searchResultsCount + "</strong> search " +
         (searchResultsCount === 1 ? "result" : "results") + " for <code>" + mySafe(q) + "</code>:</li>"];
       for (let i = 0; i < searchResultsCount; i++) {
         const searchResult = searchResults[i];
-        searchResultsRows.push("<li><a href=\"" + mySafe(searchResult.ref) + "\">" +
-          mySafe(searchResult.doc.title) + "</a></li>");
+        searchResultsRows.push("<li><a href=\"" + mySafe(searchResult.item.url) + "\">" +
+          mySafe(searchResult.item.title) + "</a></li>");
       }
       searchResultsEl.innerHTML = searchResultsRows.join("");
       searchResultsEl.scrollIntoViewIfNeeded();
@@ -86,4 +102,5 @@
   if (null == window.linkita) window.linkita = {};
   window.linkita.toggleSearch = toggleSearch;
   window.linkita.initSearchButton = initSearchButton;
+  window.linkita.doSearchAction = doSearchAction;
 })();

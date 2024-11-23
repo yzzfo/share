@@ -366,6 +366,7 @@
   },
   "word_prev_page": {
     "en": "Prev Page",
+    "zh": "上一页",
     "uwu": "pwev page",
     "uwu2": "Pwev Page",
     "bg": "Предишна страница",
@@ -374,6 +375,7 @@
   },
   "word_next_page": {
     "en": "Next Page",
+    "zh": "下一页",
     "uwu": "nyext page",
     "uwu2": "Nyext Page",
     "bg": "Следваща страница",
@@ -419,5 +421,25 @@
     "bg": "404: Страницата не е намерена!",
     "eo": "404: ne trovita!",
     "glb": "404"
+  },
+  "quark_link": {
+    "en": "Quark Token:",
+    "zh": "夸克口令:"
+  },
+  "download_note": {
+    "en": "Please keep in mind this package is provided only for learning purposes or to be able to test before buying the product, NOT FOR COMMERCIAL PURPOSES.",
+    "zh": "请注意，此资源仅供学习用途或用于在购买产品前进行测试，禁止用于商业用途。"
+  },
+  "download_link_desc": {
+    "en": "Download Link",
+    "zh": "下载链接"
+  },
+  "password_tip": {
+    "en": "Password (if needed):",
+    "zh": "提取码/密码（如果需要）:"
+  },
+  "reference_tip": {
+    "en": "Check out the details from the Unity Asset Store: ",
+    "zh": "在 Unity 资产商店中查看更详细的信息："
   }
 }

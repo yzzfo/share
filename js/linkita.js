@@ -76,6 +76,7 @@
         btn.classList.remove("hidden");
         btn.addEventListener("click", () => {
           window.location.href = pageTranslation;
+          localStorage.setItem('preferredLanguage', userLanguage.split("-")[0]);
         });
         break;
       }
@@ -99,6 +100,74 @@
     })
   }
 
+  function loadScript(fileName) {
+    return new Promise((resolve, reject) => {
+      const scriptEl = document.createElement("script");
+      scriptEl.onload = () => resolve(fileName);
+      scriptEl.onerror = () => reject(fileName);
+      scriptEl.async = true;
+      scriptEl.src = fileName;
+      document.head.appendChild(scriptEl);
+    });
+  }
+
+  function loadCSS(fileName) {
+    return new Promise((resolve, reject) => {
+      const linkEl = document.createElement("link");
+      linkEl.rel = "stylesheet";  // Specifies that it's a CSS file
+      linkEl.href = fileName;    // The URL of the CSS file
+
+      // When the CSS is successfully loaded
+      linkEl.onload = () => resolve(fileName);
+
+      // If there's an error loading the CSS
+      linkEl.onerror = () => reject(fileName);
+
+      // Append the link element to the head of the document
+      document.head.appendChild(linkEl);
+    });
+  }
+
+  function toast(str) {
+    if (typeof (Toastify) == "undefined") {
+      const a = loadScript("/js/toastify-js.js")
+      const b = loadCSS("/js/toastify.min.css")
+      Promise.all([a, b]).then(() => {
+        Toastify({
+          text: str,
+          duration: 3000,
+          newWindow: false,
+          close: false,
+          gravity: "top", // `top` or `bottom`
+          position: "center", // `left`, `center` or `right`
+          stopOnFocus: true, // Prevents dismissing of toast on hover
+          style: {
+            background: "linear-gradient(to right, #e5e7eb, #e5e7eb)",
+            color: "#000000",
+            "font-weight": "bold",
+          },
+          onClick: function () { } // Callback after click
+        }).showToast();
+      })
+    } else {
+      Toastify({
+        text: str,
+        duration: 3000,
+        newWindow: false,
+        close: false,
+        gravity: "top", // `top` or `bottom`
+        position: "center", // `left`, `center` or `right`
+        stopOnFocus: true, // Prevents dismissing of toast on hover
+        style: {
+          background: "linear-gradient(to right, #e5e7eb, #e5e7eb)",
+          color: "#000000",
+          "font-weight": "bold",
+        },
+        onClick: function () { } // Callback after click
+      }).showToast();
+    }
+  }
+
   function main() {
     initDarkMode();
 
@@ -109,6 +178,7 @@
       initTranslationsButton: initTranslationsButton,
       toggleHeaderMenu: toggleHeaderMenu,
       initKatex: initKatex,
+      toast: toast,
     };
   }
 

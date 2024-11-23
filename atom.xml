@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
     <title>yzzfo</title>
-    <subtitle>Video Game Assets</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/blog/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://yzzfo.github.io/blog/"/>
+    <subtitle>资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-10-24T00:00:00+00:00</updated>
-    <id>https://yzzfo.github.io/blog/atom.xml</id>
-    <entry xml:lang="en">
-        <title>A* Pathfinding Project Pro</title>
-        <published>2023-10-20T00:00:00+00:00</published>
-        <updated>2024-10-24T00:00:00+00:00</updated>
+    <updated>2024-12-01T18:53:31+00:00</updated>
+    <id>https://yzzfo.github.io/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Combat animations - Kickboxing and Muay Thai V2</title>
+        <published>2024-12-01T18:53:31+00:00</published>
+        <updated>2024-12-01T18:53:31+00:00</updated>
         
         <author>
           <name>
@@ -20,17 +20,18 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/blog/blogs/a-pathfinding-project-pro/"/>
-        <id>https://yzzfo.github.io/blog/blogs/a-pathfinding-project-pro/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/combat-animations-kickboxing-and-muay-thai-v2/"/>
+        <id>https://yzzfo.github.io/unitys/combat-animations-kickboxing-and-muay-thai-v2/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/blog/blogs/a-pathfinding-project-pro/">&lt;p&gt;The A* Pathfinding Project is a powerful and easy to use pathfinding system for Unity. With blazing fast pathfinding your AIs will be able to find the player in complex mazes in no time at all.&lt;&#x2F;p&gt;
-</content>
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/combat-animations-kickboxing-and-muay-thai-v2/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai part 2&lt;&#x2F;p&gt;
+&lt;p&gt;A set of 31 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;人形3D动画，适用于重新定向到其他人形3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第一部分在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;我们邀请您访问我的页面。还有其他作品希望您能看到&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
         
     </entry>
-    <entry xml:lang="en">
-        <title>FlowCanvas</title>
-        <published>2023-10-20T00:00:00+00:00</published>
-        <updated>2024-10-24T00:00:00+00:00</updated>
+    <entry xml:lang="zh">
+        <title>Martial Arts Fight Game</title>
+        <published>2024-12-01T18:53:05+00:00</published>
+        <updated>2024-12-01T18:53:05+00:00</updated>
         
         <author>
           <name>
@@ -40,17 +41,21 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/blog/blogs/flowcanvas/"/>
-        <id>https://yzzfo.github.io/blog/blogs/flowcanvas/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/martial-arts-fight-game/"/>
+        <id>https://yzzfo.github.io/unitys/martial-arts-fight-game/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/blog/blogs/flowcanvas/">&lt;p&gt;FlowCanvas is a powerful and feature-rich Visual Scripting Solution for Unity, empowering you to create and manipulate virtually any aspect of gameplay elements for your games in a very similar fashion to Unreal Blueprints, but with far less programming knowledge required all around.&lt;&#x2F;p&gt;
-</content>
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/martial-arts-fight-game/">&lt;p&gt;Martial Arts Fight Game 包含 +187 动画&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;更新说明&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;2.31 - 一些动画名称已更改以便于使用 &#x2F; 移除错误和警告 &#x2F; 添加 idle08 (2024&#x2F;10&#x2F;08)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;推荐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;RPG角色 &#x2F; 主角 &#x2F; 格斗游戏&lt;&#x2F;p&gt;&lt;p &gt;-&lt;&#x2F;p&gt;&lt;p &gt;动态拳击包和泰拳攻击！！&lt;&#x2F;p&gt;&lt;p &gt;这不是重型拳击手类型。它具有轻量级风格的移动，越来越快。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;适用于侧视图和横向卷轴游戏的各种动画&lt;&#x2F;li&gt;&lt;li &gt;动态关键帧动画&lt;&#x2F;li&gt;&lt;li &gt;包含类人版本&lt;&#x2F;li&gt;&lt;li &gt;包含根运动和原地运动&lt;&#x2F;li&gt;&lt;li &gt;包含T姿势&lt;&#x2F;li&gt;&lt;li &gt;不包含特效&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;动画列表&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击 39&lt;&#x2F;li&gt;&lt;li &gt;躲避 4&lt;&#x2F;li&gt;&lt;li &gt;增益 4&lt;&#x2F;li&gt;&lt;li &gt;连击 8&lt;&#x2F;li&gt;&lt;li &gt;死亡 9&lt;&#x2F;li&gt;&lt;li &gt;防御 1&lt;&#x2F;li&gt;&lt;li &gt;倒下 27&lt;&#x2F;li&gt;&lt;li &gt;倒下起身攻击 3&lt;&#x2F;li&gt;&lt;li &gt;击打 20&lt;&#x2F;li&gt;&lt;li &gt;待机 13&lt;&#x2F;li&gt;&lt;li &gt;跳跃 6&lt;&#x2F;li&gt;&lt;li &gt;移动 17&lt;&#x2F;li&gt;&lt;li &gt;捡起 3&lt;&#x2F;li&gt;&lt;li &gt;复活 3&lt;&#x2F;li&gt;&lt;li &gt;设置动作 2&lt;&#x2F;li&gt;&lt;li &gt;横向卷轴动画 14&lt;&#x2F;li&gt;&lt;li &gt;滑倒 2&lt;&#x2F;li&gt;&lt;li &gt;步伐 4&lt;&#x2F;li&gt;&lt;li &gt;转身 2&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;常见问题 : &lt;a href=&quot;https:&#x2F;&#x2F;www.wemakethegame.com&#x2F;&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;www.wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;电子邮件 : &lt;a href=&quot;mailto:contact@wemakethegame.com&quot; target=&quot;_blank&quot;&gt;contact@wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;联系我的最佳方式是电子邮件。&lt;&#x2F;p&gt;&lt;p &gt;我始终感谢您的精彩评论和反馈。&lt;&#x2F;p&gt;</content>
         
     </entry>
-    <entry xml:lang="en">
-        <title>Low Poly Medieval Kit</title>
-        <published>2023-10-20T00:00:00+00:00</published>
-        <updated>2024-10-24T00:00:00+00:00</updated>
+    <entry xml:lang="zh">
+        <title>Stylish Archer Assets Pack</title>
+        <published>2024-11-30T23:40:28+00:00</published>
+        <updated>2024-11-30T23:40:28+00:00</updated>
         
         <author>
           <name>
@@ -60,17 +65,48 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/blog/blogs/low-poly-medieval-kit/"/>
-        <id>https://yzzfo.github.io/blog/blogs/low-poly-medieval-kit/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/stylish-archer-assets-pack/"/>
+        <id>https://yzzfo.github.io/unitys/stylish-archer-assets-pack/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/blog/blogs/low-poly-medieval-kit/">&lt;p&gt;Fuel your creativity with the Low Poly Medieval Kit. Designed for the seamless creation of low-poly medieval environments.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/stylish-archer-assets-pack/">&lt;p&gt;Stylish Archer Action Pack&lt;&#x2F;p&gt;
+&lt;p&gt;为了时尚的动作，购买此包。&lt;&#x2F;p&gt;
+&lt;p&gt;包含与演示视频相同的角色和武器建模文件。&lt;&#x2F;p&gt;
+&lt;p&gt;运动状态已对齐到动画控制器。
+产品信息
+角色联盟设置为类人配置。包括5个手指骨骼、肩部、手臂和腿部扭转骨骼。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;spreadsheets&#x2F;d&#x2F;1UmGqUvmuQ2vJIrc6Gy-ZP0zqWtclAaP9NnnKcCrIh4w&#x2F;edit?usp=sharing&quot;&gt;[查看动画列表]&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Er6TYp2S_m0jvIdJbqHNzYMxmnWrOXbq&#x2F;view?usp=sharing&quot;&gt;[Grruzam_ArcherTest_File]&lt;&#x2F;a&gt;
+所有动画包含。&lt;&#x2F;p&gt;
+&lt;p&gt;弓箭手包总计：454
+攻击：97
+移动：38
+站立与坐下：4
+蹲下移动：11
+蹲下行走：16
+蹲下行走瞄准：16
+重新装填：9
+蹲下瞄准射击：2
+闪避：8
+慢跑：20
+技能：46
+行走瞄准：16 + 18（ver.1.2）
+行走：16
+装备与卸下：2
+跳跃与双跳：28
+空中攻击：8
+移动转向：44
+受伤：23
+死亡：3
+击倒：29&lt;&#x2F;p&gt;
+&lt;p&gt;（这是原地和根运动的总和。）
+有关详细列表，请点击上面的[查看动画列表]。&lt;&#x2F;p&gt;
 </content>
         
     </entry>
-    <entry xml:lang="en">
-        <title>PuppetMaster</title>
-        <published>2023-10-20T00:00:00+00:00</published>
-        <updated>2024-10-24T00:00:00+00:00</updated>
+    <entry xml:lang="zh">
+        <title>Combat animations - Kickboxing and Muay Thai V1</title>
+        <published>2024-11-30T19:54:50+00:00</published>
+        <updated>2024-11-30T19:54:50+00:00</updated>
         
         <author>
           <name>
@@ -80,17 +116,895 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/blog/blogs/puppetmaster/"/>
-        <id>https://yzzfo.github.io/blog/blogs/puppetmaster/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/combat-animations-kickboxing-and-muay-thai-v1/"/>
+        <id>https://yzzfo.github.io/unitys/combat-animations-kickboxing-and-muay-thai-v1/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/blog/blogs/puppetmaster/">&lt;p&gt;Advanced active ragdoll physics complete with ragdoll creation and editing tools from the creator of Final IK.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/combat-animations-kickboxing-and-muay-thai-v1/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai&lt;&#x2F;p&gt;
+&lt;p&gt;连续的镜像动作 - &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;一组19个第三人称的踢拳和泰拳动画&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，动画动作可重新定向到其他类人3D角色。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第二部分在&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FxD&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;我们邀请您访问我的页面。还有其他作品希望您能看到&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Casual Motions Pack 2</title>
+        <published>2024-11-30T00:39:59+00:00</published>
+        <updated>2024-11-30T13:27:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/casual-motions-pack-2/"/>
+        <id>https://yzzfo.github.io/unitys/casual-motions-pack-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/casual-motions-pack-2/">&lt;p&gt;该资产由30个高质量的动作捕捉动画组成，适用于游戏开发。&lt;&#x2F;p&gt;
+&lt;p&gt;动画剪辑均为循环播放。&lt;&#x2F;p&gt;
+&lt;p&gt;该包也基于类人角色。&lt;&#x2F;p&gt;
+&lt;p&gt;这些动作可以用于各种社交内容。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Pure Nature</title>
+        <published>2024-11-29T21:22:21+00:00</published>
+        <updated>2024-11-30T13:27:07+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/pure-nature/"/>
+        <id>https://yzzfo.github.io/unitys/pure-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/pure-nature/">&lt;p &gt;&lt;strong&gt;3D 风格化自然环境资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;所有内容都带有预制件 - 准备好可以放入场景中。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;包含 URP 版本！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;此包包含：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 白桦树&lt;&#x2F;p&gt;&lt;p &gt;- 橡树&lt;&#x2F;p&gt;&lt;p &gt;- 松树&lt;&#x2F;p&gt;&lt;p &gt;- 雪松&lt;&#x2F;p&gt;&lt;p &gt;- 死树&lt;&#x2F;p&gt;&lt;p &gt;- 灌木&lt;&#x2F;p&gt;&lt;p &gt;- 蘑菇&lt;&#x2F;p&gt;&lt;p &gt;- 常春藤&lt;&#x2F;p&gt;&lt;p &gt;- 花和草&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;岩石&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 悬崖&lt;&#x2F;p&gt;&lt;p &gt;- 巨石&lt;&#x2F;p&gt;&lt;p &gt;- 岩石&lt;&#x2F;p&gt;&lt;p &gt;- 模块化岩石&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;道具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 废墟&lt;&#x2F;p&gt;&lt;p &gt;- 瀑布&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;材质&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 草&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;沙&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;泥&lt;&#x2F;p&gt;&lt;p &gt;- 沙&lt;&#x2F;p&gt;&lt;p &gt;- 沙滩&lt;&#x2F;p&gt;&lt;p &gt;- 沙砾&lt;&#x2F;p&gt;&lt;p &gt;- 泥&lt;&#x2F;p&gt;&lt;p &gt;- 雪&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;还包括：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;演示场景&lt;&#x2F;p&gt;&lt;p &gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p &gt;准备好绘制和填充的空场景&lt;&#x2F;p&gt;
+&lt;p &gt;环境管理器用于控制风和草的渲染距离&lt;&#x2F;p&gt;
+&lt;p &gt;白天、夜晚、日落、多云、暴风雨等的预设...&lt;&#x2F;p&gt;&lt;p &gt;后处理堆栈的预设&lt;&#x2F;p&gt;
+&lt;p &gt;大多数预制件都有 LOD&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;自定义着色器用于：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;带有风和颜色变化的草&lt;&#x2F;p&gt;&lt;p &gt;带有风和颜色变化的树&lt;&#x2F;p&gt;&lt;p &gt;带有苔藓&#x2F;雪层的岩石&lt;&#x2F;p&gt;&lt;p &gt;带有深度渐变、泡沫和折射的水&lt;&#x2F;p&gt;&lt;p &gt;体积云&lt;&#x2F;p&gt;&lt;p &gt;广告牌&lt;&#x2F;p&gt;
+&lt;p &gt;- - -&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;演示场景很大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;推荐使用像 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 的合适解决方案，如 &lt;&#x2F;em&gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;植被引擎&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件包含设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Low Poly Ultimate Pack</title>
+        <published>2024-11-29T21:22:11+00:00</published>
+        <updated>2024-11-30T13:26:58+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/low-poly-ultimate-pack/"/>
+        <id>https://yzzfo.github.io/unitys/low-poly-ultimate-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/low-poly-ultimate-pack/">&lt;p&gt;低聚物图形的终极包。非常适用于原型设计&#x2F;制作低多边形风格的艺术和游戏。&lt;br&gt;&lt;p &gt;&lt;strong&gt;低聚物图形的终极包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;非常适用于原型设计&#x2F;制作低多边形风格的艺术和游戏。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;市场上没有这样的产品。7年的工作，每月免费更新。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;这个包的创建要感谢你，我们所有的用户，我们想利用这个机会感谢你，承诺我们将继续扩大这个巨大的创造，使它成为最好的东西。）&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;- 内容 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;超过2000个带碰撞器的预制构件&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;许多伟大的灵感场景&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;一套通用的动画&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;材料和Atlas纹理工作流程&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;(每个模型都有两个版本，以提高速度或优化）。&lt;&#x2F;li&gt;&lt;li &gt;支持Mixamo的简单人物模型&lt;&#x2F;li&gt;&lt;li &gt;(与低聚物动画人物不一样)&lt;&#x2F;li&gt;&lt;li &gt;每月免费更新&lt;&#x2F;li&gt;&lt;li &gt;支持URP观看&lt;&#x2F;li&gt;&lt;li &gt;VR&#x2F;AR准备就绪&lt;&#x2F;li&gt;&lt;li &gt;使用简单，组织良好&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;- 模型 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;🐎 动物 (x28)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;静态动物模型，没有假肢&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(与低保动画动物不同)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🧟‍♂️ Apocalypse (x54)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🤿 海滩 (x16)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🏢建筑 (x125)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;📜 埃及 (x38)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;📷 电子产品 (x13)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;📚 幻想 (x79)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;👨‍🌾 农场 (x12)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🍌 食物 (x66)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🪑 家具 (x25)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🛕 印度 (x20)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🏯 日本 (x32)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🏰 中世纪 (x33)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🏅 军事 (x6)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🎤 音乐 (x32)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🌴 自然 (x186)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;👨‍👩‍👦 People (x206)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;支持Mixamo的简单人物装备 )&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(与低多边形动画人物不一样)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🏴‍☠️ Pirates (x28)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;📦 道具 (x78)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🚗 赛车 (x10)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🧱 资源 (x24)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;📚 罗马人 (x2)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🪐 科幻 (x175)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🪐 太空 (x14)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;体育 (x18)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;⛺ 生存 (x22)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🌄 地形 (x69)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🌄 地形砖 (x104)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🔨 工具 (x14)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🚘 车辆 (x70)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;武器 (x15)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🎩 西部地区 (x20)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;二战时期 (x18)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(与低聚物战争包不同)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;🧭 祖鲁 (x14)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;- 场景 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 所有模型&lt;&#x2F;p&gt;&lt;p &gt;- 低聚物世界&lt;&#x2F;p&gt;&lt;p &gt;- 海盗&lt;&#x2F;p&gt;&lt;p &gt;- 城市&lt;&#x2F;p&gt;&lt;p &gt;- 郊区小镇&lt;&#x2F;p&gt;&lt;p &gt;- 雪域城堡&lt;&#x2F;p&gt;&lt;p &gt;- 狂野的西部&lt;&#x2F;p&gt;&lt;p &gt;- 云端的城堡&lt;&#x2F;p&gt;&lt;p &gt;- 地下城&lt;&#x2F;p&gt;&lt;p &gt;- 外星人星球&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;最好的还在后面 :)&lt;&#x2F;strong&gt; 感谢大家购买我们的包! 如果你对某个模型有特别的要求，我们将很乐意添加它! 只要给我们发一封邮件，info@polyperfect.com&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;- 其他低聚物包 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;Sfg&quot; target=&quot;_blank&quot;&gt;Low Poly Animated Animals&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;1ED1&quot; target=&quot;_blank&quot;&gt;Low Poly Animated People&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;157E&quot; target=&quot;_blank&quot;&gt;Low Poly Animated Dinosaurs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;1CQy&quot; target=&quot;_blank&quot;&gt;Low Poly Animated Prehistoric Animals&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2Fjw&quot; target=&quot;_blank&quot;&gt;Low Poly Epic City&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;nVd&quot; target=&quot;_blank&quot;&gt;Low Poly Ultimate Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;1gaS&quot; target=&quot;_blank&quot;&gt;Low Poly War Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2M0K&quot; target=&quot;_blank&quot;&gt;Poly Universal Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;- 工具包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FQb&quot; target=&quot;_blank&quot;&gt;Ultimate Crafting System&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;- 二维包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;2bmr&quot; target=&quot;_blank&quot;&gt;Low Poly Icon Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;1TZB&quot; target=&quot;_blank&quot;&gt;Fancy Icon Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2Vr2&quot; target=&quot;_blank&quot;&gt;2D SDF Nodes&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
-    <entry xml:lang="en">
+    <entry xml:lang="zh">
+        <title>Fantasy Adventure Environment</title>
+        <published>2024-11-29T21:22:02+00:00</published>
+        <updated>2024-11-30T13:26:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/fantasy-adventure-environment/"/>
+        <id>https://yzzfo.github.io/unitys/fantasy-adventure-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/fantasy-adventure-environment/">&lt;p&gt;An environment asset pack inspired by the current 3D adventure games and of old. This package focuses on providing artistically crafted environment assets.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;unity&#x2F;fantasy-adventure-environment&#x2F;fae-documentation&#x2F;&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;fae-demo&#x2F;&quot;&gt;PC 演示&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;486102&quot;&gt;论坛主题&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;最高可兼容 Unity 2020.1（LWRP 或 HDRP 例外）。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;最新推出！&lt;&#x2F;strong&gt;Unity 2019.3+ 现在支持通用渲染管线。修订了水着色器，以进行完善。可通过&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;stylized-grass-shader-143830&quot;&gt;风格化草&lt;&#x2F;a&gt;着色器单独获取 URP 草着色器&lt;br&gt;&lt;br&gt;受流行 3D 冒险游戏和旧版本启发的环境资源包。该资源包侧重于提供艺术化制作的环境资源。&lt;br&gt;&lt;br&gt;当您的英雄角色穿越世界去冒险时，景观中点缀着风格化的植被！&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 兼容性 ==&lt;&#x2F;strong&gt;&lt;br&gt;所有资源的设计都针对中高端 PC 和控制台平台 (PS4&#x2F;Xbox One)。根据 1750 多份基准报告显示，可下载的演示平均运行帧率为 98 FPS。&lt;br&gt;&lt;br&gt;不支持移动端和 Web 平台。PC 上的 VR 已通过测试，没有任何问题。&lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;unity&#x2F;fantasy-adventure-environment&#x2F;fae-documentation&#x2F;?section=compatibilty&quot;&gt;完整细节&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 功能 ==&lt;&#x2F;strong&gt;&lt;br&gt;➮用于树木和植被的自定义着色器，可以启用风格化的渲染和动画&lt;br&gt;➮ 树木和植被上逼真的风动画&lt;br&gt;➮ 植被从玩家身旁弯曲掠过（URP 中不可用）&lt;br&gt;➮ 草色与地形浑然一体（支持倾斜地形和网格地形，URP 中不可用）&lt;br&gt;➮ 多细节层次和碰撞网格适用于所有需要它们的资源&lt;br&gt;➮ 广告牌树多细节层次，可在开放的景观中实现最佳性能&lt;br&gt;➮ 量身定制的环境场景示例&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 内容 ==&lt;&#x2F;strong&gt;&lt;br&gt;▪ 18 种植物&lt;br&gt;▪ 3 种云杉&lt;br&gt;▪ 3 种桦树&lt;br&gt;▪ 3 种风格化的树&lt;br&gt;▪ 2 种柳树&lt;br&gt;▪ 3 种棕榈树&lt;br&gt;▪ 1 种松树&lt;br&gt;▪ 6 种树皮材质&lt;br&gt;▪ 6 种地形材质&lt;br&gt;▪ 7 种悬崖，以增加您的地形（2k 纹理）&lt;br&gt;▪ 4 种小石块&lt;br&gt;▪ 匹配的 skybox 全景（最高 8k 分辨率）&lt;br&gt;▪ 镜头光晕纹理图集&lt;br&gt;▪ 动画化的局部阳光照射特效&lt;br&gt;▪ 雾片特效&lt;br&gt;▪ 落叶粒子效果&lt;br&gt;▪ 风痕粒子效果&lt;br&gt;▪ 后处理栈&#x2F; UPP 配置文件和颜色分级纹理（适用于 v1 和 v2）&lt;br&gt;▪ &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;A2R&quot;&gt;旧版风格化水着色器&lt;&#x2F;a&gt;（URP 安装特有一个重新设计的版本）&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 其他功能 ==&lt;&#x2F;strong&gt;&lt;br&gt;▪ 着色器支持自定义 SpeedTree 模型&lt;br&gt;▪ 支持 GPU（间接）实例化&lt;br&gt;▪ Vegetation Studio Pro 集成的着色器控制器&lt;br&gt;▪ 具有（三向）全局彩色贴图和细节法线的悬崖着色器&lt;br&gt;▪ 悬崖覆盖物（雪、草、沙等）&lt;br&gt;▪ 树着色器支持颜色变化&lt;br&gt;▪ 具有文档切换功能的着色器 GUI&lt;br&gt;▪ 可编辑的 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;68570&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt;​​​ 或 Shader Graph 着色器&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 可兼容 ==&lt;&#x2F;strong&gt;&lt;br&gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;103389&quot;&gt;Vegetation Studio&lt;&#x2F;a&gt;&lt;br&gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;131835&quot;&gt;Vegetation Studio 专业&lt;&#x2F;a&gt;版（集成着色器 GUI）&lt;br&gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;42618&quot;&gt;Gaia&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Gamma 颜色空间截屏&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Medieval Animations Mega Pack</title>
+        <published>2024-11-29T21:21:52+00:00</published>
+        <updated>2024-11-30T13:26:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/medieval-animations-mega-pack/"/>
+        <id>https://yzzfo.github.io/unitys/medieval-animations-mega-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/medieval-animations-mega-pack/">&lt;p&gt;Notes&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;此包包含来自8个动画集合的714个高质量动画，涵盖了创建功能性PC和NPC角色所需的基本内容，适用于任何中世纪或奇幻游戏类型。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;您可以直接使用这些动画，或在不同动画之间进行混合，以创建更多变体。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;您可以将角色用于原型制作，或为他们制作额外的盔甲和武器，并在您的游戏制作中使用。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;动画剪辑可以与任何类型的骨架一起使用，但要将其重定向到自定义角色，必须使用“类人”头像。马的动画剪辑可以与任何类型的骨架一起使用，但不包括“类人”类型。因为马不是类人动物，所以无法重新定向。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;男性和女性姿势之间存在差异，这使得女性气质和男性气质之间有所不同。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;只有带有RM_或W_RM_前缀的动画包含根运动数据。所有其他动画必须在关闭此选项的情况下使用。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;主英雄_骑士对象需要父级到马匹，HORSEMAN_BONE可以在马匹层级下的Spine1骨骼后找到。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;您可以在YouTube预览页面的描述说明中找到动画列表。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Pack including&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;2个逼真的理想角色（亚当和夏娃），配有各种武器和低多边形马模型。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;夏娃：8,532个多边形，16,932个三角形，8,689个顶点。骨架：75根骨骼。（2根额外的骨骼用于胸部）
+亚当：8,591个多边形，17,072个三角形，8,767个顶点。骨架：73根骨骼
+每个角色的武器：4,391个多边形，8,400个三角形，4,744个顶点
+马：1,069个多边形，2,096个三角形，1,157个顶点。&lt;&#x2F;p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;693个人体动画剪辑。530个“原地”动画剪辑，以及163个跑步、行走、跳跃、爬行等动画剪辑，包含“根运动”数据，由Mecanim使用。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;21个马的动画剪辑。15个“原地”动画剪辑，以及6个行走、跳跃、疾驰等动画剪辑，包含“根运动”数据，由Mecanim使用。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;2048x248、1024x1024、512x512的漫反射、法线和高光TIF纹理。&lt;br&gt;5. 包含时间列表。&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Synty ANIMATION - Base Locomotion - Character Animset</title>
+        <published>2024-11-29T21:21:42+00:00</published>
+        <updated>2024-11-30T13:26:12+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/synty-animation-base-locomotion-character-animset/"/>
+        <id>https://yzzfo.github.io/unitys/synty-animation-base-locomotion-character-animset/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/synty-animation-base-locomotion-character-animset/">&lt;p&gt;Synty 动画来了！与 Synty POLYGON 和 Simple 角色兼容。此包包含 247 个手工制作的动画和一个使用 Synty 商标质量制作的演示角色控制器。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Synty® Studios 提供：动画 - 基础运动&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;通过 Synty 的动画 - 基础运动，将您的游戏提升到新的高度。&lt;&#x2F;p&gt;
+&lt;p &gt;◼ &lt;strong&gt;主要特点&lt;&#x2F;strong&gt; ◼&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;247 个动画剪辑作为单独文件，允许您仅将所需的动画导入到项目中&lt;&#x2F;li&gt;&lt;li &gt;角色控制器示例脚本&lt;&#x2F;li&gt;&lt;li &gt;Mecanim 动画控制器 - 男性和女性&lt;&#x2F;li&gt;&lt;li &gt;测试动画的演示场景&lt;&#x2F;li&gt;&lt;li &gt;包含所有动画的画廊场景&lt;&#x2F;li&gt;&lt;li &gt;碰撞假人角色 - 完全绑定和动画&lt;&#x2F;li&gt;&lt;li &gt;所有动画的 FBX 文件均已包含，因此您可以在 Unity 之外使用它们&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;通过流畅的运动和无缝的过渡为您的角色赋予生命。告别从互联网上到处寻找动画和从头构建控制器的麻烦 - 我们的综合包为您提供了让角色迅速复活所需的一切。&lt;&#x2F;p&gt;
+&lt;p &gt;这个强大的包充满了每个常见角色动作需求的基本动画 - 从悠闲的散步到肾上腺素激增的冲刺，从优雅的跳跃到心跳加速的滑行。每个状态都经过精心制作，配有多种动画和流畅的过渡，您的角色将以无与伦比的优雅移动。&lt;&#x2F;p&gt;
+&lt;p &gt;但等等，还有更多！我们更进一步，为男性和女性角色提供动画，确保您游戏中的角色散发出真实感和多样性。能够在两者之间无缝融合，角色表达和个性的可能性是无限的。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;深入探索本包中包含的Mecanim动画控制器，解锁关于设置动画状态、过渡、混合树和参数的丰富知识宝库。无论您是经验丰富的专业人士还是初出茅庐的开发者，这些资源都为您打造独特的动画控制器提供了完美的起点。&lt;&#x2F;p&gt;
+&lt;p&gt;不仅仅是制作游戏 – 让它们通过Synty的动画 - 基础运动而栩栩如生。您的玩家不仅仅是在玩游戏；他们将被带入一个每一步、每次跳跃和滑行都如同魔法般的世界。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;包含碰撞假人模型和动画控制器演示场景！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Dynamic Sword Animset</title>
+        <published>2024-11-29T21:21:33+00:00</published>
+        <updated>2024-11-30T13:26:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/dynamic-sword-animset/"/>
+        <id>https://yzzfo.github.io/unitys/dynamic-sword-animset/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/dynamic-sword-animset/">&lt;p&gt;你好，我们想介绍我们的动态剑动画包。&lt;&#x2F;p&gt;
+&lt;p&gt;这是一个基于Unity人形Mecanim动画系统结构创建的动画包。&lt;&#x2F;p&gt;
+&lt;p&gt;该动画包基于装备剑和盾的角色的基本动作，包含多种不同类型的战斗动作动画，包括攻击、受伤、翻滚和冲刺。这个动画包旨在使你的游戏更加动态和时尚。&lt;&#x2F;p&gt;
+&lt;p&gt;该动画包包含总共156种不同的动作动画，分为原地(Inplace)和根运动(RootMotion)。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Blueisland动画包查看器&lt;&#x2F;strong&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;itunes.apple.com&#x2F;app&#x2F;blueisland-animset-viewer&#x2F;id1018645275?mt=8&quot;&gt;苹果应用商店链接&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.blueisland.BiAViewer&quot;&gt;谷歌 Play 商店链接&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;将动态剑动画包整合到你正在开发的游戏中，使其更加动态和时尚。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>EasyPerformanceMonitor - 2024</title>
+        <published>2024-11-29T21:21:24+00:00</published>
+        <updated>2024-11-30T13:25:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/easyperformancemonitor-2024/"/>
+        <id>https://yzzfo.github.io/unitys/easyperformancemonitor-2024/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/easyperformancemonitor-2024/">&lt;p&gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。它可实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标。&lt;br&gt;&lt;p &gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;easyperformancemonitor-cpu-gpu-memory-in-game-monitoring.1490116&#x2F;&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。通过实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标，EasyPerformanceMonitor 可帮助您优化应用程序和游戏性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;主要事实&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔ 游戏内监控： 游戏内覆盖，让您随时更新。&lt;&#x2F;p&gt;&lt;p &gt;✔ 使用简单： 无需复杂设置或技术知识，即插即用。&lt;&#x2F;p&gt;&lt;p &gt;✔ 兼容性： 与所有 Unity3d 支持的目标平台集成。&lt;&#x2F;p&gt;&lt;p &gt;✔ 自定义数据扩展： 通过集成自定义数据扩展您的监控功能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;集成&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;无论目标平台如何，将 EasyPerformanceMonitor 集成到任何应用程序或游戏中都非常简单。只需将 EasyPerformanceMonitor 预制件添加到初始场景中，一切就绪。我们确保集成过程简单明了，让您可以专注于核心开发。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;平台&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity3d 支持的所有平台。包括 Mono 和 IL2CPP。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;说明&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 包含大量手册、脚本 API 参考文档和演示，可让您直接进行监控和优化！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 和 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;api&#x2F;EasyPerformanceMonitor&#x2F;GUPS.EasyPerformanceMonitor.html&quot; target=&quot;_blank&quot;&gt;脚本应用程序参考&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;联系我们&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;电子邮件：guardingpearsoftware@gmail.com&lt;&#x2F;p&gt;&lt;p &gt;网站：guardingpearsoftware.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>vHierarchy 2</title>
+        <published>2024-11-29T21:21:14+00:00</published>
+        <updated>2024-11-30T13:25:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/vhierarchy-2/"/>
+        <id>https://yzzfo.github.io/unitys/vhierarchy-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/vhierarchy-2/">&lt;p &gt;&lt;strong&gt;终极层级资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;通过简单的生活质量改进来组织您的层级并简化工作流程&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;简约&lt;&#x2F;strong&gt; - 无杂乱，无侵入性功能&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;直观&lt;&#x2F;strong&gt; - 用户体验简单且精致&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可定制&lt;&#x2F;strong&gt; - 所有功能均为可选&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;优化&lt;&#x2F;strong&gt; - 无延迟或卡顿&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;自定义图标和颜色&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 突出显示场景或预制件中的对象&lt;&#x2F;p&gt;&lt;p &gt;- 创建分隔符或文件夹&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;组件小地图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 在右侧查看列出的组件&lt;&#x2F;p&gt;&lt;p &gt;- Alt-单击组件以打开迷你编辑器&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;可定制调色板&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 添加图标&lt;&#x2F;p&gt;&lt;p &gt;- 调整颜色&lt;&#x2F;p&gt;&lt;p &gt;- 导出以便在其他项目中使用&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;可定制外观&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 层级线&lt;&#x2F;p&gt;&lt;p &gt;- 简约模式&lt;&#x2F;p&gt;&lt;p &gt;- 条纹效果&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 启用或禁用对象而无需选择它们&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;快捷键&lt;&#x2F;strong&gt;（在鼠标下的对象上工作，无需选择它）&lt;&#x2F;p&gt;&lt;p &gt;- 按 A 切换激活状态&lt;&#x2F;p&gt;&lt;p &gt;- 按 F 聚焦对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 X 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 E 展开或折叠&lt;&#x2F;p&gt;&lt;p &gt;- 按 Shift-E 仅展开一个对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 Ctrl-Shift-E 折叠所有&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;从 vHierarchy 1.0 升级的理由&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;在收集了半年的反馈后，我们添加了最受欢迎的功能，并进行了大量改进，以使您的体验更加顺畅：&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;多重选择编辑&lt;&#x2F;strong&gt; - 一次设置多个图标或颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;预制件中的图标&lt;&#x2F;strong&gt; - 在预制件中设置，它们将出现在场景中&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义调色板&lt;&#x2F;strong&gt; - 添加自定义图标，导出以便在其他项目中使用&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义外观&lt;&#x2F;strong&gt; - 按照您的喜好装饰层级&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;渐变颜色&lt;&#x2F;strong&gt; - 如果需要，可以调整为平面&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt; - 一键启用或禁用对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;组件自动固定&lt;&#x2F;strong&gt; - 开始拖动组件编辑器以固定它&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;在场景文件中存储数据&lt;&#x2F;strong&gt; - 团队避免合并冲突的选项&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;美学改进&lt;&#x2F;strong&gt; - 小调整带来大不同&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;性能提升&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Easy Save - The Complete Save Game &amp; Data Serializer System</title>
+        <published>2024-11-29T21:21:05+00:00</published>
+        <updated>2024-11-30T13:25:17+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/easy-save-the-complete-save-game-data-serializer-system/"/>
+        <id>https://yzzfo.github.io/unitys/easy-save-the-complete-save-game-data-serializer-system/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/easy-save-the-complete-save-game-data-serializer-system/">&lt;p&gt;Easy Save可以让你轻松地跨平台保存几乎任何东西，同时还具有加密、压缩、云存储、电子表格、备份等功能。&lt;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.moodkie.com&#x2F;contact&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;联系我们&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;es3-guides&#x2F;&quot; target=&quot;_blank&quot;&gt;指南&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;moodkie.com&#x2F;forum&#x2F;viewforum.php?f=12&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VuzHgDxr5c&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; - &lt;a href=&quot;http:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;&quot; target=&quot;_blank&quot;&gt;入门&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;moodkie.com&#x2F;easy-save-unity&#x2F;&quot; target=&quot;_blank&quot;&gt;首页&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;░░░░░░░░░░░░░░░░░░░░░░░░░░&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;★ 自2011年以来在资产商店 ★&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;为什么使用Easy Save？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;串行化比其他解决方案多得多......&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-classes-components-scriptableobjects&quot; target=&quot;_blank&quot;&gt;class&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-classes-components-scriptableobjects&#x2F;&quot; target=&quot;_blank&quot;&gt;struct&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;saving-loading-gameobjects-prefabs&#x2F;&quot; target=&quot;_blank&quot;&gt;GameObject&lt;&#x2F;a&gt;,&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;es3-supported-types&#x2F;&quot; target=&quot;_blank&quot;&gt; &lt;&#x2F;a&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;saving-loading-gameobjects-prefabs&#x2F;&quot; target=&quot;_blank&quot;&gt;Prefab&lt;&#x2F;a&gt;实例、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-classes-components-scriptableobjects&quot; target=&quot;_blank&quot;&gt;Component&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-classes-components-scriptableobjects&quot; target=&quot;_blank&quot;&gt;ScriptableObject&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-collections&quot; target=&quot;_blank&quot;&gt;Array&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-collections&quot; target=&quot;_blank&quot;&gt;Dictionary&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-collections&quot; target=&quot;_blank&quot;&gt;List&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-collections&quot; target=&quot;_blank&quot;&gt;HashSet&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;#saving-and-loading-collections&quot; target=&quot;_blank&quot;&gt;Queue&lt;&#x2F;a&gt;，&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;saving-and-loading-references&#x2F;&quot; target=&quot;_blank&quot;&gt;甚至Unity对象的引用&lt;&#x2F;a&gt;，&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-supported-types&#x2F;&quot; target=&quot;_blank&quot;&gt;以及更多&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;对于业余爱好者...&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;auto-save-saving-without-code&#x2F;&quot; target=&quot;_blank&quot;&gt;无论是否有代码&lt;&#x2F;a&gt;，它都很容易使用，&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;es3-guides&#x2F;&quot; target=&quot;_blank&quot;&gt;并且有很好的文档&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;对于专家...&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;features&#x2F;&quot; target=&quot;_blank&quot;&gt;一个快速、功能丰富、极其灵活的保存系统&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;定期更新的新功能...&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;es3-encryption-compression&#x2F;#encryption&quot; target=&quot;_blank&quot;&gt;包括加密&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;es3-encryption-compression&#x2F;#compression&quot; target=&quot;_blank&quot;&gt;压缩&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;saving-loading-files-to-web-using-es3cloud&#x2F;&quot; target=&quot;_blank&quot;&gt;在线储存&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-playmaker&#x2F;playmaker-actions-overview&#x2F;&quot; target=&quot;_blank&quot;&gt;支持PlayMaker&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;performance&#x2F;&quot; target=&quot;_blank&quot;&gt;缓存&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;spreadsheets-and-excel&#x2F;&quot; target=&quot;_blank&quot;&gt;CSV电子表格&lt;&#x2F;a&gt;和&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-api&#x2F;es3-class&#x2F;&quot; target=&quot;_blank&quot;&gt;文件IO&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;░░░░░░░░░░░░░░░░░░░░░░░░░░░&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;兼容于&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;PC, Mac, Linux, Windows Universal, iOS, tvOS, Android, Oculus, Steam, WebGL&lt;&#x2F;p&gt;&lt;p &gt;C#、Unity Visual Scripting、PlayMaker、Bolt&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;integrating-storage-apis&#x2F;&quot; target=&quot;_blank&quot;&gt;与其他存储API&lt;&#x2F;a&gt;（如控制台或云服务）集成**。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;░░░░░░░░░░░░░░░░░░░░░░░░░░░&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;有完整的文件记录&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;es3-guides&#x2F;&quot; target=&quot;_blank&quot;&gt;指南&lt;&#x2F;a&gt;｜&lt;a href=&quot;https:&#x2F;&#x2F;moodkie.com&#x2F;forum&#x2F;viewforum.php?f=15&quot; target=&quot;_blank&quot;&gt;实例与教程&lt;&#x2F;a&gt;｜&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;es3-api&#x2F;&quot; target=&quot;_blank&quot;&gt;代码参考&lt;&#x2F;a&gt;｜&lt;a href=&quot;http:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;&quot; target=&quot;_blank&quot;&gt;入门&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;使用C#进行保存，或使用AutoSave进行无代码保存&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-api&#x2F;es3-class&#x2F;&quot; target=&quot;_blank&quot;&gt;C#参考资料&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;auto-save-saving-without-code&#x2F;&quot; target=&quot;_blank&quot;&gt;AutoSave&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;支持PlayMaker、Bolt和Unity Visual Scripting*&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;从Bolt和Unity Visual Scripting中访问Easy Save&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;es3-playmaker&#x2F;&quot; target=&quot;_blank&quot;&gt;使用PlayMaker动作进行保存和加载&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;第三方NodeCanvas和FlowCanvas集成**&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;保存几乎所有的类型&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;我们的序列化器是专门为Unity设计的&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-supported-types&#x2F;&quot; target=&quot;_blank&quot;&gt;与其他系统不同，它甚至可以序列化引用&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;快速和轻量级的序列化器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;使用专门为Unity设计的JSON序列化器&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;五星级的客户支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;moodkie.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;通过电子邮件&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;moodkie.com&#x2F;forum&#x2F;viewforum.php?f=12&quot; target=&quot;_blank&quot;&gt;专用论坛&lt;&#x2F;a&gt;和 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VuzHgDxr5c&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;加密保存数据的安全性&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;es3-encryption&#x2F;&quot; target=&quot;_blank&quot;&gt;加密保存数据&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;通过压缩来压缩文件&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;es3-compression&#x2F;&quot; target=&quot;_blank&quot;&gt;使得文件平均小85%。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;从云中保存和加载&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;saving-loading-files-to-web-using-es3cloud&#x2F;&quot; target=&quot;_blank&quot;&gt;使用PHP和MySQL上传至云数据库&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;跨平台保存系统&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;在所有支持的平台上使用保存文件和代码&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;将数据序列化到电子表格&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;spreadsheets-and-excel&#x2F;&quot; target=&quot;_blank&quot;&gt;以CSV格式为Excel所用&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;比PlayerPrefs灵活得多&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;但使用起来同样简单&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;不像PlayerPrefs，它有文件IO&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;序列化器直接将数据存储到文件中&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;es3-guides&#x2F;features&#x2F;&quot; target=&quot;_blank&quot;&gt;将字符串&#x2F;字节存储为文件&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;░░░░░░░░░░░░░░░░░░░░░░░░░░░&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;我如何使用Easy Save？&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;&quot; target=&quot;_blank&quot;&gt;见入门指南    &lt;&#x2F;a&gt;    &lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;░░░░░░░░░░░░░░░░░░░░░░░░░░░&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.moodkie.com&#x2F;contact&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;联系我们&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;es3-guides&#x2F;&quot; target=&quot;_blank&quot;&gt;指南&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;docs.moodkie.com&#x2F;product&#x2F;easy-save-3&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;moodkie.com&#x2F;forum&#x2F;viewforum.php?f=12&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VuzHgDxr5c&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; - &lt;a href=&quot;http:&#x2F;&#x2F;docs.moodkie.com&#x2F;easy-save-3&#x2F;getting-started&#x2F;&quot; target=&quot;_blank&quot;&gt;入门&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;moodkie.com&#x2F;easy-save-unity&#x2F;&quot; target=&quot;_blank&quot;&gt;首页&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;*PlayMaker, Bolt, NodeCanvas, FlowCanvas是单独购买的。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;**我们对第三方集成或API不承担责任，对它们的支持由第三方而不是我们自己提供。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Tags&lt;&#x2F;strong&gt;: &lt;em&gt;save game system, load game, serialize, serializer, playerprefs, storage, upload, download, serialization, serialisation, serialiser, JSON, serialise, autosave, auto, save file, import, export file, encryption, cloud, excel, database, playerprefs, auto save, compression, gzip, es3&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Highlight Plus - All in One Outline &amp; Selection Effects</title>
+        <published>2024-11-29T21:20:55+00:00</published>
+        <updated>2024-11-30T13:25:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/highlight-plus-all-in-one-outline-selection-effects/"/>
+        <id>https://yzzfo.github.io/unitys/highlight-plus-all-in-one-outline-selection-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/highlight-plus-all-in-one-outline-selection-effects/">&lt;p&gt;Highlight Plus adds outline, glow, overlay, see-through and other effects to objects and characters in your scene.&lt;br&gt;&lt;strong&gt;Highlight Plus&lt;&#x2F;strong&gt; 为场景中的所有对象都&lt;strong&gt;添加了轮廓、发光、 覆盖及其&lt;&#x2F;strong&gt;他特效。&lt;br&gt;&lt;br&gt;HP 在设计时考虑到了&lt;strong&gt;平台兼容性&lt;&#x2F;strong&gt;和&lt;strong&gt;性能&lt;&#x2F;strong&gt;。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kronnect.me&#x2F;unity&#x2F;highp&#x2F;demo&#x2F;&#x2F;&quot;&gt;Web 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;** 视觉特征 &lt;strong&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;- 轮廓颜色、α 和宽度&lt;br&gt;- 外部发光颜色、宽度、α、动画速度、抖动、多色彩&lt;br&gt;- 内部发光颜色、宽度和强度&lt;br&gt;- 覆盖颜色、α 和动画速度&lt;br&gt;- 透视特效强度、着色颜色和 α被遮挡的对象保持正确的深度。外加其他着色边界选项。&lt;br&gt;- 目标特效，带有可自定义的过渡、动画、纹理和颜色。也与蒙皮网格兼容。除了将目标突出，你现在还可以利用这一新功能处理任何数量的地点。&lt;br&gt;- 击中&#x2F;闪光特效，具有自定义的颜色、强度和淡出持续时间&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;strong&gt; 其他特征 &lt;strong&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;- 在编辑器中预览效果（无需进入任何模式）&lt;br&gt;- 极为灵活：可以影响单个或一组对象，或通过图层选项以自动模式运行&lt;br&gt;- 通过输入体积触发的选项&lt;br&gt;- 可排除特定的子网格&lt;br&gt;- 可精确控制自动模式的事件系统&lt;br&gt;- 淡入&#x2F;淡出&lt;br&gt;- 将设置复制到可重复使用的配置文件中&lt;br&gt;- 适用于法线、蒙皮网格及 LOD 群组&lt;br&gt;- 适用于正交和透视摄像机及多个摄像机&lt;br&gt;- 安全：不会修改对象材质、着色器或网格&lt;br&gt;- 性能：这不是完整的屏幕图像特效&lt;br&gt;- 有序透视更多详细信息，&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@KronnectGames&#x2F;ordered-see-through-effect-with-highlight-plus-b5f190e4d7a7&quot;&gt;请查看此处&lt;&#x2F;a&gt;。&lt;br&gt;- 3 个质量等级&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;strong&gt; 平台兼容性 **&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;内置&#x2F;标准管线 (Unity 2018.4+)&lt;br&gt;- 与 Mac、Windows、Android、iOS、WebGL 兼容&lt;br&gt;- 兼容 VR&lt;br&gt;- 移动端速度极快&lt;br&gt;&lt;br&gt;通用渲染管线 (Unity 2019.3+)&lt;br&gt;该资源还随附一个专用于通用渲染管线的版本。&lt;br&gt;&lt;br&gt;请注意：Highlight Plus 适用于网格（3D 或 2D）。&lt;br&gt;为实现精灵高亮，&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;particles-effects&#x2F;highlight-plus-2d-138383&quot;&gt;请使用 Highlight Plus 2D&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;15018&quot;&gt;请查看我们的其他资源。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kronnect.me&#x2F;taptapgo&quot;&gt;支持论坛&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Support package for Hovl Studio assets</title>
+        <published>2024-11-29T21:20:45+00:00</published>
+        <updated>2024-11-30T13:24:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/support-package-for-hovl-studio-assets/"/>
+        <id>https://yzzfo.github.io/unitys/support-package-for-hovl-studio-assets/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/support-package-for-hovl-studio-assets/">&lt;p&gt;这个包为Hovl Studio资产提供了URP和HDRP支持（以及未来可能的新渲染管线）。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您拥有Hovl Studio的资产，这个资产是&lt;strong&gt;免费&lt;&#x2F;strong&gt;的。&lt;&#x2F;p&gt;
+&lt;p&gt;编辑器将所有材料中仅与标准渲染管线兼容的着色器替换为自定义管线。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;编辑器仅适用于来自&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;的资产！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;b9IEqs1gqcw&quot; target=&quot;_blank&quot;&gt;使用教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;该资产还包括适用于URP（LWRP）和HDRP 2019.2+的免费扭曲着色器以及许多实用的着色器。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Basic Motions</title>
+        <published>2024-11-29T21:20:35+00:00</published>
+        <updated>2024-11-30T13:24:44+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/basic-motions/"/>
+        <id>https://yzzfo.github.io/unitys/basic-motions/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/basic-motions/">&lt;p&gt;Humanoid 3D movement, emotion and interaction animations for retargeting to other humanoid 3D characters.&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;basic-motions-pack-154271&quot;&gt;下载免费版本&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;该动画包随附在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;animations-pack-mega-bundle-162341&quot;&gt;动画包超级捆绑包&lt;&#x2F;a&gt;中。&lt;br&gt;&lt;br&gt;该资源包括人形角色运动动画、某些情绪和动作，用来重新适应其他人形 3D 角色。&lt;br&gt;&lt;br&gt;动画列表：&lt;br&gt;-空闲 01&lt;br&gt;- 空闲 02&lt;br&gt;- 空闲 01 过渡至空闲 02&lt;br&gt;- 空闲 02 过渡至空闲 01&lt;br&gt;- 跳跃（开始 - 半空 - 着陆）&lt;br&gt;- 跌倒&lt;br&gt;- 行走（8 个方向）&lt;br&gt;- 跑（8 个方向）&lt;br&gt;- 冲刺（5 个方向）&lt;br&gt;- 空闲时蹲下&lt;br&gt;- 蹲走（8 个方向）&lt;br&gt;- 游泳（10 个方向和空闲）&lt;br&gt;- 打开&lt;br&gt;- 洗劫地上的战利品&lt;br&gt;- 说话（聊天、询问、感叹）&lt;br&gt;- 拍手&lt;br&gt;- 挥手&lt;br&gt;- 欢呼&lt;br&gt;- 飞船旋转&lt;br&gt;- 旋转 180 度&lt;br&gt;- 地面前滚&lt;br&gt;- 跑步停下打滑&lt;br&gt;- 向左&#x2F;右扫射&lt;br&gt;&lt;br&gt;还随附双手合十的动画版本。&lt;br&gt;&lt;br&gt;联系支持：&lt;br&gt;&lt;strong&gt;support@keviniglesias.com&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;&quot;&gt;www.keviniglesias.com&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Character Auras</title>
+        <published>2024-11-29T21:20:26+00:00</published>
+        <updated>2024-11-30T13:24:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/character-auras/"/>
+        <id>https://yzzfo.github.io/unitys/character-auras/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/character-auras/">&lt;p&gt;15个惊人的角色光环效果！&lt;&#x2F;p&gt;
+&lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件都已准备好用于游戏，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
+&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP可以使用&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;适用于Unity 2021或更低版本的免费包。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，它与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用了来自Volume组件的后处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>2D Fantasy sprite bundle</title>
+        <published>2024-11-29T21:20:17+00:00</published>
+        <updated>2024-11-30T13:24:14+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/2d-fantasy-sprite-bundle/"/>
+        <id>https://yzzfo.github.io/unitys/2d-fantasy-sprite-bundle/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/2d-fantasy-sprite-bundle/">&lt;p&gt;创建独特的景观，使用精灵形状和手绘精灵，完美适用于像横版卷轴或平台游戏这样的2D游戏。&lt;&#x2F;p&gt;
+&lt;p&gt;2D幻想精灵包是一个包含9个资产的捆绑包，价格折扣约为50%。&lt;&#x2F;p&gt;
+&lt;p&gt;捆绑包中的资产：&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215282&quot; target=&quot;_blank&quot;&gt;岛屿精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;216237&quot; target=&quot;_blank&quot;&gt;森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215783&quot; target=&quot;_blank&quot;&gt;地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;217340&quot; target=&quot;_blank&quot;&gt;山脉精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215558&quot; target=&quot;_blank&quot;&gt;古老森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;220769&quot; target=&quot;_blank&quot;&gt;冰雪精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;230552&quot; target=&quot;_blank&quot;&gt;熔岩地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;242096&quot; target=&quot;_blank&quot;&gt;沙漠精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;223980&quot; target=&quot;_blank&quot;&gt;水下精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;32mP&quot; target=&quot;_blank&quot;&gt;春季森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;259443&quot; target=&quot;_blank&quot;&gt;水晶地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;3fCZ&quot; target=&quot;_blank&quot;&gt;废弃车站精灵包&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;此捆绑包的路线图：&lt;&#x2F;p&gt;
+&lt;p&gt;-亚洲主题,&lt;&#x2F;p&gt;&lt;p&gt;-飞行土地精灵包,&lt;&#x2F;p&gt;&lt;p&gt;-机械区域精灵包.&lt;&#x2F;p&gt;&lt;p&gt;还有更多....&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Sky Master ULTIMATE: Volumetric Skies, Clouds &amp; Weather</title>
+        <published>2024-11-29T21:20:07+00:00</published>
+        <updated>2024-11-30T13:24:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/sky-master-ultimate-volumetric-skies-clouds-weather/"/>
+        <id>https://yzzfo.github.io/unitys/sky-master-ultimate-volumetric-skies-clouds-weather/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/sky-master-ultimate-volumetric-skies-clouds-weather/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;Sky Master 是一套适用于 Unity 的动态天空、天气、体积云 - 光照、动态 GI 以及海洋解决方案。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;--- 限时五折！！！---&lt;br&gt;&lt;&#x2F;br&gt;该系统包含行业级优化的体积云、海洋系统、GI 代理，以及用于全局光照的优化 SEGI 和基于物理的天空渲染系统，且带有大气散射。&lt;br&gt;&lt;&#x2F;br&gt;Sky Manager 可提供自动或按需的日&#x2F;夜循环以及平滑的天气过渡。&lt;br&gt;&lt;&#x2F;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=18dtXhG5DWMYiNtddtrECB7zefGtb1sZM&quot; &gt;&lt;strong&gt;Sky Master ULTIMATE 功能 (PDF)&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;br&gt;Windows 演示（使用超优画质）：&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1OfuJK920JuHDnvu8mtgdt_rtbt9c7PbL&quot; &gt;&lt;strong&gt;InfiniCLOUD（经过 InfiniGRASS v2.0 创建和优化的植被）&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;0B-QCdE1dswQBUllCMFdpRFNwVE0&#x2F;view?usp=sharing&quot; &gt;&lt;strong&gt;环礁灯光散射&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;0B-QCdE1dswQBdnU5aU9BYjlza0U&#x2F;view?usp=sharing&quot; &gt;&lt;strong&gt;GI 代理体积光&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;0B-QCdE1dswQBVUhScFg0bDlwN2s&#x2F;view?usp=sharing&quot; &gt;&lt;strong&gt;飞机&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;0B-QCdE1dswQBbV9IM3pCRHIzbnc&#x2F;view?usp=sharing&quot; &gt;&lt;strong&gt;黑暗气氛动态粒子云&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;0B-QCdE1dswQBaGJtTnNJTDRBYjg&#x2F;view?usp=sharing&quot; &gt;&lt;strong&gt;落穿云层&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;br&gt;Skybox 模式提供了&lt;strong&gt;与 Unity 及其功能（IBLGI、GI、Skybox）&lt;&#x2F;strong&gt;的完整集成。&lt;br&gt;&lt;&#x2F;br&gt;先进的粒子效果，例如全局&#x2F;局部湍流和吸引器、粒子黏附-传播-扩散以及粒子间碰撞（最适合于冰&#x2F;火仿真）、龙卷风、体积雾&#x2F;烟、火山喷发和熔岩流、雨水，连环闪电，还有更多效果包括在内。&lt;br&gt;&lt;&#x2F;br&gt;根据一天中的时间和季节变化，制作壮观的天空、动态的云层和天气系统。通过全局光照代理系统，使用间接光照。&lt;br&gt;&lt;&#x2F;br&gt;该系统旨在提供逼真的天空和天气特效，具有季节和动态云，并且可根据硬件目标进行扩展。Sky Master 可以在所有平台上使用（v3.2 的大多数模块都支持移动设备*，诸如体积雾之类的某些模块仅适用于桌面设备。所有功能的移动版本都将集成到 v3.3 资源的配置器中。&lt;br&gt;&lt;&#x2F;br&gt;v3.0 海洋系统中的新功能提供了一套完整的水特效解决方案，包括海岸线、水下、多个波选项和速度调快。&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;*有关各种 Sky Master v3.0 模块在移动平台上的支持详情，以及在 Android 上进行测试的演示，请通过支持电子邮件或论坛主题与我联系。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Sky Master ULTIMATE v3.4 功能&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;新的基于渐变和曲线的着色和参数调整系统，可实现轻松、复杂地控制天空和云雾&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;随着光线散射和起雾而发生的体积云演化&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;体积光照系统，可实现任何太阳方向上的太阳光线，并进行光散射&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;新增水特效功能&lt;&#x2F;strong&gt;，包含在水着色器中嵌入雾化&lt;br&gt;- &lt;strong&gt;焦散和水下增强功能&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;增强的配置器系统，具有更高的可用性&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;适合下雨天气的彩虹系统&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;特殊音效中增加了火山&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;体积粒子云新增了飞镖选项&lt;&#x2F;strong&gt;&lt;br&gt;- 在&lt;strong&gt;地貌上支持地形包（RTP）资源积雪和雨水&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;更多风吹云的选项&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;新的天气事件系统功能，包括天气循环&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;通过玩家跟随系统支持无限种地形&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;支持 InfiniGRASS v2.0&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Sky Master v3.3 功能：&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;新月定位、消退和月相系统，以及基于纬度&#x2F;经度和 TOD 的精确太阳照射&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;新的体积云着色器&lt;&#x2F;strong&gt;，带有大气散射&lt;br&gt;- 带有动态恒星&lt;strong&gt;的新星系&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;日&#x2F;月食处理&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;完整的移动端演示&lt;&#x2F;strong&gt;场景&lt;br&gt;- &lt;strong&gt;新的河水流动着色器&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Sky Master v3.2 的新功能：&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;新的体积云成形功能&lt;&#x2F;strong&gt;，用于自定义云组成&lt;br&gt;- &lt;strong&gt;新的增强版 GI 代理演示&lt;&#x2F;strong&gt;场景和控件&lt;br&gt;- &lt;strong&gt;为实际波浪高度选项和控件提供的水下过渡&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;添加了第一版流动水效果（支持桃花心木纹理、反射、透明度，泡沫和海岸效果、镜面反射、菲涅耳控制、局部波浪以及与玩家的&lt;&#x2F;strong&gt;互动、格斯特纳波浪、优化的性能）&lt;br&gt;- &lt;strong&gt;添加了局部波浪控制&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Sky Master ULTIMATE v3.0 功能&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;进行了极端优化&lt;&#x2F;strong&gt;，所有系统协同工作（天空-海洋-体积云-着色器云）可能只需要 4 毫秒或更短的 CPU 使用时间。&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;海洋 - 水系统&lt;&#x2F;strong&gt;&lt;br&gt;- 壮观而有表现力的水体&lt;br&gt;- 水下仿真（雾、焦散线、太阳光束、从水位开始的过渡处理）&lt;br&gt;- 反射和折射&lt;br&gt;- 泡沫和海岸线&lt;br&gt;- 预设（例如海洋、河流、湖泊、环礁）&lt;br&gt;- 基于 GPU 的超快速解决方案&lt;br&gt;- -波浪高度计算和浮动物体&lt;br&gt;- 点光线支持&lt;br&gt;- 局部波浪和波纹&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;体积云&lt;&#x2F;strong&gt;&lt;br&gt;- 新的淡入&#x2F;淡出系统&lt;br&gt;- 具有逼真散射效果的新着色器&lt;br&gt;- 新的垂直成形选项&lt;br&gt;- 点光源互动，实现体积闪电&lt;br&gt;- 平滑的云运动和风仿真&lt;br&gt;- 用于相机胶卷的粒子旋转稳定系统&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;新的动态闪电系统&lt;&#x2F;strong&gt;，具有分支和发光效果&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;月相&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;基于纬度&#x2F;经度的太阳定位&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;下雪系统&lt;&#x2F;strong&gt;&lt;br&gt;- 新的雪和泥坑着色器，用于网格和 Unity 地形，支持 SM2.0-3.0&lt;br&gt;- 逐渐积雪覆盖和融化&lt;br&gt;- 与&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;jiM&quot; &gt; &lt;strong&gt;InfiniGRASS&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 资源、Unity 和 SpeedTree 树形标牌、网格的集成。&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;液体&lt;&#x2F;strong&gt;&lt;br&gt;- 新的镜头上的水滴着色器，附带折射和水滴运动&lt;br&gt;- 集成在着色器中的屏幕冻结效果&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;体积光照粒子&lt;&#x2F;strong&gt;&lt;br&gt;- 用于接收光（方向光和点光&#x2F;聚光）的粒子着色器&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;基于着色器的云穹顶，用于更高层的云的仿真&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Sky Master 编辑器 - 配置器 - 程序库&lt;&#x2F;strong&gt;&lt;br&gt;- 用于轻松创建和控制 Sky Master 系统的全局配置器&lt;br&gt;- 粒子缩放器&lt;br&gt;- 带有随时可用的天空、水和云预设的程序库&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;体积天气&lt;&#x2F;strong&gt;&lt;br&gt;- 新的体积天气模块，使用体积云和雾实现逼真的天气效果。&lt;br&gt;- 新的折射雨和飞溅&lt;br&gt;- 天气活动系统&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;新飞机 - 船只 - 环礁演示&#x2F;迷你游戏&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Sky Master ULTIMATE v2.0 功能&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;- &lt;strong&gt;体积雾&lt;&#x2F;strong&gt;作为图像效果，用于壮观的大气特效，附带精确的渐变颜色控制&lt;br&gt;- 采用预设系统&lt;strong&gt;集中控制雾气和太阳光束&lt;&#x2F;strong&gt;，以便轻松访问各种设置。&lt;br&gt;- &lt;strong&gt;Speed Tree 集成以及对 Unity&lt;&#x2F;strong&gt; 地形上种植的树木进行季节性颜色控制&lt;br&gt;- &lt;strong&gt;新的特殊效果&lt;&#x2F;strong&gt;，如连锁闪电、折射光线下的雨、冰面蔓延、 雪面覆盖&lt;br&gt;- &lt;strong&gt;自定义预制件创建场景&lt;&#x2F;strong&gt;，其中包含详细的说明，可帮助您将定制的预制件组合在一起&lt;br&gt;- &lt;strong&gt;体积云效果增强&lt;&#x2F;strong&gt;，包括用于纹理多样性的 TOD 控件和精灵图集。&lt;br&gt;- &lt;strong&gt;体积云阴影和闪电&lt;&#x2F;strong&gt;&lt;br&gt;- 带有线条渲染&lt;strong&gt;的新闪电模式&lt;&#x2F;strong&gt;，可实现额外的细节效果&lt;br&gt;- &lt;strong&gt;与 Horiz(ON) 资源集成&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;新的月亮渲染&lt;&#x2F;strong&gt;控件和预设&lt;br&gt;- 用于天空渲染、雾和云的&lt;strong&gt;新预设样本&lt;&#x2F;strong&gt;，可以直接在游戏中使用&lt;br&gt;&lt;&#x2F;br&gt;- 新功能（v1.5）- 通过新的 Skybox 模&lt;strong&gt;式与 Unity 5 及其所有功能（IBL、GI、Skybox）完全集&lt;&#x2F;strong&gt;成。&lt;br&gt;- 新功能（v1.5）- 天空着色的&lt;strong&gt;艺术动态效果&lt;&#x2F;strong&gt;（例如，高热雾微光、深褐色效果）&lt;br&gt;- 新&lt;strong&gt;功能（v1.5）- 面向性能的新着色器和资源包&lt;&#x2F;strong&gt;，以及更多可随时使用的预制件。&lt;br&gt;- 新功能（v1.5）- &lt;strong&gt;用于网格和 Unity 地形的体积散射雾着色&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;真实的天空&lt;&#x2F;strong&gt; - 基于物理的大气散射，用于逼真的天空渲染和艺术特效。&lt;br&gt;- &lt;strong&gt;真实的云&lt;&#x2F;strong&gt; - 动态的云形成，受季节和风的影响。体积粒子云和雾。&lt;br&gt;- &lt;strong&gt;真实的阳光&lt;&#x2F;strong&gt; - 动态的太阳光束，具有平滑的过渡和遮挡系统。&lt;br&gt;- &lt;strong&gt;真实的天气&lt;&#x2F;strong&gt; - 天气特效的季节性控制，且过渡平稳&lt;br&gt;- &lt;strong&gt;真实的风暴&lt;&#x2F;strong&gt; - 大风暴仿真，具有动态云面、闪电和光照效果&lt;br&gt;- &lt;strong&gt;真实的龙卷风&lt;&#x2F;strong&gt; - 动态可控的龙卷风&lt;br&gt;-&lt;strong&gt;真实的冰冻&lt;&#x2F;strong&gt; - 带有冰冻系统，用于冰面覆盖、蔓延以及对物体的附着。&lt;br&gt;- &lt;strong&gt;真实的火山 -&lt;&#x2F;strong&gt; 真实的火山喷发、烟雾和熔岩流。&lt;br&gt;- &lt;strong&gt;真实的光照&lt;&#x2F;strong&gt; - 用于间接光照的全局光照代理。&lt;br&gt;- 用于天空颜色的&lt;strong&gt; IBL 代理&lt;&#x2F;strong&gt;，基于光照。&lt;br&gt;- &lt;strong&gt;区域光源代理&lt;&#x2F;strong&gt;（带点光源），启用 GI。&lt;br&gt;- &lt;strong&gt;支持 GI 的 Jove&lt;&#x2F;strong&gt; 点光源。&lt;br&gt;&lt;&#x2F;br&gt;该框架用 C# 代码编写，并提供了源代码。&lt;strong&gt;GI 代理资源捆绑在套装中。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;视频&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lcY-E8VMXlw&amp;list=PLJQvoQM6t9Gf8C5CxuX52Srzxd7BMyk-5&quot; &gt;&lt;strong&gt;Sky Master ULTILATE v3.0 视频播放列表&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;vimeo.com&#x2F;115076371&quot;&gt;&lt;strong&gt;天空渲染&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;vimeo.com&#x2F;115099270&quot;&gt;&lt;strong&gt;体积云&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=sEWQ-Hg0pdU&quot;&gt;&lt;strong&gt;季节周期&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;vimeo.com&#x2F;115099269&quot;&gt;&lt;strong&gt;体积雾&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;vimeo.com&#x2F;121557072&quot;&gt;&lt;strong&gt;Unity 5 海洋&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;vimeo.com&#x2F;142703284&quot;&gt;&lt;strong&gt;体积粒子云床&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vimeo.com&#x2F;127542923&quot;&gt;&lt;strong&gt;Sky Master ULTIMATE v2.0 演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;0B-QCdE1dswQBWEJoQ1Y3TTQwQUU&#x2F;view?usp=sharing&quot; &gt;&lt;strong&gt;Android (v3.3) 版的移动端 APK 演示 (v3.3)&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;br&gt;如果你对新功能有任何要求，或对移动端演示有任何反馈，请访问 Unity &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;submitted-sky-master-day-cycle-weather-cloud-effects-gi-physically-based-light-scattering.280612&#x2F;&quot; &gt;&lt;strong&gt;论坛主题。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;如需支持，请通过&lt;&#x2F;strong&gt; &lt;a href=&quot;mailto:artengames@yahoo.com&quot; &gt;&lt;strong&gt;[电子邮件]&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 联系我&lt;br&gt;有关详细信息，请访问官方&lt;a href=&quot;http:&#x2F;&#x2F;www.artengame.com&quot; &gt;&lt;strong&gt;网站&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;strong&gt;如需沟通，请通过&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;nasos.tsatsos.1&quot; &gt;&lt;strong&gt;[Facebook]&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 联系我&lt;br&gt;&lt;&#x2F;br&gt;有关教程和最新信息，请访问 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;30-discount-skymaster-sky-ocean-volume-clouds-shadow-light-weather-gi-speed-mobile.280612&#x2F;&quot; &gt;&lt;strong&gt;Sky Master 论坛。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;X6fX6J5&quot;&gt;&lt;strong&gt;ARTnGame Discord 频道&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?list=PLJQvoQM6t9Ge2ehO4N1kNq3jvHmVst_el&amp;v=EveE2IcXGeI&quot; &gt;&lt;strong&gt;教程视频&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;fyCL5b7.jpg&quot;&gt;&lt;strong&gt;ARTnGame 资源升级指南&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;BR&gt;&lt;&#x2F;BR&gt;在 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;new-offers-skymaster-sky-ocean-volume-clouds-shadow-light-weather-gi-speed-mobile.280612&#x2F;page-46#post-5669140&quot;&gt;&lt;strong&gt;Sky Master Unity 论坛版块&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;中，所有通过私聊要求的用户均可使用第一个 Beta 版的 URP 和 HDRP 完整系统重制版。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>EnhancedScroller</title>
+        <published>2024-11-29T21:19:57+00:00</published>
+        <updated>2024-11-30T13:23:57+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/enhancedscroller/"/>
+        <id>https://yzzfo.github.io/unitys/enhancedscroller/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/enhancedscroller/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;EnhancedScroller&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;support9569.wixsite.com&#x2F;echo17&#x2F;enhancedscroller&quot;&gt;网站&#x2F;文档&#x2F;教程&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;echo17.itch.io&#x2F;enhancedscroller-demo&quot;&gt;演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;想用快速和便于移动设备的方法来展示大量数据吗？&lt;br&gt;&lt;br&gt;EnhancedScroller 将你的数据虚拟化，只显示出所需元素。将数以千计的行数带到几个 UI 元素中来显示，加速处理并节省内存。对象不会被破坏，因此你的平台不需对垃圾进行收集。最好的是，它能在 Unity 内置 UI 系统组件上使用。&lt;br&gt;&lt;br&gt;列表是数据驱动和动态创建的，因此在设计时不必设置它们。滚动器不需意识到数据或或视图展示，只需专注于管理你的列表来实现真正的 MVC 体验。可选的循环允许你显示无限的数据列表。每个单元都能拥有自己的尺寸或都使用一个尺寸。可选的对齐功能让你将单元锁定到特定位置。补间功能简化了跳跃和对齐的过渡，带来平滑的用户体验。&lt;br&gt;&lt;br&gt;功能：&lt;br&gt;&lt;br&gt;* 动态、数据驱动列表&lt;br&gt;* MVC 框架，来保持必要的分离&lt;br&gt;* 高效回收列表项目&lt;br&gt;* 可选的无限循环&lt;br&gt;* 支持多列表项目大小或全局大小&lt;br&gt;* 列表项目完全可自定义来满足你的项目需求&lt;br&gt;* 可选的对齐功能来锁定你的滚动器&lt;br&gt;* 补间功能来简化跳跃和对齐&lt;br&gt;* 演示、教程和 完整 C# 代码都包含在内。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Semantic Color Palette</title>
+        <published>2024-11-29T21:19:48+00:00</published>
+        <updated>2024-11-30T13:23:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/semantic-color-palette/"/>
+        <id>https://yzzfo.github.io/unitys/semantic-color-palette/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/semantic-color-palette/">&lt;p&gt;一个用于Unity的语义颜色管理系统：以有意义的调色板组织您的颜色，并将其分配给各种“可着色”组件。再也不需要在多个地方更新颜色值了！&lt;&#x2F;p&gt;
+&lt;p&gt;该软件包提供了一个&lt;strong&gt;语义颜色管理系统&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;用于Unity。&lt;&#x2F;p&gt;
+&lt;p&gt;了解该系统运行的最佳方式是&lt;a href=&quot;https:&#x2F;&#x2F;www.binarycharm.com&#x2F;tech&#x2F;unity-semantic-color-palette&#x2F;demo&#x2F;&quot; target=&quot;_blank&quot;&gt;尝试在线演示&lt;&#x2F;a&gt;，但视频也同样有效！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;那么，什么是语义颜色管理？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;基本上，您为颜色定义一组&lt;strong&gt;有意义的标识符&lt;&#x2F;strong&gt;，表示&lt;em&gt;颜色的使用位置&#x2F;方式&lt;&#x2F;em&gt;（例如“buttonBackground”），而&lt;em&gt;不是颜色本身&lt;&#x2F;em&gt;（例如“darkBrown”）。&lt;&#x2F;p&gt;
+&lt;p&gt;然后，在其他地方，您&lt;strong&gt;映射&lt;&#x2F;strong&gt;每个标识符到一个实际的颜色值。&lt;&#x2F;p&gt;
+&lt;p&gt;颜色应用的元素从不直接引用实际的特定颜色，而只是引用&lt;em&gt;语义颜色标识符&lt;&#x2F;em&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;这种&lt;strong&gt;解耦&lt;&#x2F;strong&gt;允许以&lt;strong&gt;集中&lt;&#x2F;strong&gt;的方式快速而无缝地更改多个元素的颜色，并通过应用不同的&lt;em&gt;标识符 -&amp;gt; 颜色&lt;&#x2F;em&gt;映射轻松实现某种形式的“颜色皮肤化”。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;这个系统在实践中是如何工作的？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;有三个核心元素共同协作以实现其设计目标：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;调色板&lt;&#x2F;strong&gt;：一组命名的 &lt;em&gt;id -&amp;gt; 颜色&lt;&#x2F;em&gt; 映射。它是一个 &lt;em&gt;&quot;数据&quot;&lt;&#x2F;em&gt; 元素，通常是持久的。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;调色板提供者&lt;&#x2F;strong&gt;：一个活跃的元素，存在于 Unity 场景中，充当 &lt;em&gt;调色板&lt;&#x2F;em&gt; 和 &lt;em&gt;着色器&lt;&#x2F;em&gt; 之间的 &lt;em&gt;中介&lt;&#x2F;em&gt;，将颜色更新推送到任何相关的着色器。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;着色器&lt;&#x2F;strong&gt;：一个活跃的元素，包含将 &lt;em&gt;一种或多种颜色应用&lt;&#x2F;em&gt; 到场景组件（UI 元素、3D 模型材质等）的逻辑。着色器必须与 &lt;em&gt;调色板提供者&lt;&#x2F;em&gt; &lt;em&gt;连接&lt;&#x2F;em&gt;，从中检索其配置中指定的颜色标识符的颜色。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;提供了可用于 Unity 组件的现成 &lt;em&gt;着色器&lt;&#x2F;em&gt;，使用颜色属性（UI 元素、材质等）。也就是说，程序员可以轻松 &lt;strong&gt;扩展&lt;&#x2F;strong&gt; 系统，添加自定义的着色器（和提供者）。&lt;&#x2F;p&gt;
+&lt;p &gt;您可以通过一种新的、更合理的方式在 Unity 中设置颜色来 &lt;strong&gt;改善您的工作流程&lt;&#x2F;strong&gt;，实现 &lt;strong&gt;低摩擦&lt;&#x2F;strong&gt; 和 &lt;strong&gt;不妥协&lt;&#x2F;strong&gt; 的项目组织。&lt;&#x2F;p&gt;
+&lt;p &gt;如果您愿意，可以通过 &lt;strong&gt;检查器&lt;&#x2F;strong&gt; 完成任何操作，但如果您更喜欢，也可以仅通过 &lt;strong&gt;代码&lt;&#x2F;strong&gt; 使用该系统。&lt;&#x2F;p&gt;
+&lt;p &gt;调色板可以从常用的第三方格式 &lt;strong&gt;导入&lt;&#x2F;strong&gt; 并在检查器中编辑，在更高级的场景中，可以在 &lt;strong&gt;运行时&lt;&#x2F;strong&gt; 从外部文件加载。&lt;&#x2F;p&gt;
+&lt;p &gt;资产内容的布局便于打包，以便在 &lt;strong&gt;包管理器&lt;&#x2F;strong&gt; 中使用，如果您希望从多个项目轻松导入（可能包括您自己的自定义）的话。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Editor</title>
+        <published>2024-11-29T21:19:38+00:00</published>
+        <updated>2024-11-30T13:23:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/runtime-editor/"/>
+        <id>https://yzzfo.github.io/unitys/runtime-editor/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/runtime-editor/">&lt;p&gt;Runtime Editor is a set of scripts and prefabs that help you create scene editor, game level editor, or your own modeling application&lt;br&gt;&lt;strong&gt;运行时编辑器&lt;&#x2F;strong&gt;是一套脚本和预制件，可帮助你创建场景编辑器、关卡编辑器，或者构建你自己的建模应用程序。它支持拖放、撤消和重新，以及选择 api。为了实现用户界面和核心功能，运行时编辑器使用&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-transform-handles-65363&quot;&gt;了变换句柄&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;gizmos-77103&quot;&gt;小工具&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-save-load-72578&quot;&gt;存档加载&lt;&#x2F;a&gt;子系统和三个控件：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;menu-control-138619&quot;&gt;菜单&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;virtualizing-tree-view-101871&quot;&gt;虚拟化树状视图&lt;&#x2F;a&gt;，以及&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;dock-panel-138621&quot;&gt;程序坞面板。&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;rteditor.battlehub.net&#x2F;&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;runtime-editor.470084&#x2F;&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&#x2F;&gt;♥ 定位、旋转、伸缩变形句柄；&lt;br&#x2F;&gt;♥ 网格、盒形选择、场景小工具；&lt;br&#x2F;&gt;♥ 变形句柄移动版和 AR 核心支持；&lt;br&#x2F;&gt;♥ 全局和局部坐标；&lt;br&#x2F;&gt;♥ 局部和中央轴心点模式；&lt;br&#x2F;&gt;♥ 顶点和网格捕捉；&lt;br&#x2F;&gt;♥ 碰撞器、光线和音源小工具；&lt;br&#x2F;&gt;♥ 场景导航、正交和透视视图；&lt;br&#x2F;&gt;♥ 撤消和重做 API；&lt;br&#x2F;&gt;♥ 对象选择 API；&lt;br&#x2F;&gt;♥ 对象生命周期事件；&lt;br&#x2F;&gt;♥ 游戏和编辑模式；&lt;br&#x2F;&gt;♥ 可配置的检视器；&lt;br&#x2F;&gt;♥ 组件和材料编辑器；&lt;br&#x2F;&gt;♥ 16 种内置的属性编辑器；&lt;br&#x2F;&gt;♥ 增加组件控制；&lt;br&#x2F;&gt;♥ 多个场景和镜头支持；&lt;br&#x2F;&gt;♥ 停靠面板和窗口管理；&lt;br&#x2F;&gt;♥ 对话、消息框和确认；&lt;br&#x2F;&gt;♥ 轻松使用新窗口进行扩展；&lt;br&#x2F;&gt;♥ 可配置的主菜单和上下文菜单；&lt;br&#x2F;&gt;♥ 快速虚拟化树状视图；&lt;br&#x2F;&gt;♥ 可配置的保存和加载子系统；&lt;br&#x2F;&gt;♥ 易于使用的项目 API；&lt;br&#x2F;&gt;♥ 静态和动态资源支持；&lt;br&#x2F;&gt;♥ 资源捆绑包支持；&lt;br&#x2F;&gt;♥ 多项目支持；&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;strong&gt;Telegram: https:&#x2F;&#x2F;t.me&#x2F;battlehub&lt;&#x2F;strong&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Flat Kit: Toon Shading and Water</title>
+        <published>2024-11-29T21:19:28+00:00</published>
+        <updated>2024-11-30T13:23:10+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/flat-kit-toon-shading-and-water/"/>
+        <id>https://yzzfo.github.io/unitys/flat-kit-toon-shading-and-water/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/flat-kit-toon-shading-and-water/">&lt;p&gt;Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.&lt;br&gt;&lt;strong&gt;Flat Kit&lt;&#x2F;strong&gt; 是一款可实现风格化卡通渲染的整套工具：着色器、模型、图像特效、预设、示例。&lt;br&gt;&lt;strong&gt;自定义着色模型&lt;&#x2F;strong&gt;功能多样，可用于经典卡通着色，也可用于风格独特的实验性项目。&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;Sc838YuWPhA&quot;&gt;&lt;strong&gt;演示视频&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;&lt;strong&gt;在线用户手册&lt;&#x2F;strong&gt;（请留下评论！）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 功能丰富的&lt;strong&gt;抛光卡通着色&lt;&#x2F;strong&gt;（见下文）&lt;br&gt;• ​​​&lt;strong&gt;渐变雾&lt;&#x2F;strong&gt;：多层水平&#x2F;垂直渐变雾图像效果&lt;br&gt;• ​​适用于 Unity 或第三方地形的​&lt;strong&gt;地形着色器&lt;&#x2F;strong&gt;&lt;br&gt;• 3D 亮点和上帝之光&lt;strong&gt;光平面着色器&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;strong&gt;移动端支持&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;内置和 URP&lt;&#x2F;strong&gt; - 所有对象着色器和后处理效果支持两种渲染管线。&lt;br&gt;&lt;br&gt;• &lt;&#x2F;strong&gt;支持顶点颜色&lt;&#x2F;strong&gt;（仅限内置 RP），也适用于 Polybrush&lt;br&gt;•Unity 内置阴影的控制能力&lt;br&gt;• 支持间接光照&lt;br&gt;• 直观、简洁和流畅的界面 - 仅使用您需要的功能&lt;br&gt;• 精确地为场景着色 - 无需臆测&lt;br&gt;• 完整源代码&lt;br&gt;• 详尽的在线手册&lt;br&gt;&lt;br&gt;&lt;strong&gt;Core Cel &lt;&#x2F;strong&gt;着色器概述：&lt;br&gt;• 带有参数绑定功能的卡通着色：&lt;strong&gt;单步、跃变、曲线&lt;&#x2F;strong&gt;&lt;br&gt;• 两个独立的卡通层&lt;br&gt;• 高度渐变层&lt;br&gt;• 几种&lt;strong&gt;轮廓线&lt;&#x2F;strong&gt;工具&lt;br&gt;• 法线和卡通着色之间的参数混合&lt;br&gt;• 风格化的&lt;strong&gt;镜面和边缘光照&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;法线贴图&lt;&#x2F;strong&gt;&lt;br&gt;• 可在 .cginc 文件中&lt;strong&gt;重复使用自定义光照&lt;&#x2F;strong&gt;，您可以将其集成到着色器中（非必须）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;该资源包包括&lt;&#x2F;strong&gt;：&lt;br&gt;• 3 种 uber 着色器，带有大量切换键和参数&lt;br&gt;• 自定义卡通着色光照库&lt;br&gt;• 2 种后处理效果：雾和轮廓线&lt;br&gt;• 8 个演示场景&lt;br&gt;• 90+ 个模型&lt;br&gt;• 20+ 种材质预设&lt;br&gt;&lt;br&gt;如有疑问，请告诉我们！&lt;br&gt;&lt;a href=&quot;mailto:info@dustyroom.com&quot;&gt;info@dustyroom.com&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_dstrm&quot;&gt;@_dstrm&lt;&#x2F;a&gt; | 可在&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;在线用户指南&lt;&#x2F;a&gt;上评论&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-11-30T13:23:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/mesh-effects/"/>
+        <id>https://yzzfo.github.io/unitys/mesh-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/mesh-effects/">&lt;p&gt;&lt;br&gt;此软件包包含 21 种网格特效。&lt;br&gt;&lt;br&gt;注意：在升级之前，必须删除旧版的软件包。&lt;br&gt;&lt;br&gt;若要使用 URP 和 HDRP，需要导入项目文件夹中包含的补丁。从 Unity 2019.2.19f 起可使用 URP 和 HDRP 渲染&lt;br&gt;&lt;br&gt;支持 PC&#x2F;游戏主机&#x2F;移动设备&#x2F;VR。&lt;br&gt;不兼容 2D 精灵&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot;&gt;PC 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot;&gt;移动版演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;- 开箱即用（只需拖放即可）&lt;br&gt;- 单击获得任何颜色&lt;br&gt;- 特效根据真正的网格尺寸进行缩放&lt;br&gt;- 兼容“网格渲染器”和“蒙皮网格渲染器”&lt;br&gt;- 随附演示场景（带动画&#x2F;角色&#x2F;武器&#x2F;环境）&lt;br&gt;重要事项！Unity3d 不支持每个子网格超过 1 个材质。要正常工作，需要分拆子网格。&lt;br&gt;&lt;br&gt;如果有任何疑问或建议，请给我发送&lt;a href=&quot;mailto:kripto289@gmail.com&quot;&gt;电子邮件&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Image Warp</title>
+        <published>2024-11-29T21:19:09+00:00</published>
+        <updated>2024-11-30T13:22:50+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/image-warp/"/>
+        <id>https://yzzfo.github.io/unitys/image-warp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/image-warp/">&lt;p&gt;&lt;strong&gt;什么是图像扭曲（Image Warp）?&lt;&#x2F;strong&gt;
+一组扩展默认UI图像组件和3D场景纹理渲染器的工具，允许您轻松操作图像网格。&lt;&#x2F;p&gt;
+&lt;p&gt;随心所欲地扭曲、变形和裁剪您的图像！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;** 特性 **&lt;&#x2F;strong&gt;
+与Unity动画系统兼容。
+轻松创建酷炫的动画纹理！&lt;&#x2F;p&gt;
+&lt;p&gt;支持视频！&lt;&#x2F;p&gt;
+&lt;p&gt;通过直观易用的控件直接在编辑器中操作图像。就像在Unity编辑器中使用Photoshop一样！&lt;&#x2F;p&gt;
+&lt;p&gt;为您的图像边缘添加贝塞尔曲线！&lt;&#x2F;p&gt;
+&lt;p&gt;使用便捷的菜单项轻松将现有的UI图像组件转换为扭曲组件。&lt;&#x2F;p&gt;
+&lt;p&gt;自定义网格细分的数量，以实现完美的质量&#x2F;顶点数平衡。&lt;&#x2F;p&gt;
+&lt;p&gt;超级简单的脚本调用允许在运行时操作图像角的位置。&lt;&#x2F;p&gt;
+&lt;p&gt;使用起来超级简单直观。它就是这么好用！&lt;&#x2F;p&gt;
+&lt;p&gt;完整的源代码包含在内。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Stylized VFX</title>
+        <published>2024-11-29T21:18:59+00:00</published>
+        <updated>2024-11-30T13:22:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/stylized-vfx/"/>
+        <id>https://yzzfo.github.io/unitys/stylized-vfx/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/stylized-vfx/">&lt;p&gt;这款令人惊叹的风格化特效受到了《塞尔达传说：荒野之息》和《原神》等游戏的启发！&lt;&#x2F;p&gt;
+&lt;p&gt;这套风格化特效包可以完全根据您的项目需求进行轻松自定义。&lt;&#x2F;p&gt;
+&lt;p&gt;这款风格化特效包还附带音效！您可以随意使用这些声音。&lt;&#x2F;p&gt;
+&lt;p&gt;包含超过40个特效！（包括变体）&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Advanced Dissolve</title>
+        <published>2024-11-29T21:18:50+00:00</published>
+        <updated>2024-11-30T13:22:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/advanced-dissolve/"/>
+        <id>https://yzzfo.github.io/unitys/advanced-dissolve/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/advanced-dissolve/">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;uc?id=1hsGfPDShIEK250AHw1PN92ULydolIYQh&amp;export=download&quot;&gt;&lt;STRONG&gt;试试 PC 演示吧&lt;&#x2F;STRONG&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;核心功能：&lt;br&gt;• 使用动态蒙版对象进行溶解：球体、箱体、圆柱体、圆锥体、平面、每轴 (X,Y,Z)。可同时使用 4 个对象。&lt;br&gt;• 多个纹理混合，用于 alpha 切口和边缘杂色控制。&lt;br&gt;• UV、三维和屏幕空间可溶解投影。&lt;br&gt;• 各种边缘颜色控制器，包括简单的颜色、渐变和渐变纹理。&lt;br&gt;• 实线、光滑和噪点边缘。&lt;br&gt;• 颜色自发光对于全局光照系统可见。&lt;br&gt;•与 Unity 后期处理和图像特效完全兼容。&lt;br&gt;• 包括标准的、基于物理的、旧版的、单方向光、VertexLit、无光照、粒子、Unity Nature、SpeedTree 和 TextMesh Pro 着色器。&lt;br&gt;• 支持的渲染管道：&lt;STRONG&gt;标准&lt;&#x2F;STRONG&gt;、&lt;STRONG&gt;轻量级&lt;&#x2F;STRONG&gt;和&lt;STRONG&gt;通用&lt;&#x2F;STRONG&gt;。&lt;br&gt;• 包括用于将高级溶解特效集成到 ShaderGraph 创建的着色器中的实验工具。&lt;br&gt;&lt;br&gt;着色器与 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;awm&quot;&gt;&lt;STRONG&gt;Curved World&lt;&#x2F;STRONG&gt;&lt;&#x2F;a&gt; 兼容。&lt;br&gt;&lt;br&gt;&lt;br&gt;是否有问题？&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;advanced-dissolve.517354&#x2F;&quot;&gt;&lt;STRONG&gt;论坛&lt;&#x2F;STRONG&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Rewired</title>
+        <published>2024-11-29T21:18:40+00:00</published>
+        <updated>2024-11-30T13:22:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/rewired/"/>
+        <id>https://yzzfo.github.io/unitys/rewired/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/rewired/">&lt;p&gt;Rewired is a popular input system for Unity used by thousands of game studios, from indie to AAA. Add battle-tested cross-platform input to your game. Rewired is input that works.&lt;br&gt;&lt;p &gt;&lt;strong&gt;重新佈線是一個先進的輸入系統，完全重新定義您如何使用輸入，為您的遊戲中最重要的組件之一提供前所未有的控制級別。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;rewired&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; 網站 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; 文檔 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;rewired-advanced-input-for-unity.270693&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; 論壇主題 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;rewired&#x2F;trial&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; 免費試用 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;原生輸入&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;重新連線不像其他軟件包那樣是另一個Unity輸入包裝。 Rewired支持Unity支持的多種平台，並支持在Windows，OSX，Linux，Windows 10 Universal，WebGL，Xbox One，Xbox Series S&#x2F;X, PS4，PS5，Nintendo Switch 上的擴展原生支持。重新佈線利用本機庫直接訪問輸入設備，可以更好地控制輸入。這使得一些非常強大的功能成為可能，例如對遊戲桿的全面熱插拔支持，每個控制器支持20多個按鈕，支持遊戲板震動等等。 Rewired是唯一可用於Unity的輸入系統，並且支持所有這些平台，並提供這些高級功能。對於其他平台，Rewired使用Unity的輸入系統，因此您仍然可以訪問其提供的所有其他功能。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;的播放器為中心的結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Rewired具有以玩家為中心的輸入系統，使其成為多玩家遊戲的理想解決方案。控制器智能地自動分配給連接&#x2F;斷開連接的玩家，所以您不必擔心每個玩家擁有哪些控制器。通過玩家而不是控制器訪問輸入，所以無論玩家使用哪種控制器，您都可以獲得期望的結果。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;控制器地圖&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;重新連線功能強大的控制器映射系統，可讓您為任何風格的遊戲創建高度複雜的輸入方案。通過邏輯命名的元素映射支持的控制器，而不是隱藏的軸0等。地圖堆棧，因此您可以為不同的遊戲模式創建不同的地圖並輕鬆地在它們之間切換。為各種控制器創建默認控制器佈局，並允許玩家自定義他們自己的映射。通過XML保存和加載地圖。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;智能熱插拔&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Rewired解決了在Windows，OSX，Linux，Windows 10 Universal，WebGL，Xbox One，Xbox Series S&#x2F;X, PS4，PS5，Switch和Stadia上Unity的所有熱插拔問題。 （所有其他支持的平台都依賴於Unity的熱插拔支持。）不再強迫玩家在轉換遊戲桿時退出並重新啟動。沒有更多的猜測哪個控制器是哪個。它只是工作。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;輸入編輯器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;編輯一個功能強大且易於使用的編輯器的所有輸入。沒有編碼只是為了添加像某些系統一樣的操作。通過一個方便的界面編輯玩家，動作和地圖類別，備用地圖佈局，遊戲桿，鍵盤，鼠標和自定義控制器地圖，輸入行為等等。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;跨平台&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;重新佈線需要跨平台輸入的麻煩。支持的控制器已在Windows，Windows 10 Universal，OSX，Linux，iOS，tvOS，Android，Amazon Fire TV和Webplayers上進行了一致性映射。 Rewired還支持PlayStation 4，Xbox One，Xbox Series S&#x2F;X, Switch，Stadia，PSM，WebGL，NVidia Shield和其他基於Android的控制台。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;支持的控制器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Rewired通過用戶映射支持幾乎任何USB或藍牙控制器，並為&lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;各種常用控制器隨著更多的時間增加。支持的控制器完全可以通過元素名稱進行映射，並具有標準化的軸方向。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;控制映射器 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Rewired包含一個完整的，響應式的跨平台運行時控制重映射系統。只需將其添加到您的項目並對其進行配置，並且您的玩家可以在遊戲過程中重新映射所有控件！內置主題和語言系統，高度可配置。包括自動或自定義的保存和加載用戶數據。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;搜索結果&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;觸摸控制 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Rewired配備了一組適用於移動平台且使用Unity UI構建的可定制屏幕觸控。使用隨附的遊戲桿，按鈕，觸控板，傾斜控制等，直接在您的遊戲中或根據您的需求進行定制。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;undefined&lt;&#x2F;a&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;更多功能 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•通過輪詢或使用輸入事件獲取輸入&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•自定義控制器允許使用任何源來驅動控制器的元素值（用於屏幕上的觸摸控制器等）。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•在Windows，OSX和Linux上支持每個控制器128+按鈕和32+軸&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•支持遊戲手柄振動和DualShock 4觸摸板，指示燈和陀螺儀等特殊控制器功能&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•為每個玩家分配多個控制器。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•在玩家之間共享控制器（如鍵盤），並為每個玩家分配地圖。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•按類別啟用和禁用地圖，以在具有不同控件的遊戲模式之間切換。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•使用命名控制器元素創建用戶控制器重新映射屏幕，從列表中選擇一個命名控制器，等等。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•控制器元素分配衝突檢查功能&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•控制器模板可以快速方便地為類似控制器定義地圖。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•輸入行為允許您創建共享類似屬性的操作，而不必重複信息。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•雙擊&#x2F;自定義時間點擊支持。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•鍵盤修改器支持多達3個同時修飾鍵。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•軸校準（最小，最大，零，死區）&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•遊戲過程中每幀分配的零內存字節數意味著無垃圾收集開銷。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;•與Asset Store中的許多其他軟件包一起使用，包括：&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• UFPS: Ultimate First Person Shooter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• UFPS&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• PlayMaker&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Behavior Designer&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Bolt&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Cinemachine&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Third Person Controller&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Dialogue System&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Corgi Engine&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Realistic FPS Prefab&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Inventory Pro&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Motion Controller&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• ORK Framework&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Quest System Pro&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Realistic Tank Controller&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Deftly&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Universal Fighting Engine&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• UFE2&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Racing Game Starter Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• iRDS&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• GAC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Rex Engine&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• uSim&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• uPlatformer&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Quest Machine&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Rucksack - Multiplayer Inventory System&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Space Combat Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• Ultimate Character Controller&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• First Person Controller&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• UTPS: Ultimate Third Person Shooter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• UFPM: Ultimate First Person Melee&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• UTPM: Ultimate Third Person Melee&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;點擊&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;• 這麼多！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;點擊&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;projects&#x2F;rewired&#x2F;docs&#x2F;SupportedControllers.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;a href=&quot;http:&#x2F;&#x2F;guavaman.com&#x2F;rewired&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; 請參閱重新鏈接網站以獲取更多信息 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;點擊&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>OneJS</title>
+        <published>2024-11-29T21:18:31+00:00</published>
+        <updated>2024-11-30T13:22:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/onejs/"/>
+        <id>https://yzzfo.github.io/unitys/onejs/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/onejs/">&lt;p&gt;OneJS将JavaScript和许多受欢迎的网页技术带入Unity，无需浏览器或Web视图即可与UI Toolkit无缝集成。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;onejs.com&#x2F;&quot; target=&quot;_blank&quot;&gt;访问onejs.com以获取文档和教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;dwnYFte6SF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Youtube&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Twitter&#x2F;X&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;(建议熟悉React和Typescript)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;OneJS将React风格的工作流程的强大功能带入Unity UI开发。它为Preact提供了一个轻量级的DOM层，与UI Toolkit无缝集成，以实现高性能。利用您已经熟悉和喜爱的Typescript、JSX、Tailwind以及许多其他网页技术——所有这些都可以在Unity中原生运行。&lt;&#x2F;p&gt;
+&lt;p &gt;通过V2，OneJS现在通过Puerts实现了高达100倍的性能提升。新的ESBuild工作流程简化了部署并支持npm包。&lt;&#x2F;p&gt;
+&lt;p &gt;除了UI，OneJS还使得实现mod系统变得简单。赋予您的玩家使用TypeScript、JSX和USS创建游戏附加组件和mod的能力。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>UI Node Connect 4</title>
+        <published>2024-11-29T21:18:21+00:00</published>
+        <updated>2024-11-30T13:21:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/ui-node-connect-4/"/>
+        <id>https://yzzfo.github.io/unitys/ui-node-connect-4/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/ui-node-connect-4/">&lt;p&gt;UI Node Connect 4 是一个可定制的运行时 UGUI 节点图框架，便于在您的游戏或应用程序中创建交互式节点图界面。&lt;&#x2F;p&gt;
+&lt;p&gt;UI Node Connect 4 是一个 &lt;strong&gt;运行时 UGUI 节点图框架&lt;&#x2F;strong&gt;，具有节点、端口和连接、拖放、自定义 UI 线渲染器以及创建节点图、流程图、电路板、连接谜题等多种创意方式的实用功能，供用户与您的游戏或应用程序进行交互。&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#128218;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#128218;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;代码参考&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#127918;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;danielcmcg.itch.io&#x2F;logic-gates&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;逻辑门示例场景&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;使用您自己的精灵、文本、颜色、按钮自定义资产&lt;&#x2F;strong&gt;，并通过使用 API 添加新功能来 &lt;strong&gt;连接事件&lt;&#x2F;strong&gt; 并分析 &lt;strong&gt;节点、端口和连接&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;通过为用户添加新的交互方式，使画布成为您游戏的一部分，以便用户操纵和连接节点。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Save Game Pro - Gold Update</title>
+        <published>2024-11-29T21:18:11+00:00</published>
+        <updated>2024-11-30T13:20:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/save-game-pro-gold-update/"/>
+        <id>https://yzzfo.github.io/unitys/save-game-pro-gold-update/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/save-game-pro-gold-update/">&lt;p&gt;Save Game Pro 是一个完整、强大且功能丰富的 Unity（游戏引擎）存档解决方案，允许您在任何地方保存所有内容。&lt;&#x2F;p&gt;
+&lt;p&gt;我们&lt;strong&gt;建议&lt;&#x2F;strong&gt;新用户使用&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;108890&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Bayat - 保存系统&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;，因为 Save Game Pro 将进入维护模式，这意味着它只会接收错误修复和补丁，因此您可以根据此信息开始您的新项目，或者将现有游戏数据迁移到新系统。&lt;&#x2F;p&gt;
+&lt;p&gt;需要注意的是，Save Game Pro 不会被弃用，它只会接收补丁和错误修复，不会有新功能。&lt;&#x2F;p&gt;&lt;p&gt;------&lt;&#x2F;p&gt;&lt;p&gt;Save Game Pro 是一个完整、强大且功能丰富的 Unity（游戏引擎）存档解决方案，允许您保存所有内容，例如组件、数据类型、游戏对象，包括自定义数据类型，保存位置包括 Web &amp;amp; Cloud、本地存储、PlayerPrefs、数据库。&lt;&#x2F;p&gt;&lt;p&gt;Save Game Pro 具有优雅且完整的 API，用于控制保存的数据，例如，通过使用 API，您可以检查数据是否存在，或者检索保存的文件列表并将其显示给用户。&lt;&#x2F;p&gt;&lt;p&gt;与 Unity 2017.x 及更高版本兼容，您也可以使其与旧版本的 Unity 一起使用，只需在导入包之前忽略警告即可。&lt;&#x2F;p&gt;&lt;p&gt;在以下 Unity 版本上进行了测试：&lt;&#x2F;p&gt;
+&lt;p&gt;- 2018.2, 2018.1, 2017.4, 2017.3, 2017.2, 2017.1, 5.6&lt;&#x2F;p&gt;
+&lt;p&gt;但它也与旧版本和新版本良好兼容，因此如果您在导入包时遇到任何问题，请随时与我们联系。&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;资源&lt;&#x2F;strong&gt; ✔️&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;☀️ &lt;a href=&quot;http:&#x2F;&#x2F;docs.bayat.io&#x2F;savegamepro&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;Support&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持与新闻&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;save-game-pro-gold-update.502905&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;论坛帖子&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;trello.com&#x2F;c&#x2F;SgYpFsfd&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;路线图&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;功能&lt;&#x2F;strong&gt; ✔️&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;☀️ &lt;strong&gt;优雅的API&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;支持200+种类型&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;完整示例&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;通用设置&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;#!&#x2F;content&#x2F;368?aid=1101l3ncK&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PlayMaker&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;跨平台&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;网页与云&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;docs.microsoft.com&#x2F;en-us&#x2F;windows&#x2F;uwp&#x2F;xbox-live&#x2F;storage-platform&#x2F;connected-storage&#x2F;connected-storage-overview&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Xbox 连接存储&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;firebase.google.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Firebase&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;playfab.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PlayFab&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;自定义类型（类型创建器）&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;自定义类型序列化&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;strong&gt;JSON和二进制序列化&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Advanced_Encryption_Standard&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;AES加密&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☀️ &lt;strong&gt;支持200+种类型&lt;&#x2F;strong&gt;：Save Game Pro支持内置的200多种类型，您可以手动添加自己的额外类型或使用类型创建器。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;*️ &lt;strong&gt;几乎所有组件&lt;&#x2F;strong&gt;，例如 BoxCollider、Rigidbody、MeshRenderer、Camera、Transform。&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;GameObject&lt;&#x2F;strong&gt;，整个 GameObject 将被保存，这意味着所有组件包括所有子对象。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;免责声明&lt;&#x2F;strong&gt;，GameObject 的保存和加载功能正在积极开发中，以支持保存复杂对象和层次结构，因此在此之前，我们不建议您使用 GameObject 的保存和加载功能来保存复杂对象，仅限于简单对象。此外，在所有情况下使用数据结构是更好的实践。&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;带层次结构的 Transform&lt;&#x2F;strong&gt;，这意味着变换是按其根父对象保存的，并将以这种方式加载。&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;基本类型&lt;&#x2F;strong&gt;，例如 Integer、String、Boolean 等。&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;集合&lt;&#x2F;strong&gt;，几乎所有集合都支持，例如 Dictionary、List、LinkedList、多维数组（没有限制）、Stack、Queue、HashSet 等。&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;数据类型&lt;&#x2F;strong&gt;，几乎所有数据类型，例如 Vector3、Vector2、Vector4、Mesh 等。&lt;&#x2F;p&gt;
+&lt;p&gt;☀️ &lt;strong&gt;完整示例&lt;&#x2F;strong&gt;：包含完整示例集，帮助您更轻松、更快速地入门。此外，每个集成都附带自己的示例。&lt;&#x2F;p&gt;
+&lt;p&gt;*️ &lt;strong&gt;云保存&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;自定义路径保存&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;列出已保存文件&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存集合&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存自定义数据&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存游戏对象&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存运行时生成的对象&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存简单数据&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存槽&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存 Texture2D&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;保存 Transform&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☀️ &lt;strong&gt;常规设置&lt;&#x2F;strong&gt;：在面板中配置、修改和应用 Save Game Pro 的常规操作，并通过简单的点击轻松安装&#x2F;卸载集成。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;☀️ &lt;strong&gt;PlayMaker 集成&lt;&#x2F;strong&gt;: Save Game Pro 完全与 PlayMaker 集成，通过将 Save Game Pro API 方法作为 Actions 添加到 PlayMaker。此外，每个集成都包括 PlayMaker Actions。&lt;&#x2F;p&gt;
+&lt;p&gt;☀️ &lt;strong&gt;跨平台&lt;&#x2F;strong&gt;: Save Game Pro 支持几乎所有 Unity 支持的平台，我们已经在以下平台测试了 Save Game Pro 示例：&lt;&#x2F;p&gt;
+&lt;p&gt;*️ &lt;strong&gt;独立版 (Windows, Mac, Linux)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;Android (并且在 iOS 上也应该运行良好)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;strong&gt;三星电视&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;但它应该在所有 Unity 平台上按预期工作。&lt;&#x2F;p&gt;
+&lt;p&gt;☀️ &lt;strong&gt;网络与云&lt;&#x2F;strong&gt;: Save Game Pro 也与您的云环境（如 PHP 和 Node.js）集成，并支持最流行的数据库引擎，如 MySQL 和 MongoDB。此外，Save Game Pro 还与 Firebase 和 PlayFab 集成，以便您保存游戏数据并在设备之间同步。&lt;&#x2F;p&gt;
+&lt;p&gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;firebase.google.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Firebase&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;playfab.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PlayFab&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 集成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;☀️ &lt;strong&gt;自定义类型（类型创建器）&lt;&#x2F;strong&gt;: Save Game Pro 支持自定义类型，这意味着您可以添加 Save Game Pro 不支持的类型的序列化。因此，您可以轻松且自动地使用类型创建器创建这些自定义类型。类型创建器提供了一个简单、快速且实用的界面，用于创建和浏览类型。此外，类型创建器还包括搜索输入，帮助您通过搜索所需类型来浏览所有类型。&lt;&#x2F;p&gt;
+&lt;p&gt;☀️ &lt;strong&gt;AES 加密&lt;&#x2F;strong&gt;: Save Game Pro 使用 AES 加密来确保您的保存数据安全，并防止作弊者篡改数据，因此您可以调整此加密算法的不同设置，以确保其对您的游戏安全，例如更改加密密码、盐值、向量和哈希算法。&lt;&#x2F;p&gt;
+&lt;p&gt;✂️ 你还在等什么？&lt;&#x2F;p&gt;
+&lt;p&gt;快去使用 Save Game Pro 保存您的游戏数据。&lt;&#x2F;p&gt;
+&lt;p&gt;由 ❤️ 制作 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;search&#x2F;page=1&#x2F;sortby=popularity&#x2F;query=publisher:26641&quot; target=&quot;_blank&quot;&gt;Bayat Games&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>NodeCanvas</title>
+        <published>2024-11-29T21:18:02+00:00</published>
+        <updated>2024-11-30T13:20:37+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/nodecanvas/"/>
+        <id>https://yzzfo.github.io/unitys/nodecanvas/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/nodecanvas/">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;‘.需要 Net 4.x’ 等效运行时版本。&lt;br&gt;‘.不再支持 Net 3.5（已弃用）。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nodecanvas.paradoxnotion.com&#x2F;&quot;&gt;[文档、论坛、下载]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[在 Discord 上加入我们]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;适用于 Unity 的完整视觉行为创作解决方案，可帮助你创建高级 AI 行为和逻辑，包括三个独立、功能齐全但可流畅切换的模块供你选择，轻松添加至游戏中：&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔反应行为树。&lt;br&gt;✔ 层次状态机。&lt;br&gt;✔多角色对话树。&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;NodeCanvas 是一个产品级框架，被多款优秀的游戏采用，包括 &lt;strong&gt;Pamela、Hurtworld、Hand of Fate 2、Kim、Shroud of the Avatar、Kingdom、The Long Dark、Ghost of a Tale​​&lt;&#x2F;strong&gt;​ ​等等。&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;nodecanvas.paradoxnotion.com&#x2F;showcase&#x2F;&quot;&gt;[游戏展示]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能亮点&lt;&#x2F;strong&gt;&lt;br&gt;-------------------------------------&lt;br&gt;● 三个可完全切换的图形模块供你选择。&lt;br&gt;● 具有所有预期专业功能的时尚而直观的可视化节点编辑器。&lt;br&gt;&lt;em&gt;（全部撤销&#x2F;重做、放大&#x2F;缩小、迷你地图、多选、复制、复制&#x2F;粘贴、JSON 导入&#x2F;导出、群组、注释等）&lt;&#x2F;em&gt;&lt;br&gt;● 图形、GameObject 和全局黑板变量，以创建可重复使用和以智能体为中心的参数行为。&lt;br&gt;● 具有实例或静态属性和字段的数据绑定变量。&lt;br&gt;● 使用 UNET 的网络同步变量 (Network Sync Variable)。&lt;br&gt;&lt;em&gt;（由于现已弃用 UNET，所以会将其替换为新的网络解决方案）&lt;&#x2F;em&gt;&lt;br&gt;● 预制件可覆盖的变量。&lt;br&gt;● 自动转换不同的变量数据类型。&lt;br&gt;● 支持所有变量类型开箱即用。&lt;br&gt;● 跨所有数量的智能体的可重复使用行为图。&lt;br&gt;● 所有三种图形模块之间的无缝子图形嵌套。&lt;br&gt;&lt;em&gt;（行为子树、子状态机、子对话树）&lt;&#x2F;em&gt;&lt;br&gt;● 完整的子图变量参数化和贴图。&lt;br&gt;● 模块化动作和条件任务设计。&lt;br&gt;● 条件反应行为树评估。&lt;br&gt;● 有条件和基于栈的 FSM 过渡。&lt;br&gt;● 丰富多彩和内容翔实的运行时可视化调试。&lt;br&gt;● 节点&#x2F;任务浏览器，用以搜索、收藏和阅读内置文档。&lt;br&gt;● 首选类型配置器，以根据项目需求定制与类型相关的菜单。&lt;br&gt;● 图形迷你地图，以轻松浏览图形。&lt;br&gt;● 图形控制台，单击鼠标即可自动定位故障节点。&lt;br&gt;● 图形浏览器，用以搜索和查找图中的节点、任务和参数。&lt;br&gt;● 图形重构器，以批量重构缺失的节点、任务和反射引用。&lt;br&gt;● 实时运行时编辑，以更快速地完成设计目标。&lt;br&gt;● 经过优化的反射任务，以自动集成现有的代码 API。&lt;br&gt;● 内置事件系统，以在图形中沟通和传输数据。&lt;br&gt;● 清晰且记录完善的 API，以扩展 NodeCanvas 框架并创建自己的动作、条件、节点，甚至全新的图形模块。&lt;br&gt;● 对象和属性绘制器，以一切可能的方式自定义检查器。&lt;br&gt;● 与大量第三方资源集成。&lt;br&gt;● 与 FlowCanvas flowScripts 无缝集成。&lt;br&gt;● &lt;strong&gt;用户友好。轻量级。无需设置。&lt;br&gt;● 性能稳定。初始化后零分配。异步图加载。&lt;br&gt;● 支持所有平台开箱即用。&lt;br&gt;● 包含全部 C# 源代码！&lt;br&gt;● 以及更多…&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;-------------------------------------&lt;br&gt;没有代码脚本？没问题。NodeCanvas 提供数百种精心制作的面向游戏的预制动作和条件，直接带你入门。此外，你可以采用专门的&lt;strong&gt;反射任务&lt;&#x2F;strong&gt;，以利用并控制所有现有代码和组件，无需编写任何代码！&lt;br&gt;&lt;br&gt;&lt;strong&gt;当前的第三方资源扩展包括：&lt;&#x2F;strong&gt;&lt;br&gt;• Chronos&lt;br&gt;• 电影音序器 - SLATE&lt;br&gt;• 电影导演 (Cinema Director)&lt;br&gt;• Core GameKit&lt;br&gt;• DOTween&lt;br&gt;• Easy Save&lt;br&gt;• Inventory Pro&lt;br&gt;• LipSync&lt;br&gt;• Love&#x2F;Hate&lt;br&gt;• Master Audio&lt;br&gt;• 运动控制器&lt;br&gt;• PlayMaker&lt;br&gt;• PolyNav&lt;br&gt;• SALSA&lt;br&gt;- Simple Waypoint System&lt;br&gt;• 以及更多，根据你的需求…&lt;br&gt;&lt;br&gt;&lt;strong&gt;社区驱动的扩展：&lt;&#x2F;strong&gt;&lt;br&gt;• A* Project&lt;br&gt;• cInput&lt;br&gt;• FinalIK&lt;br&gt;• ProCamera2D&lt;br&gt;• Rewired&lt;br&gt;• uFrame&lt;br&gt;&lt;br&gt;此外，NodeCanvas 与 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;cGe&quot;&gt;FlowCanvas&lt;&#x2F;a&gt; 无缝集成，从而能够让你在行为树、FSM 和&#x2F;或 对话树中&lt;strong&gt;嵌套 flowScripts&lt;&#x2F;strong&gt;，反过来也可以！&lt;br&gt;&lt;br&gt;&lt;strong&gt;“那么，里面包含什么？”&lt;&#x2F;strong&gt;&lt;br&gt;✔ Core NodeCanvas 框架。&lt;br&gt;✔ 行为树模块。&lt;br&gt;✔ 状态机模块。&lt;br&gt;✔ 对话树模块。&lt;br&gt;✔ 大量以游戏为导向的任务。&lt;br&gt;✔ 大量第三方集成任务。&lt;br&gt;✔ 完整的 C# 源代码。&lt;br&gt;✔ 可靠的支持。&lt;br&gt;&lt;br&gt;&lt;strong&gt;将 NodeCanvas 添加至你的项目中，享受 Unity 功能丰富、完整的视觉行为创作功能，实现各种可能性同时性能毫不逊色。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nodecanvas.paradoxnotion.com&#x2F;&quot;&gt;[文档、论坛、下载]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[在 Discord 上加入我们]&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>DOTween Pro</title>
+        <published>2024-11-29T21:17:52+00:00</published>
+        <updated>2024-11-30T13:20:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/dotween-pro/"/>
+        <id>https://yzzfo.github.io/unitys/dotween-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/dotween-pro/">&lt;p&gt;Animate gameObjects visually (move, shake, fade, rotate, change camera properties, and a lot more), draw paths in the editor and follow them, plus power-up DOTween&#x27;s core with extra features&lt;br&gt;&lt;strong&gt;要求 UNITY 5.6.7&#x2F;2017&#x2F;2018&#x2F;2019 或更高版本（将根据你的 Unity 版本自动激活功能）。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;重要说明：&lt;&#x2F;strong&gt;如果从 1.0.244 或更旧的版本升级，请仔细&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;support.php#upgrade&quot;&gt;按照以下说明进行操作&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;在这里查看&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;pro.php#changelog&quot;&gt;完整的更改日志&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;DOTween Pro 扩展了 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;animation&#x2F;dotween-hotween-v2-27676&quot;&gt;DOTween&lt;&#x2F;a&gt; 免费引擎，实现了&lt;strong&gt;脚本&lt;&#x2F;strong&gt;和&lt;strong&gt;可视脚本&lt;&#x2F;strong&gt;的新功能，包括这些外部资源的额外功能（如果有）：&lt;br&gt;- &lt;strong&gt;2D 工具包&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt;（付费版和免费版）&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化动画编辑器&lt;&#x2F;strong&gt;&lt;br&gt;一个无需使用脚本即可对其游戏对象的某些属性进行动画处理的组件：移动、淡入淡出、颜色、旋转、缩放、冲击、振动、文本、摄影机属性等等。&lt;br&gt;同样适用于 &lt;strong&gt;2D 工具包&lt;&#x2F;strong&gt;和 &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt; 对象。&lt;br&gt;&lt;em&gt;应用了智能设置来使你可以通过 Unity UI onClick 事件轻松地与动画进行交互，并且&lt;strong&gt;无需进入游戏模式就可以预览动画效果。&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化路径编辑器&lt;&#x2F;strong&gt;&lt;br&gt;一个允许沿着一条路径制作游戏对象动画的组件。&lt;br&gt;&lt;strong&gt;注意：&lt;&#x2F;strong&gt;可视化路径编辑器目前支持线性（直）或曲性 CatmullRom 路径和变换坐标（&lt;strong&gt;UI 路径还不支持&lt;&#x2F;strong&gt;）。&lt;br&gt;&lt;em&gt;应用了智能设置来使你可以通过 Unity UI onClick 事件轻松地与动画进行交互。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化编辑器管理器&lt;&#x2F;strong&gt;&lt;br&gt;一个可以从路径或动画效果编辑器添加的额外组件。它允许&lt;strong&gt;在其游戏对象被激活或停用时设置其他行为来执行&lt;&#x2F;strong&gt;（在使用池系统时特别有用）&lt;br&gt;&lt;br&gt;&lt;strong&gt;其他 DOTWEEN 脚本功能&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;2D Toolkit&lt;&#x2F;strong&gt; 和 &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt; 的附加快捷方式，如果有的话。&lt;br&gt;- DOSpiral 快捷方式。&lt;br&gt;- 一个低级系统来&lt;strong&gt;逐字动画绘制 TextMesh Pro 的文本&lt;&#x2F;strong&gt;（ 歪斜、缩放、旋转、转换）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;链接&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&quot;&gt;DOTween 网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;pro.php&quot;&gt;DOTween Pro&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;documentation.php&quot;&gt;在线文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;support.php&quot;&gt;Support&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;dotween-hotween-v2-a-unity-tween-engine.260692&#x2F;&quot;&gt;Unity 论坛主题&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.demigiant.com&quot;&gt;发布者的网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Animation Designer</title>
+        <published>2024-11-29T21:17:42+00:00</published>
+        <updated>2024-11-30T13:19:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/animation-designer/"/>
+        <id>https://yzzfo.github.io/unitys/animation-designer/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/animation-designer/">&lt;p&gt;创新的Unity引擎动画调整工具。升级动画剪辑，添加程序化运动并进行烘焙。调整动画剪辑姿势并将其保存在新的AnimationClip文件中。&lt;&#x2F;p&gt;
+&lt;p&gt;✍ &lt;strong&gt;购买前请注意：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！这是编辑器工具 - 不需要播放模式&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具并不是用于从零开始创建动画，而是用于升级&#x2F;调整已经动画化的剪辑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为类人形生物设计&lt;&#x2F;strong&gt;，但您仍然可以大大改善动物&#x2F;生物的动画（更多信息请查看教程）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具适用于所有动画类型&lt;&#x2F;strong&gt;，如：&lt;strong&gt;类人形、通用和遗留&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为3D骨骼动画设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具生成新的动画剪辑，&lt;&#x2F;strong&gt;这意味着没有额外的CPU&#x2F;GPU负担，您可以像使用其他动画一样使用生成的剪辑进行VR&#x2F;移动设备。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！&lt;&#x2F;strong&gt;此工具专用于身体动画（不适用于详细的多骨骼面部动画）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具需要一些动画知识&lt;&#x2F;strong&gt;以便在您的模型上获得最佳效果&lt;&#x2F;p&gt;&lt;p&gt;！工具&lt;strong&gt;适用于所有渲染管线&lt;&#x2F;strong&gt;，只是演示场景使用了两个标准材质进行转换。&lt;&#x2F;p&gt;
+&lt;p&gt;⚡ &lt;strong&gt;创新的Unity引擎动画调整工具&lt;&#x2F;strong&gt; ⚡&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;升级动画剪辑，添加额外的程序化运动并进行烘焙！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;调整动画剪辑姿势&lt;&#x2F;strong&gt;并将其保存在新的AnimationClip文件中。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;为某些骨骼设置额外的运动&lt;&#x2F;strong&gt;并保存新的AnimationClip&lt;strong&gt;作为动画变体使用。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☄️ &lt;strong&gt;不要玩弄关键帧或时间轴！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;认识&lt;strong&gt;新的动画调整工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您所需要做的就是使用几个滑块和曲线窗口。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;您不需要成为动画艺术家&lt;&#x2F;strong&gt;就可以使用这个工具。&lt;&#x2F;p&gt;&lt;p &gt;如果您是动画艺术家，&lt;strong&gt;这个工具将为您提供新的可能性！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? 也许您购买了一些很酷的角色&lt;strong&gt;但包含的动画质量太低？轻松使用动画设计师提升它们的质量！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? 您拥有很多动画片段&lt;strong&gt;但需要一个手臂稍微旋转不同的动画？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;使用动画设计师立即实现！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? &lt;strong&gt;角色的腿&#x2F;脚动画&lt;&#x2F;strong&gt;似乎不正确？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;用动画设计师轻松修复！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? 您拥有原地攻击动画，但无法与跑步&#x2F;行走动画正确混合？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;将它们混合在一起，并使用动画设计师的变形功能进行调整！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;保持原始动画不变！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;将修改后的动画保存为单独的AnimationClip文件。&lt;&#x2F;p&gt;&lt;p &gt;为多个动画片段存储设计师动画设置，保存在单个预设文件中，以便您随时返回调整动画设计！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;无需额外的数据&#x2F;组件！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;插件不会在您使用动画设计师动画的角色模型上生成任何新的组件或数据。保持您的工作区整洁，并将此插件视为Unity编辑器的核心软件元素。&lt;&#x2F;p&gt;
+&lt;p &gt;该包提供先进的IK分析算法，可以帮助您为行走&#x2F;跑步动画增加一些重量感。&lt;&#x2F;p&gt;
+&lt;p &gt;您不仅可以将动画设计师用于角色，还可以用于任何类型的动画对象。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⭐ &lt;strong&gt;精心设计的窗口以最大化专注！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;动画设计师的窗口经过精心设计，以避免用户在屏幕上被过多的GUI元素所淹没。&lt;&#x2F;p&gt;&lt;p&gt;您可以切换到专注模式，隐藏更多窗口，完全专注于所需的滑块和数值。&lt;&#x2F;p&gt;
+&lt;p&gt;⌛ &lt;strong&gt;为动画师节省时间！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;准备基础动画&lt;&#x2F;strong&gt;，无需完全打磨，让程序运动算法来处理。为小肢体添加一些松弛感并进行烘焙。&lt;&#x2F;p&gt;&lt;p&gt;在编辑器中调整Unity人形动画重定向错误。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;自定义算法已准备好！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;动画设计师版本1.2.0&lt;&#x2F;strong&gt;引入了名为“自定义模块”的新功能。&lt;&#x2F;p&gt;&lt;p&gt;它允许在设计过程中应用自定义程序动画算法。&lt;&#x2F;p&gt;&lt;p&gt;版本1.2.0提供了用于人形拳头、手指、手臂、脊柱、头部和腿部姿势的模块，以及“侧移创建器”模块（也适用于通用骨架），帮助从单个行走&#x2F;奔跑动画剪辑中创建8方向运动。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;animation-designer-editor-tool-for-adjusting-and-upgrading-animation-clips.1227384&#x2F;&quot; target=&quot;_blank&quot;&gt;社区论坛帖子&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Animation%20Designer%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;Y3WrzQp&quot; target=&quot;_blank&quot;&gt;我们的Discord支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;该包适用于所有SRP！这不是与着色器相关的包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;(您只需将标准演示材料转换为演示示例)&lt;&#x2F;p&gt;&lt;p&gt;内置 ✅ LWRP ✅ URP ✅ HDRP ✅ 自定义RP ✅&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Toon Fantasy Nature</title>
+        <published>2024-11-29T21:17:32+00:00</published>
+        <updated>2024-11-30T13:19:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/toon-fantasy-nature/"/>
+        <id>https://yzzfo.github.io/unitys/toon-fantasy-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/toon-fantasy-nature/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 呈现：&lt;&#x2F;p&gt;一套风格化的资源集合，为您的游戏增添美丽的环境。&lt;&#x2F;p&gt;
+&lt;p&gt;有任何问题或建议吗？&lt;&#x2F;p&gt;&lt;p&gt;欢迎通过我们的 &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 与我们联系&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;特色&lt;&#x2F;strong&gt; ◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;200&lt;&#x2F;strong&gt; 个预制件，从小植物和岩石到大型橡树和松树。&lt;&#x2F;p&gt;&lt;p&gt;• &lt;strong&gt;8&lt;&#x2F;strong&gt; &lt;strong&gt;演示场景&lt;&#x2F;strong&gt; 展示了该包中的所有资源，并提供多种光照预设（包括后期处理配置文件）。&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;资源列表 &lt;&#x2F;strong&gt;◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;植被资源 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x137) 植物、花卉和树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;植被资源包括：&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x36) 树木&lt;&#x2F;strong&gt;，如 &lt;strong&gt;白杨树&lt;&#x2F;strong&gt;、&lt;strong&gt;松树&lt;&#x2F;strong&gt;、&lt;strong&gt;桦树&lt;&#x2F;strong&gt;、&lt;strong&gt;橡树&lt;&#x2F;strong&gt; 等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 倒下的和破损的树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x38) 灌木、蕨类植物&lt;&#x2F;strong&gt;、&lt;strong&gt;花卉&lt;&#x2F;strong&gt; 等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x20) 百合、莲花&lt;&#x2F;strong&gt; 和其他水生植物。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 蘑菇&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;岩石 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x20) 岩石&lt;&#x2F;strong&gt;，从小卵石到大石块&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;外部道具 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x25) 道具&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;木制凉亭和秋千&lt;&#x2F;strong&gt;、&lt;strong&gt;篝火&lt;&#x2F;strong&gt;（包含火粒子系统）、&lt;strong&gt;围栏和桥梁工具包&lt;&#x2F;strong&gt; 等。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;背景资源和贴花 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x18) 背景树木&lt;&#x2F;strong&gt;、碎片和 &lt;strong&gt;落叶&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x3) 手绘天空盒&lt;&#x2F;strong&gt;：白天、夜晚和日落。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;粒子系统 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;(x8) 粒子系统&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;阳光光束&lt;&#x2F;strong&gt;、&lt;strong&gt;萤火虫&lt;&#x2F;strong&gt;、&lt;strong&gt;落叶&lt;&#x2F;strong&gt; 等等。&lt;&#x2F;p&gt;
+&lt;p &gt;此包与该系列的其他资产完美契合：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;toon-series-44946&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;卡通系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;支持与社区：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;toon-series-growing-content-stylized-3d-art.464823&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;steve_sics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;推特&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;•&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:sics.production@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;邮件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Winter Environment - Nature Pack</title>
+        <published>2024-11-29T21:17:23+00:00</published>
+        <updated>2024-11-30T13:18:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/winter-environment-nature-pack/"/>
+        <id>https://yzzfo.github.io/unitys/winter-environment-nature-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/winter-environment-nature-pack/">&lt;p &gt;&lt;a href=&quot;mailto:contact@angrymesh.com&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;ANGRYMESH&#x2F;&quot; target=&quot;_blank&quot;&gt;脸书&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ANGRY_MESH&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;描述：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;为快速和高质量开发冬季自然场景而创建的冬季环境资产。该包包含额外的着色器，您可以使用它们调整树木、草地和道具上的雪量。&amp;nbsp;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.kmmifbye97yv&quot; target=&quot;_blank&quot;&gt;AG全局设置&lt;&#x2F;a&gt;让您控制全局风设置，如方向、幅度、速度、比例和网格刚度。您可以在整个场景中全局控制风设置，也可以为每种材质局部控制。这使您能够以不同的方式调整物体的刚性及风对它们的影响。&lt;&#x2F;p&gt;
+&lt;p &gt;除了风设置，AG全局设置还包含AO&#x2F;半透明&#x2F;色调颜色和雪的全局参数。全局设置可以为每个场景独特。您可以在不更改基本网格材质的情况下调整环境的外观。&lt;&#x2F;p&gt;
+&lt;p &gt;这些纹理具有高分辨率，并且是从扫描数据创建的。该资产包含3种类型的树木。每种类型的树木仅使用两种材质（叶子和树皮）。树木的过度绘制较低，绘制调用使用较少。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;strong&gt;新功能！&lt;&#x2F;strong&gt; 为Unity版本6000.0.23+添加了HDRP和URP模板。&lt;&#x2F;p&gt;&lt;p &gt;• 包含&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Editor&#x2F;Manual#Shader_Functions&quot; target=&quot;_blank&quot;&gt;Amplify Shader Functions&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;p &gt;• GPU全局和局部风效应，具有高级控制设置（方向、幅度、速度、大小和物体刚度）。&lt;&#x2F;p&gt;&lt;p &gt;• 风设置可以在场景视图中实时修改。&lt;&#x2F;p&gt;&lt;p &gt;• AO&#x2F;半透明&#x2F;色调和雪的全局和局部设置。&lt;&#x2F;p&gt;&lt;p &gt;• 根据风向在树干上添加雪。&lt;&#x2F;p&gt;&lt;p &gt;• 基于扫描数据创建的PBR纹理。&lt;&#x2F;p&gt;&lt;p &gt;• 所有着色器支持GPU和DOTS实例化。&lt;&#x2F;p&gt;&lt;p &gt;• 对于低绘制调用使用的树木，低过度绘制。&lt;&#x2F;p&gt;&lt;p &gt;• 在树木和灌木的最后LOD处交叉网格。&lt;&#x2F;p&gt;&lt;p &gt;• 所有地面纹理的Albedo&#x2F;NM&#x2F;AO&#x2F;光滑度&#x2F;遮罩和高度图。&lt;&#x2F;p&gt;&lt;p &gt;• 所有预制件的LOD。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;兼容性：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;pbr-rocks-nature-pack-100777&quot; target=&quot;_blank&quot;&gt;PBR岩石 - 自然包&lt;&#x2F;a&gt; - 使用通用着色器和脚本。&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;植被引擎&lt;&#x2F;a&gt; - 转换预设。&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; - 完整的着色器编辑支持。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;RP兼容性：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 标准渲染管线2021.3+&lt;&#x2F;p&gt;&lt;p &gt;• HD渲染管线（HDRP）12.1.14+&lt;&#x2F;p&gt;&lt;p &gt;• 通用渲染管线（URP）12.1.14+&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;内容：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• HDRP 和 URP 模板。&lt;&#x2F;p&gt;&lt;p &gt;• 2 个 Unity Standard 演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 2 个 HDRP 模板演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 2 个 URP 模板演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 1 个包含所有资产的演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 12 棵冷杉树（+3 棵带根的冷杉树）。&lt;&#x2F;p&gt;&lt;p &gt;• 7 棵白桦树。&lt;&#x2F;p&gt;&lt;p &gt;• 7 丛灌木。&lt;&#x2F;p&gt;&lt;p &gt;• 17 个草地预制件。&lt;&#x2F;p&gt;&lt;p &gt;• 50 个道具（围栏、碎片、根、木板、树桩）&lt;&#x2F;p&gt;&lt;p &gt;• 3 座背景山。&lt;&#x2F;p&gt;&lt;p &gt;• 4 个粒子预制件（雪&#x2F;雾&#x2F;风暴）。&lt;&#x2F;p&gt;&lt;p &gt;• 5 块岩石（来自 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;pbr-rocks-nature-pack-100777&quot; target=&quot;_blank&quot;&gt;PBR 岩石包&lt;&#x2F;a&gt;）。&lt;&#x2F;p&gt;&lt;p &gt;• 6 种地面纹理（总共 36 种，包含所有贴图：Albedo&#x2F;NM&#x2F;AO&#x2F;光滑度&#x2F;遮罩&#x2F;高度）。&lt;&#x2F;p&gt;&lt;p &gt;• 最后 LOD 的 20 种交叉纹理。&lt;&#x2F;p&gt;&lt;p &gt;• 6 种带雪的着色器（树皮&#x2F;树叶&#x2F;树交叉&#x2F;草&#x2F;道具&#x2F;细节道具）。&lt;&#x2F;p&gt;&lt;p &gt;• 6 种不带雪的着色器（树皮&#x2F;树叶&#x2F;树交叉&#x2F;草&#x2F;道具&#x2F;细节道具）。&lt;&#x2F;p&gt;&lt;p &gt;• 每个 RP 的 2 个后期处理配置文件（Standard&#x2F;URP&#x2F;HDRP）&lt;&#x2F;p&gt;&lt;p &gt;• 带有所有用于全局设置的脚本的箭头预制件（AG 全局设置）。&lt;&#x2F;p&gt;&lt;p &gt;• 5 个全局设置脚本。&lt;&#x2F;p&gt;&lt;p &gt;• 8 个着色器函数。&lt;&#x2F;p&gt;&lt;p &gt;• 3 种可以用于全局色调颜色的噪声纹理。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;限制：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 可缩放环境遮蔽后期处理会在物体上造成视觉伪影（Unity 限制）。&lt;&#x2F;p&gt;&lt;p &gt;• 使用极端风设置时物体会变形。&lt;&#x2F;p&gt;&lt;p &gt;• AG 全局设置中的雪参数不影响地形纹理。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;重要：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您必须在每个场景中保留一个 AG 全局设置预制件。当您创建新场景时，请确保您的场景中有一个 AG 全局预制件。&lt;&#x2F;p&gt;&lt;p &gt;在您的场景中仅使用一个 AG 全局预制件。不支持多个 AG 全局预制件。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;您可以在&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.kmmifbye97yv&quot; target=&quot;_blank&quot;&gt;在线文档&lt;&#x2F;a&gt;中找到有关AG Global系统的更多信息，也可以在这个&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=sny_KqTdG1U&quot; target=&quot;_blank&quot;&gt;视频&lt;&#x2F;a&gt;中找到。&lt;&#x2F;p&gt;
+&lt;p&gt;对于HDRP模板，您可以在&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.zawpzn5ymzon&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;找到导入步骤。&lt;&#x2F;p&gt;
+&lt;p&gt;对于URP模板，您可以在&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.9iv9cjs094e8&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;找到导入步骤。&lt;&#x2F;p&gt;
+&lt;p&gt;要获得与我们的截图&#x2F;预告片中展示的相同相机效果，您需要&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.hvlzvvs4rwtn&quot; target=&quot;_blank&quot;&gt;导入后处理堆栈并将颜色空间设置为线性。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;有关更多信息，请查看在线&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;如有任何问题或疑虑，请随时通过以下方式与我们联系：&lt;a href=&quot;mailto:contact@angrymesh.com&quot; target=&quot;_blank&quot;&gt;contact@angrymesh.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;更多资源：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;pbr-rocks-nature-pack-100777&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;自然包 - PBR岩石&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;top-projection-shaders-pack-106862&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;顶投影着色器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;props&#x2F;free-snowman-105123&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;免费雪人&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>POLYGON Western Frontier - Low Poly 3D Art by Synty</title>
+        <published>2024-11-29T21:17:13+00:00</published>
+        <updated>2024-11-30T13:17:47+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/polygon-western-frontier-low-poly-3d-art-by-synty/"/>
+        <id>https://yzzfo.github.io/unitys/polygon-western-frontier-low-poly-3d-art-by-synty/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/polygon-western-frontier-low-poly-3d-art-by-synty/">&lt;p &gt;&lt;strong&gt;◼&lt;&#x2F;strong&gt; &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Discord 社区&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; ◼&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;加入我们的 &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;，学习、创造和分享！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Studios™&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 呈现 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;一款史诗级低多边形资产包，包含角色、道具、武器、车辆和环境资产，用于创建西部主题的多边形风格游戏。&lt;&#x2F;p&gt;
+&lt;p &gt;是 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;historic&#x2F;polygon-western-pack-112212&quot; target=&quot;_blank&quot;&gt;POLYGON - 西部包&lt;&#x2F;a&gt; 的绝佳补充。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;主要特点 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;329 个独特资产，具有 x4 种替代纹理颜色。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 建筑资产 (x42)，环境资产 (x147)，特效 (x5)，通用资产 (x9)，道具资产 (x87)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;车辆 (x3)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 监狱马车、商店马车、旅行马车。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;角色 (x21)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 男性强盗、男性船长、男性淘金者、男性猎人、女性墨西哥人、男性墨西哥人 01、男性墨西哥人 02、女性美洲土著 01、男性美洲土著酋长 01、女性美洲土著长者 01、女性美洲土著战士 01、男性美洲土著战士 01、男性美洲土著战士 02、男性美洲土著战士 03、男性牧师 01、男性推销员 01、男性士兵 01、男性暴徒 01、男性暴徒 02、女性旅行者 01。&lt;&#x2F;p&gt;&lt;p &gt;(带有替代颜色)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;武器 (x15)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 斧头、链枪、枪托、锤子、刀、镐、左轮手枪、步枪、步枪刺刀、步枪弹夹、霰弹枪、铲子、矛、剑。&lt;&#x2F;p&gt;&lt;p &gt;- 包含大量精彩内容（更多细节请参见布局截图）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;44060-polygon-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;POLYGON - 3D资产系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;115084-mini-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;迷你 - 3D资产系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;65459-simple-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;简单 - 3D资产系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;◼ 兼容性 &lt;&#x2F;strong&gt;◼&lt;&#x2F;p&gt;&lt;p &gt;- 支持通用渲染管线（URP） - &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-urp&quot; target=&quot;_blank&quot;&gt;URP指南在这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 角色已设置为与Mecanim配合使用（此包中不包含动画）&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128220; &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &amp;#128220;&lt;&#x2F;p&gt;&lt;p &gt;不要错过发布折扣！&lt;&#x2F;p&gt;&lt;p &gt;注册我们的 &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty资产商店通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;关注我们以获取更新、促销、预览和教程：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;30aOuGW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;DISCORD&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;37VGYlB&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;FACEBOOK&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;306iJOW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YOUTUBE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; |  &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;SyntyStudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TWITTER&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;synty.studios&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;INSTAGRAM&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
         <title>Unique Projectiles Volume 1</title>
-        <published>2023-10-20T00:00:00+00:00</published>
-        <updated>2024-10-24T00:00:00+00:00</updated>
+        <published>2024-11-29T21:17:03+00:00</published>
+        <updated>2024-11-30T13:17:38+00:00</updated>
         
         <author>
           <name>
@@ -100,10 +1014,213 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/blog/blogs/unique-projectiles-volume-1/"/>
-        <id>https://yzzfo.github.io/blog/blogs/unique-projectiles-volume-1/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/unique-projectiles-volume-1/"/>
+        <id>https://yzzfo.github.io/unitys/unique-projectiles-volume-1/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/blog/blogs/unique-projectiles-volume-1/">&lt;p&gt;30 conventionalized Projectiles that have Spells, Bullets, Fireballs, Dark Magic, Arrows and far additional. they’re fantastic for laptop and Mobile, and for a spread of genres and art designs. Goes well with distinctive Magic skills Vol.1&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/unique-projectiles-volume-1/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;30款风格化的发射物&lt;&#x2F;strong&gt;，包括法术、子弹、火球、黑魔法、箭等等。完美适用于 PC 和移动端，同时也可用在多种游戏类型和美术风格里。查看新增内容：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot;&gt;独特的投掷物第 2 卷&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gabrielaguiarprod.itch.io&#x2F;unique-projectiles-vol1&quot;&gt;WebGL 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;此资源包包含：&lt;br&gt;&lt;br&gt;- &lt;strong&gt;30 种投掷物&lt;&#x2F;strong&gt;预制件；&lt;br&gt;- &lt;strong&gt;30 种击中&#x2F;撞&lt;&#x2F;strong&gt;击预制件；&lt;br&gt;- &lt;strong&gt;26 种枪炮口&lt;&#x2F;strong&gt;预制件；&lt;br&gt;- &lt;strong&gt;PC 演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;移动端演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;2D 演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;可自定义着色器&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;粒子系统控制器脚本&lt;&#x2F;strong&gt;（控制尺寸、速度、颜色等）；&lt;br&gt;- &lt;strong&gt;投掷物脚本&lt;&#x2F;strong&gt;（控制火力率、精度、火点等）；&lt;br&gt;- 支持 &lt;strong&gt;HDRP&lt;&#x2F;strong&gt; 和 &lt;strong&gt;LWRP&lt;&#x2F;strong&gt;；&lt;br&gt;&lt;br&gt;&lt;br&gt;将投掷物与不同的攻击&#x2F;碰撞或不同枪口相互组合，只要你想象得到！&lt;br&gt;&lt;br&gt;特效已经优化，可以轻松地重新设置尺寸、时间轴和颜色。&lt;br&gt;&lt;br&gt;如有疑问请联系我。&lt;br&gt;&lt;br&gt;更多 VFX 资源包：&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot;&gt;独特投掷物第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-toon-projectiles-vol-1-139417&quot;&gt;独特卡通投掷物第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-aoe-magic-abilities-volume-1-132947&quot;&gt;独特 AoE 魔法技能第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-lasers-volume-1-118909&quot;&gt;独特激光第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-explosions-volume-1-98839&quot;&gt;独特爆炸第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Quantum Console</title>
+        <published>2024-11-29T21:16:53+00:00</published>
+        <updated>2024-11-30T13:17:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/quantum-console/"/>
+        <id>https://yzzfo.github.io/unitys/quantum-console/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/quantum-console/">&lt;p&gt;Quantum Console 是一个拥有许多功能及容易使用的游戏命令控制台。只要在程序里输入[Command],您就可以在命令控制台另加特制的命令及游戏作弊码！&lt;br&gt;&lt;p &gt;&lt;strong&gt;技术支援: &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:support@qfsw.co.uk&quot; target=&quot;_blank&quot;&gt;邮件&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;g8SJ7X6&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;bitbucket.org&#x2F;QFSW&#x2F;quantum-console&#x2F;issues&quot; target=&quot;_blank&quot;&gt;问题追踪&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;QFSW1024&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;docs&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;资源&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;quantum-console-the-ultimate-in-game-development-console.561151&#x2F;&quot; target=&quot;_blank&quot;&gt;讨论区&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;demos&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;有問題嗎？歡迎聯絡客服尋求幫助以肯定 &lt;em&gt;Quantum Console&lt;&#x2F;em&gt; 正是適合您需要的解決方案。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;使用&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;包括但不限于:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 灵活的 QA 工具&lt;&#x2F;p&gt;&lt;p &gt;- 软件开发测试作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 调试协助&lt;&#x2F;p&gt;&lt;p &gt;- 游戏中的作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 适应任何项目&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 强类型和弱类型命令&lt;&#x2F;p&gt;&lt;p &gt;- 命令重载以及缺省参数&lt;&#x2F;p&gt;&lt;p &gt;- 通用命令&lt;&#x2F;p&gt;&lt;p &gt;- 异步命令&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 functions, properties, fields 和 delegates&lt;&#x2F;p&gt;&lt;p &gt;- 命令黑&#x2F;白名单&lt;&#x2F;p&gt;&lt;p &gt;- 方便使用&lt;&#x2F;p&gt;&lt;p &gt;- 完整 C# 源代码&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令控制台功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 显示 Debug.Log 消息&lt;&#x2F;p&gt;&lt;p &gt;- 高度可定制&lt;&#x2F;p&gt;&lt;p &gt;- 自定义主题系统&lt;&#x2F;p&gt;&lt;p &gt;- 命令建议和自动完成&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 Text Mesh Pro&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;内置命令例子:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;call-static&#x2F;call-instance:&lt;&#x2F;em&gt; 应用任何C#函数属性&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;man:&lt;&#x2F;em&gt; 显示指定命令的用户手册&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;exec:&lt;&#x2F;em&gt; 运行时编译并执行 C# 源代码&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;#define:&lt;&#x2F;em&gt; 定义并创建用户宏&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;instantiate:&lt;&#x2F;em&gt; 实例对象的副本&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;destroy:&lt;&#x2F;em&gt; 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;get-object-info:&lt;&#x2F;em&gt; 显示对象 transform 和 component 参数&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;支持仅以英语提供&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>PuppetMaster</title>
+        <published>2024-11-29T21:16:44+00:00</published>
+        <updated>2024-11-30T13:17:21+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/puppetmaster/"/>
+        <id>https://yzzfo.github.io/unitys/puppetmaster/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/puppetmaster/">&lt;p&gt;Advanced active ragdoll physics complete with ragdoll creation and editing tools from the creator of Final IK.&lt;br&gt;高级的活跃布娃娃物理系统，带有布娃娃创建和编辑工具，由 Final IK &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;14290&quot;&gt;的开发者开发。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;0.9 版本更新：&lt;&#x2F;strong&gt;&lt;br&gt;- 增加了&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;uakZqX1hju0&quot;&gt;烘焙器&lt;&#x2F;a&gt;，一款强大的新工具，可将 PuppetMaster 物理系统烘焙到人型角色、通用和旧版 动画剪辑中。&lt;br&gt;- 全新高度优化且易用的&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;Bkw1gmrDr1I&quot;&gt;道具系统&lt;&#x2F;a&gt;&lt;br&gt;- 用于断开身体部位的新优化的 API。&lt;br&gt;- 更新了&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;pages.html&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;- 修复了许多错误，提升了稳定性，请参阅发行说明以获取完整列表。&lt;br&gt;&lt;br&gt;PuppetMaster 0.9 完全兼容 Final IK 1.9 和 Unity 2017&#x2F;2018&#x2F;2019 版本。&lt;br&gt;&lt;br&gt;&lt;strong&gt;我可以用 PuppetMaster 来做&lt;&#x2F;strong&gt;什么？&lt;br&gt;- 制作布娃娃动画&lt;br&gt;- 一键创建两足动物布娃娃&lt;br&gt;- 在场景视图中直观地可视化编辑碰撞体和关节限制。&lt;br&gt;- 为布娃娃角色创建程序化行为。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=on7wAz0fsGg&quot;&gt;概述视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;技术概述？&lt;&#x2F;strong&gt;&lt;br&gt;PuppetMaster 和布娃娃编辑工具适用于 Humanoid、Generic 和 Legacy 角色，布娃娃创建适用于所有两足角色。已知的移动平台均可使用。&lt;br&gt;&lt;br&gt;PuppetMaster 完全兼容 Unity 内置的反向动力学工具以及 Final-IK。&lt;br&gt;&lt;br&gt;&lt;strong&gt;NB！&lt;&#x2F;strong&gt;如果你装有 Final IK，则可从“PuppetMaster&#x2F;_Integration”文件夹导入 Final IK 的演示项目。&lt;br&gt;&lt;br&gt;&lt;strong&gt;如何学习使用 PuppetMaste&lt;&#x2F;strong&gt;r？&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rootmotion.freshdesk.com&#x2F;support&#x2F;home&quot;&gt;帮助、社区和支持请求&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLVxSIA1OaTOuE2SB9NUbckQ9r2hTg4mvL&quot;&gt;教程视频频道&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;pages.html&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;annotated.html&quot;&gt;脚本参考&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&quot;&gt;发布者的网站&lt;&#x2F;a&gt;&lt;br&gt;support@root-motion.com&lt;br&gt;&lt;br&gt;&lt;strong&gt;NB！&lt;&#x2F;strong&gt;若要查看每个组件的基本学习资源，请右键单击菜单标题，点击帮助按钮，然后点击快捷菜单中的教程&#x2F;手册链接。&lt;br&gt;&lt;br&gt;&lt;strong&gt;你对使用该产品有什么计划？&lt;&#x2F;strong&gt;&lt;br&gt;与 Final IK 类似，PuppetMaster 会经历一段长期的 beta 测试期，未来几年会继续不断开发。开发点主要在确保产品的稳定性，以及给布娃娃创建新的智能程序化行为。&lt;br&gt;&lt;br&gt;期待共同合作，&lt;br&gt;Partel Lang - PuppetMaster 的开发者&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Low Poly Medieval Kit</title>
+        <published>2024-11-29T21:16:35+00:00</published>
+        <updated>2024-11-30T13:16:52+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/low-poly-medieval-kit/"/>
+        <id>https://yzzfo.github.io/unitys/low-poly-medieval-kit/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/low-poly-medieval-kit/">&lt;p&gt;Fuel your creativity with the Low Poly Medieval Kit. Designed for the seamless creation of low-poly medieval environments.&lt;&#x2F;p&gt;
+&lt;p&gt;ⓘ &lt;strong&gt;注意&lt;&#x2F;strong&gt;: &lt;em&gt;在更新到新版本之前，请确保备份您的项目，如果您使用的是旧版本。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;包内包含（378个独特资产）&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;建筑部件&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;城堡桥（6个）、城堡楼梯、城堡塔（4个）、城堡墙（5个）、大门墙（5个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;建筑物&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;桥、码头、房屋（9个）、矿山、锯木厂、塔（3个）、水井、风车。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;车辆&lt;&#x2F;strong&gt;: 大炮、木制手推车、装有麻袋的木制手推车、船、海盗船（2个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;武器&lt;&#x2F;strong&gt;: 斧头、弓、箭、弓箭袋、装有箭的弓箭袋、锤子、斧子、刀、钉锤、砍刀、镐、盾牌、矛、剑。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;工作站&lt;&#x2F;strong&gt;: 铁砧、带锤子和马蹄的铁砧、制作台（3个）、熔炉（2个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;物品&lt;&#x2F;strong&gt;: 桶（10个）、床（3个）、长椅（6个）、书（10本）、碗（3个）、桶（6个）、地毯（12个）、椅子（4个）、箱子（2个）、木箱（10个）、杯子（5个）、土墓、空桶、花盆（5个）、叉子、木头（20根）、梯子（5个）、灯笼（5个）、药水（10瓶）、勺子、石墓、桌子（5个）、衣柜（5个）、木板（15块）、旗帜（10面）、地砖（10块）、卷轴（5个）、标志（6个）、围栏（18个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;: 树（16棵）、灌木（10个）、仙人掌（5个）、枯树（3个）、枯树（2棵）、花（5朵）、草（5个）、草地（6个）、蘑菇（5个）、芦苇（5个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;石头&lt;&#x2F;strong&gt;: 石头（21块）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;地形&lt;&#x2F;strong&gt;: 地形（5个）、大地形（5个）、小地形（5个）、土崖（3个）、草丘（5个）、道路（6条）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;水&lt;&#x2F;strong&gt;: 水面（2个）、大水面（2个）、小水面（2个）。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;包含两个演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;主演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;探索主演示场景，查看资产如何无缝集成到不同环境中。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;展示演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;通过展示演示场景仔细观察。查看每个资产的细节和独特特征，逐一突出显示。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;您可以为&lt;strong&gt;大多数资产&lt;&#x2F;strong&gt; &lt;strong&gt;自定义颜色&lt;&#x2F;strong&gt;，使您能够调整模型的外观，以匹配不同的环境和主题。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;预配置的碰撞体&lt;&#x2F;strong&gt;，以增强功能性。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个预制件的支点&lt;&#x2F;strong&gt;位于&lt;strong&gt;模型的底部中心&lt;&#x2F;strong&gt;，确保精确对齐&lt;strong&gt;。&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;逼真的比例&lt;&#x2F;strong&gt;，提供真实的体验。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;所有截图均使用&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;的标准渲染管线制作。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;兼容性&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;推荐与&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;及更高版本一起使用。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;如有任何支持相关问题，您可以通过此&lt;a href=&quot;mailto:animationcraft84@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;链接与我联系。&lt;&#x2F;p&gt;
+&lt;p &gt;如果您喜欢这个资产，请随时查看我的&lt;strong&gt;其他作品&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-western-kit-288884&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化西部套件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-vegetation-kit-pro-289472&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化植被套件专业版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-nature-kit-pro-290138&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化自然套件专业版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-survival-kit-161250&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化生存套件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;低多边形植被套件轻量版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;敬请关注&lt;strong&gt;即将发布的更新&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@proxygamesart&#x2F;featured&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;proxygamesart&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Instagram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;
+&lt;p &gt;ⓘ 欲了解更多信息，请查看&lt;strong&gt;&quot;&lt;&#x2F;strong&gt;&lt;em&gt;技术细节&lt;&#x2F;em&gt;&quot;部分。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>FlowCanvas</title>
+        <published>2024-11-29T21:16:25+00:00</published>
+        <updated>2024-11-30T13:16:43+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/flowcanvas/"/>
+        <id>https://yzzfo.github.io/unitys/flowcanvas/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/flowcanvas/">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;-------------------------------------&lt;br&gt;-- 夏季折扣减 20%！ --&lt;br&gt;-------------------------------------&lt;br&gt;&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;‘.需要 Net 4.x’ 等效运行时版本。&lt;br&gt;‘.不再支持 Net 3.5（已弃用）。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[功能对比]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[文档、论坛、下载]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[在 Discord 上加入我们]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; 是 Unity 的一款功能强大、丰富的视觉脚本解决方案，赋予你与 Unity 蓝图类似的创建和操纵游戏元素任一方面的功能，而无需太深的编程知识。&lt;br&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; 带给你仅在代码中具备的完全灵活性，通过一个直观的可视化节点编辑器，你可以从快速原型中创建出东西，甚至是完全的游戏机制，而且无需编写任何代码。&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ 设计者：&lt;&#x2F;strong&gt;无需编码就能制作原型、迭代和完全实现你的想法，同时又能以有趣的方式了解代码的运作原理。如果你熟悉 Unreal Blueprints 的话，这用起来将得心应手。&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ 编程员：&lt;&#x2F;strong&gt;与你的代码更深一层地接口，并以简单的、完整记录的 API 创造解耦系统和&#x2F;或为设计师们提供新的自含式节点。&lt;br&gt;&lt;br&gt;通过将事件、流控制器和功能节点组合在一起，创建和操纵游戏玩法元素，包括但不局限于：&lt;br&gt;&lt;br&gt;●玩家控制。&lt;br&gt;● 关卡设计事件。&lt;br&gt;● 游戏机制。&lt;br&gt;● 用户界面。&lt;br&gt;● 玩家互动。&lt;br&gt;● 资源管理系统。&lt;br&gt;● 还有很多很多！&lt;br&gt;&lt;br&gt;FlowCanvas 是一款制作框架&lt;strong&gt;来供精美的游戏使用，包括 Graveyard Keeper、 Deadhold、 Memories Retold 和 Frankie&#x27;s Revenge&lt;&#x2F;strong&gt; 更多等等。&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能亮点&lt;&#x2F;strong&gt;&lt;br&gt;--&lt;br&gt;● 具有所有专业功能的时尚而直观的可视化节点编辑器。&lt;br&gt;&lt;em&gt;（全部撤销&#x2F;重做、放大&#x2F;缩小、迷你地图、多选、复制、复制&#x2F;粘贴、JSON 导入&#x2F;导出、群组、注释等）&lt;&#x2F;em&gt;&lt;br&gt;● 立即支持所有平台。&lt;br&gt;&lt;em&gt;（类别、结构、枚举、收藏、界面等）&lt;&#x2F;em&gt;&lt;br&gt;● 为所有任何的 Unity 功能、代码和第三方 API 自动生成节点。包括方法、属性、字段、Unity 事件、C# 事件、委托、通用方法、构建器、提取器和运行子。&lt;br&gt;● 超过 60 多个内置事件节点，包括触发、碰撞、粒子、可见性、输入、UI 以及更多。&lt;br&gt;● 超过 30 多个内置信息流控制器节点，包括 for 循环、if、while、冷却、过滤、切换器、选择器、goto、switch 语句及更多等等。&lt;br&gt;● 自定义事件系统，可轻松地在图形间进行沟通。&lt;br&gt;● 自定义（可视化脚本）本地 flowScript 功能。&lt;br&gt;●自定义（可视化脚本）可再用的宏和嵌套的 flowScript。&lt;br&gt;● 图形、游戏对象和全局变量。&lt;br&gt;● 具有实例或静态属性和字段的数据绑定变量。&lt;br&gt;● 使用 UNET 的网络同步变量 (Network Sync Variable)。&lt;br&gt;&lt;em&gt;（由于 UNET 已被弃用，它即将会被替换为新的网络解决方案）&lt;&#x2F;em&gt;&lt;br&gt;● 预制件可覆盖的变量。&lt;br&gt;● 丰富多彩和内容翔实的运行时可视化调试。&lt;br&gt;● 节点浏览器，来搜索、收藏和阅读内置的文档。&lt;br&gt;● 首选类型配置器，以根据项目需求定制与类型相关的菜单。&lt;br&gt;● 图形迷你地图，以轻松浏览图形。&lt;br&gt;● 图形控制台，单击鼠标即可自动定位故障节点。&lt;br&gt;● 图形资源器，来快速找到图形中使用的节点和变量。&lt;br&gt;● 图形重构器，来批量重构缺失的节点以及映像引用。&lt;br&gt;● AutoConvert 连接类型和通用 WildPorts 来更快地运行。&lt;br&gt;● 对打字灵敏的智能情景菜单。&lt;br&gt;● 基于多目标对象的事件节点。&lt;br&gt;● 完整、部分、紧凑显示模式和自动边框画布组。&lt;br&gt;● 在运行时实时编辑，更快速实现你的想法。&lt;br&gt;● 整洁的和记录完整的 API，来轻松地扩展和创建自定义节点，同时支持通用 (T) 节点。&lt;br&gt;● 用嵌套子图将 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;6tv&quot;&gt;NodeCanvas&lt;&#x2F;a&gt;、BehaviorTrees、FSM 和 DialogueTrees 与任何其他图形模块集成。&lt;br&gt;● &lt;strong&gt;用户友好。轻量级。无需设置。&lt;br&gt;● 性能稳定。接近零的资源占用。异步图加载。&lt;br&gt;● 供 JIT 平台使用的快速优化映像。&lt;br&gt;● 强大的类型连接。无需封装。&lt;br&gt;● 支持所有平台。&lt;br&gt;● 包含全部 C# 源代码！&lt;br&gt;● 以及更多…&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;将 FlowCanvas 添加至你的项目中，享受 Unity 功能丰富、 时髦的可视化脚本，实现无限可能性。&lt;br&gt;&lt;br&gt;购买 FlowCanvas 之后让你在以后购买 NodeCanvas 时获得 20% 的折扣！&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[功能对比]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[文档、论坛、下载]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[在 Discord 上加入我们]&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Editor Console Pro</title>
+        <published>2024-11-29T21:16:16+00:00</published>
+        <updated>2024-11-30T13:16:34+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/editor-console-pro/"/>
+        <id>https://yzzfo.github.io/unitys/editor-console-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/editor-console-pro/">&lt;p&gt;&lt;br&gt;Editor Console Pro 是 Unity 编辑器控制台的强大替代品。&lt;br&gt;如图所示：&lt;br&gt;2017 Unity Mobile Essentials 资源包的一部分！&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SebastienDubois&#x2F;20151111&#x2F;259048&#x2F;Musthave_Unity_plugins__Part_1.php&quot;&gt;必备的 Unity 插件 [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SvyatoslavCherkasov&#x2F;20160119&#x2F;263697&#x2F;Unity_plugins_we_used_while_developing_Punch_Club.php&quot;&gt;开发拳击俱乐部时使用的 Unity 插件 [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;使用 Console Pro，你可以：&lt;br&gt;&lt;br&gt;- 使用搜索栏位按文本、文件名、类、游戏对象名称快速过滤所有条目。&lt;br&gt;- 使用正则表达式进行搜索和过滤。&lt;br&gt;- 用自己的颜色、图标和切换按钮创建自定义过滤器组，而不仅仅是默认的日志、警告和错误。&lt;br&gt;- 查看围绕堆栈中每个方法调用的源代码，使你可以查看并跳转到日志周围的代码。&lt;br&gt;- 通过单击代码编辑器，将其打开跳到日志堆栈中的任何方法或行，而不仅仅是通过 Debug.Log 调用。&lt;br&gt;- 在列中轻松查看日志条目的文件名、名称空间、游戏对象名称和类别。&lt;br&gt;- 忽略你不再想看到的日志。&lt;br&gt;- 忽略堆栈中的自定义 Debug.Log 类，双击永远不会把你带到错误的代码。&lt;br&gt;- 使用特殊的日志来监视没有垃圾邮件的变量，即使其内容不同，也会折叠。&lt;br&gt;- 使用远程日志记录获取独立版本或手机&#x2F;平板电脑版本的日志和堆栈追踪。&lt;br&gt;- 解析 Editor.log 或其他日志文件，就好像它们是当前日志一样&lt;br&gt;- 为整个日志行着色，以便你可以快速查看不同的日志类型。&lt;br&gt;- 使用自定义字体和颜色。&lt;br&gt;- 一键将完整的日志和堆栈追踪复制到剪贴板。&lt;br&gt;- 将整个控制台输出导出到 txt 文件，包括堆栈追踪。&lt;br&gt;- 覆盖 Unity 的状态栏点击。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;flyingworm.com&#x2F;wp-content&#x2F;uploads&#x2F;2017&#x2F;06&#x2F;Editor-Console-Pro-Documentation.pdf&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;mailto:support@flyingworm.com&quot;&gt;支持&lt;&#x2F;a&gt;&lt;br&gt;*** 注意：如果你的 2017.* 有问题，请确保登录你购入资源包的帐户，以更新到最新版本！***&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tqwS3lquGzk&quot;&gt;概述和教程视频&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Behavior Trees for Everyone</title>
+        <published>2024-11-29T21:16:06+00:00</published>
+        <updated>2024-11-30T13:16:25+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/behavior-designer-behavior-trees-for-everyone/"/>
+        <id>https://yzzfo.github.io/unitys/behavior-designer-behavior-trees-for-everyone/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/behavior-designer-behavior-trees-for-everyone/">&lt;p&gt;&lt;br&gt;AAA 工作室使用行为树来创建&lt;strong&gt;栩栩如生的 AI&lt;&#x2F;strong&gt;。有了Opsive 的 Behavior Designer，便可以将行为树的力量带给 Unity！&lt;br&gt;&lt;br&gt;Behavior Designer 是&lt;strong&gt;专为每个人设计的行为树实现&lt;&#x2F;strong&gt; - 程序员、艺术家、设计师。&lt;br&gt;&lt;br&gt;Behavior Designer 提供具有强大的 API 的直观可视化编辑器，帮您轻松创建新任务。它还包含数百个任务，PlayMaker 集成和广泛的第三方集成让你无需编写任何代码就能&lt;strong&gt;创建复杂 AI！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;从设计伊始，Behavior Designer 就旨在尽可能高效，做到&lt;strong&gt;初始化后零配置&lt;&#x2F;strong&gt;。因此，它在包括移动设备的所有平台上运行都很出色。Behavior Designer &lt;strong&gt;专注于行为树，这意味着每次更新都会有更好的行为树实现。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;assets&#x2F;behavior-designer&quot;&gt;概述&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer&#x2F;overview&#x2F;&quot;&gt;文档&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;videos&#x2F;?pid=803&quot;&gt;视频&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;integrations&#x2F;?pid=803&quot;&gt;样本&lt;&#x2F;a&gt;|&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;227497&quot;&gt;论坛&lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;QX6VFgc&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 一款直观的可视化编辑器&lt;br&gt;• 强大的 API&lt;br&gt;• 可视化运行时调试器&lt;br&gt;• 进行任务之间通信的变量&lt;br&gt;• 条件终止&lt;br&gt;• 内置在事件系统中&lt;br&gt;• 使用现有代码，进行反射任务&lt;br&gt;• 数百项任务&lt;br&gt;• 借助 Unity Theory 评估任务&lt;br&gt;• 实时错误检测&lt;br&gt;• 二进制或 JSON 序列化&lt;br&gt;• 数据导向设计&lt;br&gt;• 启动后零运行时分配&lt;br&gt;• 对象绘制器（属性绘制器）&lt;br&gt;• 包含运行时源代码&lt;br&gt;• 大量的文档和视频&lt;br&gt;• 提供在线样本项目&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;assets&#x2F;behavior-designer&quot;&gt;以及更多&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️ &lt;strong&gt;附件资源包：&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-formations-pack-28980&quot;&gt;编队包&lt;&#x2F;a&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-movement-pack-16853&quot;&gt;运动包&lt;&#x2F;a&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-tactical-pack-6182&quot;&gt;战术包&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️ &lt;strong&gt;集成：&lt;&#x2F;strong&gt;&lt;br&gt;• 2D 工具包&lt;br&gt;• A* 寻路项目（运动包）&lt;br&gt;• 冒险制作器&lt;br&gt;• 反作弊工具包&lt;br&gt;• Blox&lt;br&gt;• Bolt（可视化脚本）&lt;br&gt;• 摄像机路径动画器&lt;br&gt;• Cinema Director&lt;br&gt;• 控制狂&lt;br&gt;• Core GameKit&lt;br&gt;• Curvy&lt;br&gt;• 对话系统&lt;br&gt;• DOTween&lt;br&gt;• Final IK&lt;br&gt;• Inventory Pro&lt;br&gt;• LeanTween&lt;br&gt;• Love&#x2F;Hate&lt;br&gt;• Master Audio&lt;br&gt;• 镜像&lt;br&gt;• NGUI&lt;br&gt;• 粒子运动场&lt;br&gt;• PlayMaker&lt;br&gt;• PolyNav（运动包）&lt;br&gt;• Pool Boss&lt;br&gt;• 池管理器&lt;br&gt;• 池、触发器、约束捆绑&lt;br&gt;• Rewired&lt;br&gt;- Simple Waypoint System&lt;br&gt;• 终极角色控制器&lt;br&gt;• 终级库存系统&lt;br&gt;• uScript&lt;br&gt;• uSequencer&lt;br&gt;&lt;br&gt;* 某些推广截屏包括来自运动包或第三方集成的任务。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Animancer Pro</title>
+        <published>2024-11-29T21:15:57+00:00</published>
+        <updated>2024-11-30T13:15:41+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/animancer-pro/"/>
+        <id>https://yzzfo.github.io/unitys/animancer-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/animancer-pro/">&lt;p&gt;[&lt;strong&gt;专业版&lt;&#x2F;strong&gt;] [&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Lite版&lt;&#x2F;a&gt;] [&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&quot;&gt;文档&lt;&#x2F;a&gt;] [&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt;] [&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;help&quot;&gt;帮助与常见问题&lt;&#x2F;a&gt;]&lt;&#x2F;p&gt;
+&lt;p&gt;支持的最低Unity版本为2022.3。如果您使用的是旧版本的Unity或从旧版本的Animancer升级，请查看&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;changes&#x2F;animancer-v8-0&#x2F;upgrade-guide&quot;&gt;升级指南&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Animancer&lt;&#x2F;strong&gt;允许您&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;playing&quot;&gt;按需播放动画&lt;&#x2F;a&gt;并控制所有细节，而无需任何额外的设置步骤。它解决了&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;mecanim-vs-animancer&#x2F;why&quot;&gt;Animator控制器&lt;&#x2F;a&gt;的主要问题，可以完全替代它们或与它们协同工作。这使得在开发的各个阶段，从基本原型到维护和调试复杂系统，动画的处理变得更加简单。&lt;&#x2F;p&gt;
+&lt;p&gt;您可以通过&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt;免费试用所有&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;features&quot;&gt;功能&lt;&#x2F;a&gt;，如果需要，可以无缝升级到Animancer Pro。&lt;&#x2F;p&gt;
+&lt;p&gt;它提供了大量详细的&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt;来帮助您入门，还有一份详尽的&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&quot;&gt;用户手册&lt;&#x2F;a&gt;，解释了所有功能的工作原理，甚至还有关于&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;cs&quot;&gt;Unity中的C#&lt;&#x2F;a&gt;的介绍，以防您是编程新手。&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;2ECW&quot;&gt;平台游戏工具包&lt;&#x2F;a&gt;演示了Animancer如何在更复杂的环境中使用。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;features&quot;&gt;功能&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;:&lt;br&gt;❶ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;playing&quot;&gt;快速播放&lt;&#x2F;a&gt; -&amp;gt;按需播放动画，无需任何不必要的设置步骤。只需获取一个 AnimationClip 并调用 &lt;em&gt;animancer.Play(clip)&lt;&#x2F;em&gt;。
+❷ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;end&quot;&gt;轻松等待&lt;&#x2F;a&gt; -&amp;gt;注册一个 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;end&quot;&gt;结束事件&lt;&#x2F;a&gt; 或在 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;end#coroutines&quot;&gt;协程&lt;&#x2F;a&gt; 中 &lt;em&gt;yield return&lt;&#x2F;em&gt; 一个 &lt;em&gt;AnimancerState&lt;&#x2F;em&gt; 以等待动画完成。
+❸ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;fading&quot;&gt;平滑过渡&lt;&#x2F;a&gt; -&amp;gt;在动画之间线性混合或使用 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;fading#custom-fade&quot;&gt;自定义曲线&lt;&#x2F;a&gt; 以确保角色始终平滑移动。
+❹ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;sprites&#x2F;basics&quot;&gt;灵活结构&lt;&#x2F;a&gt; -&amp;gt;使用数组和可脚本化对象等数据结构组织动画，避免使用 &lt;em&gt;魔法字符串&lt;&#x2F;em&gt;。
+❺ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;playing&#x2F;inspector&quot;&gt;实时检查器&lt;&#x2F;a&gt; -&amp;gt;在检查器中查看动画的当前详细信息，并手动控制以进行调试和测试。
+❻ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;fsm&quot;&gt;有限状态机&lt;&#x2F;a&gt; -&amp;gt;Animancer 配备了一个灵活的 FSM 系统，与动画系统完全分开。它们可以很好地协同工作，但您可以很容易地修改它或使用您喜欢的任何其他系统。
+❼ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;mecanim-vs-animancer&#x2F;performance&quot;&gt;高性能&lt;&#x2F;a&gt; -&amp;gt;Animancer 的效率可能高于其他系统，尽管在大多数情况下，差异小到无关紧要。&lt;br&gt;❽ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;integration&quot;&gt;平滑集成&lt;&#x2F;a&gt; -&amp;gt;大多数为其他动画系统开发的插件应该可以与Animancer无缝兼容，并且它支持诸如&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;UsingHumanoidChars.html&quot;&gt;人形动画重定向&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;FBXImporter-Rig.html&quot;&gt;通用骨架&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;directional-sprites&quot;&gt;精灵动画&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;locomotion&#x2F;root-motion&quot;&gt;根运动&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;animation&quot;&gt;动画事件&lt;&#x2F;a&gt;和&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;ik&quot;&gt;逆向运动学 (IK)&lt;&#x2F;a&gt;等功能。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;features&quot;&gt;Animancer Pro 特性&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: 您可以在Unity编辑器中使用&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt;免费试用以下功能，但您需要购买Animancer Pro才能在运行时构建中使用它们或访问源代码。&lt;&#x2F;p&gt;
+&lt;p&gt;❶ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;api&#x2F;Animancer&#x2F;AnimancerState&quot;&gt;完全控制&lt;&#x2F;a&gt; -&amp;gt;您可以完全访问和控制运行时脚本中的所有动画细节，包括它们的速度、时间和混合权重。
+❷ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;transitions&quot;&gt;简单配置&lt;&#x2F;a&gt; -&amp;gt;在检查器中管理动画的细节，以便可以作为场景或预制件的一部分进行编辑。
+❸ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;animancer&quot;&gt;自定义事件&lt;&#x2F;a&gt; -&amp;gt;注册&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&quot;&gt;事件&lt;&#x2F;a&gt;回调，以便在动画的特定时间触发，而无需处理Unity常规的&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;animation&quot;&gt;动画事件&lt;&#x2F;a&gt;。&lt;br&gt;❹ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;layers&quot;&gt;动画层&lt;&#x2F;a&gt; -&amp;gt;同时管理多个动画集（通常在不同的身体部位上）。层可以相互覆盖或叠加，您可以像单独的动画一样淡入淡出它们。&lt;&#x2F;p&gt;
+&lt;p&gt;❺ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;animator-controllers&quot;&gt;动画控制器&lt;&#x2F;a&gt; -&amp;gt;Animancer不需要使用动画控制器，但它支持一种&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;animator-controllers&#x2F;character&quot;&gt;混合&lt;&#x2F;a&gt;方法，结合使用动画控制器和直接的&lt;em&gt;AnimationClip&lt;&#x2F;em&gt;引用来完成不同的任务。您甚至可以在单个角色上混合多个动画控制器。&lt;&#x2F;p&gt;
+&lt;p&gt;❻ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;mixers&quot;&gt;动画混合器&lt;&#x2F;a&gt; -&amp;gt;根据任何输入参数在动画之间进行混合，类似于&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;class-BlendTree.html&quot;&gt;混合树&lt;&#x2F;a&gt;。例如，您可以根据玩家倾斜摇杆的程度在&lt;em&gt;待机&lt;&#x2F;em&gt;、&lt;em&gt;行走&lt;&#x2F;em&gt;和&lt;em&gt;奔跑&lt;&#x2F;em&gt;之间进行混合，以允许他们以任意速度移动。&lt;&#x2F;p&gt;
+&lt;p&gt;❼ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;tools&quot;&gt;工具&lt;&#x2F;a&gt; -&amp;gt;各种实用工具，用于创建和修改动画，这些动画可以通过Animancer或任何其他支持它们的动画系统播放。这些工具允许您批量处理精灵和基于精灵的动画，例如一次重命名多个精灵或根据它们的名称生成动画。&lt;br&gt;❽ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;jobs&quot;&gt;自定义&lt;&#x2F;a&gt; -&amp;gt; 使用Unity的&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;jobs&quot;&gt;动画作业&lt;&#x2F;a&gt;系统以低级别访问动画流，并创建&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&#x2F;creating-custom-states&quot;&gt;自定义状态&lt;&#x2F;a&gt;类型来实现程序动画、自定义混合算法或任何其他你能想到的行为。&lt;br &#x2F;&gt;
+❾ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&quot;&gt;源代码&lt;&#x2F;a&gt; -&amp;gt; Animancer的完整源代码以普通C#文件形式提供，附有详细注释，以便你可以查看其内部工作原理，追踪错误，进行任何你认为合适的修改，并避免依赖开发者来修复问题（但如果你需要支持，请随时使用&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;help&quot;&gt;帮助和常见问题&lt;&#x2F;a&gt;页面）。包含在Animancer Pro包中的&lt;em&gt;Animancer.Lite.dll&lt;&#x2F;em&gt;是空的占位符，以确保从&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt;的无缝升级，因此它们不包含任何代码，并且不包含在构建中。&lt;&#x2F;p&gt;
+&lt;p&gt;查看&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&quot;&gt;文档&lt;&#x2F;a&gt;和&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt;以开始使用。&lt;&#x2F;p&gt;
+&lt;p&gt;请注意，&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt;使用了&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&#x2F;asset-sources&quot;&gt;各种第三方艺术资产，遵循CC0许可证&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>A* Pathfinding Project Pro</title>
+        <published>2024-11-29T21:15:47+00:00</published>
+        <updated>2024-11-30T13:15:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/a-pathfinding-project-pro/"/>
+        <id>https://yzzfo.github.io/unitys/a-pathfinding-project-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unitys/a-pathfinding-project-pro/">&lt;p&gt;The A* Pathfinding Project is a powerful and easy to use pathfinding system for Unity. With blazing fast pathfinding your AIs will be able to find the player in complex mazes in no time at all.&lt;br&gt;&lt;em&gt;A* Pathfinding Project 是一个功能强大并且易于使用的 Unity 寻路系统。&lt;&#x2F;em&gt;通过快速的路径寻找，您的 AI 将立即在复杂的迷宫中找到玩家。&lt;br&gt;非常适合 TD、FPS、RTS 游戏。&lt;br&gt;&lt;br&gt;看看 &lt;a href=&quot;https:&#x2F;&#x2F;arongranberg.com&#x2F;2017&#x2F;04&#x2F;a-pathfinding-project-4-0-update&#x2F;&quot;&gt;4.0 版更新中有哪些新增内容&lt;&#x2F;a&gt;吧！&lt;br&gt;&lt;br&gt;&lt;em&gt;功能：&lt;&#x2F;em&gt;&lt;br&gt;支持网格、导航网格、点和六角形图。自动导航图形生成让你免于手动执行。完全多线程，因此几乎不会影响帧速率。使用光线投射、平滑和漏斗算法进行路径后处理。路径查找调用只需一行代码。可以将图形保存到文件里。在 XZ 平面和 XY 平面上均可局部回避。内含源代码。支持运行时更新图形。&lt;br&gt;&lt;br&gt;包含共 16 个示例场景帮助你入门。还有一份全面的在线文档，其中几乎记录了所有功能和变量。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;media&quot;&gt;网页播放器演示和视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;&quot;&gt;这里有更多信息哦！&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;youtu.be&#x2F;hmx1sx6ezQA&quot;&gt;视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

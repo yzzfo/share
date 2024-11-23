@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - GUI</title>
+    <subtitle>Downloads &amp; Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/gui/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:23:57+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/gui/atom.xml</id>
+    <entry xml:lang="en">
+        <title>EnhancedScroller</title>
+        <published>2024-11-29T21:19:57+00:00</published>
+        <updated>2024-11-30T13:23:57+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unitys/enhancedscroller/"/>
+        <id>https://yzzfo.github.io/en/unitys/enhancedscroller/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unitys/enhancedscroller/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;EnhancedScroller&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;If you are looking for a list and grid solution, please check out &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;39Zf&quot;&gt;EnhancedGrid&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.echo17.com&quot;&gt;Website &#x2F; Docs &#x2F; Tutorials&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;echo17.itch.io&#x2F;enhancedscroller-demo&quot;&gt;Demo&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;Want a fast and mobile-friendly way to display tons of data?&lt;br&gt;&lt;br&gt;EnhancedScroller virtualizes your data, showing only the elements it needs to. Take thousands of rows and display them in a handful of UI elements, speeding up processing and saving memory. There is no object destruction, so your platform won&#x27;t have to run garbage collection. Best of all, it works on top of Unity&#x27;s own built-in UI system components.&lt;br&gt;&lt;br&gt;Lists are data driven and created dynamically, so you won&#x27;t have to set them up at design time. The scroller doesn&#x27;t need to be aware of data or view presentation, focusing only on managing your list for a true MVC experience. Optional looping allows you to show infinite lists of data. Each cell can have its own size, or they can all share the same size. Optional snapping lets you lock your cells to a particular location. Tweening eases your jumping and snapping transitions to give a smooth user experience.&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;* Dynamic, data-driven lists&lt;br&gt;* MVC framework to maintain a separation of concerns&lt;br&gt;* Efficient recycling of list items&lt;br&gt;* Optional infinite looping&lt;br&gt;* Multiple list item sizes supported, or pass a global size&lt;br&gt;* List items are fully customizable to fit your project&lt;br&gt;* Optional snapping locks your scroller&lt;br&gt;* Tweening to ease jumping and snapping&lt;br&gt;* Demos, tutorials and full C# source code are all included.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Image Warp</title>
+        <published>2024-11-29T21:19:09+00:00</published>
+        <updated>2024-11-30T13:22:50+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unitys/image-warp/"/>
+        <id>https://yzzfo.github.io/en/unitys/image-warp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unitys/image-warp/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;What is Image Warp?&lt;&#x2F;strong&gt;&lt;br&gt;A collection of extensions to the default UI Image components and 3D scene Texture Renderers, allowing you to easily manipulate the image mesh.&lt;br&gt;&lt;br&gt;Twist, warp and crop your images however you like!&lt;br&gt;&lt;br&gt;&lt;strong&gt;** FEATURES **&lt;&#x2F;strong&gt;&lt;br&gt;Works with the Unity animation system.&lt;br&gt;Easily create a cool looking animated texture!&lt;br&gt;&lt;br&gt;Works with Videos!&lt;br&gt;&lt;br&gt;Directly manipulate the images within the Editor via intuitive easy-to-use handles. It&#x27;s like Photoshop in your Unity editor!&lt;br&gt;&lt;br&gt;Bezier curve your Image edges!&lt;br&gt;&lt;br&gt;Easily convert existing UI Image components into Warp components using a convenience MenuItem.&lt;br&gt;&lt;br&gt;Customise the number of mesh subdivisions for the perfect quality&#x2F;vert-count balance.&lt;br&gt;&lt;br&gt;Super simple script calls allow runtime manipulation of the image corner positions.&lt;br&gt;&lt;br&gt;Super simple and intuitive to use. It just works!&lt;br&gt;&lt;br&gt;Full source code included.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>OneJS</title>
+        <published>2024-11-29T21:18:31+00:00</published>
+        <updated>2024-11-30T13:22:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unitys/onejs/"/>
+        <id>https://yzzfo.github.io/en/unitys/onejs/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unitys/onejs/">&lt;p&gt;OneJS brings JavaScript and many beloved web techs to Unity, seamlessly integrating with UI Toolkit without the need for a browser or webview.&lt;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;onejs.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Visit onejs.com for Documentation and Tutorials&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;dwnYFte6SF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Youtube&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Twitter&#x2F;X&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;(Familiarity with React and Typescript is recommended)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;OneJS brings the power of React-style workflows to Unity UI development. It provides a thin DOM layer for Preact, seamlessly integrating with UI Toolkit for high performance. Leverage Typescript, JSX, Tailwind, and many other web techs that you already know and love - all working natively in Unity.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;With V2, OneJS is now supercharged by Puerts for up to 100x performance boost. The new ESBuild workflow simplifies deployment and supports npm packages.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Beyond UI, OneJS enables easy implementation of modding systems. Give your players the power of TypeScript, JSX, and USS to create addons and mods for your game.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>UI Node Connect 4</title>
+        <published>2024-11-29T21:18:21+00:00</published>
+        <updated>2024-11-30T13:21:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unitys/ui-node-connect-4/"/>
+        <id>https://yzzfo.github.io/en/unitys/ui-node-connect-4/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unitys/ui-node-connect-4/">&lt;p&gt;UI Node Connect 4 is a customizable runtime UGUI Node Graph Framework that facilitates the creation of interactive node graph interfaces inside your Game or App.&lt;br&gt;&lt;p &gt;The UI Node Connect 4 is a &lt;strong&gt;runtime UGUI Node Graph Framework&lt;&#x2F;strong&gt; with Nodes, Ports and Connections, drag and drop, a custom UI line renderer and useful features to create node graphs, flowcharts, circuit boards, connection puzzles, among other creative ways for the users to interact with your game or app.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📚&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;📚&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Code Reference&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;🎮&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;danielcmcg.itch.io&#x2F;logic-gates&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Logic Gates Sample Scene&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Customize the asset&lt;&#x2F;strong&gt; with your own sprites, texts, colors, buttons and expand it by adding new features using the API to &lt;strong&gt;hook up to events&lt;&#x2F;strong&gt; and analyze the &lt;strong&gt;Nodes, Ports and Connections&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;p &gt;Make the Canvas part of your gameplay by adding a new interaction way for the users to manipulate and connect Nodes to each other.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
