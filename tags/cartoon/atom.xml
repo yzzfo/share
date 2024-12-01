@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/flat-kit-toon-shading-and-water/"/>
-        <id>https://yzzfo.github.io/unitys/flat-kit-toon-shading-and-water/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/flat-kit-toon-shading-and-water/"/>
+        <id>https://yzzfo.github.io/unity/flat-kit-toon-shading-and-water/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/flat-kit-toon-shading-and-water/">&lt;p&gt;Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.&lt;br&gt;&lt;strong&gt;Flat Kit&lt;&#x2F;strong&gt; 是一款可实现风格化卡通渲染的整套工具：着色器、模型、图像特效、预设、示例。&lt;br&gt;&lt;strong&gt;自定义着色模型&lt;&#x2F;strong&gt;功能多样，可用于经典卡通着色，也可用于风格独特的实验性项目。&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;Sc838YuWPhA&quot;&gt;&lt;strong&gt;演示视频&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;&lt;strong&gt;在线用户手册&lt;&#x2F;strong&gt;（请留下评论！）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 功能丰富的&lt;strong&gt;抛光卡通着色&lt;&#x2F;strong&gt;（见下文）&lt;br&gt;• ​​​&lt;strong&gt;渐变雾&lt;&#x2F;strong&gt;：多层水平&#x2F;垂直渐变雾图像效果&lt;br&gt;• ​​适用于 Unity 或第三方地形的​&lt;strong&gt;地形着色器&lt;&#x2F;strong&gt;&lt;br&gt;• 3D 亮点和上帝之光&lt;strong&gt;光平面着色器&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;strong&gt;移动端支持&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;内置和 URP&lt;&#x2F;strong&gt; - 所有对象着色器和后处理效果支持两种渲染管线。&lt;br&gt;&lt;br&gt;• &lt;&#x2F;strong&gt;支持顶点颜色&lt;&#x2F;strong&gt;（仅限内置 RP），也适用于 Polybrush&lt;br&gt;•Unity 内置阴影的控制能力&lt;br&gt;• 支持间接光照&lt;br&gt;• 直观、简洁和流畅的界面 - 仅使用您需要的功能&lt;br&gt;• 精确地为场景着色 - 无需臆测&lt;br&gt;• 完整源代码&lt;br&gt;• 详尽的在线手册&lt;br&gt;&lt;br&gt;&lt;strong&gt;Core Cel &lt;&#x2F;strong&gt;着色器概述：&lt;br&gt;• 带有参数绑定功能的卡通着色：&lt;strong&gt;单步、跃变、曲线&lt;&#x2F;strong&gt;&lt;br&gt;• 两个独立的卡通层&lt;br&gt;• 高度渐变层&lt;br&gt;• 几种&lt;strong&gt;轮廓线&lt;&#x2F;strong&gt;工具&lt;br&gt;• 法线和卡通着色之间的参数混合&lt;br&gt;• 风格化的&lt;strong&gt;镜面和边缘光照&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;法线贴图&lt;&#x2F;strong&gt;&lt;br&gt;• 可在 .cginc 文件中&lt;strong&gt;重复使用自定义光照&lt;&#x2F;strong&gt;，您可以将其集成到着色器中（非必须）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;该资源包包括&lt;&#x2F;strong&gt;：&lt;br&gt;• 3 种 uber 着色器，带有大量切换键和参数&lt;br&gt;• 自定义卡通着色光照库&lt;br&gt;• 2 种后处理效果：雾和轮廓线&lt;br&gt;• 8 个演示场景&lt;br&gt;• 90+ 个模型&lt;br&gt;• 20+ 种材质预设&lt;br&gt;&lt;br&gt;如有疑问，请告诉我们！&lt;br&gt;&lt;a href=&quot;mailto:info@dustyroom.com&quot;&gt;info@dustyroom.com&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_dstrm&quot;&gt;@_dstrm&lt;&#x2F;a&gt; | 可在&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;在线用户指南&lt;&#x2F;a&gt;上评论&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/flat-kit-toon-shading-and-water/">&lt;p&gt;Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.&lt;br&gt;&lt;strong&gt;Flat Kit&lt;&#x2F;strong&gt; 是一款可实现风格化卡通渲染的整套工具：着色器、模型、图像特效、预设、示例。&lt;br&gt;&lt;strong&gt;自定义着色模型&lt;&#x2F;strong&gt;功能多样，可用于经典卡通着色，也可用于风格独特的实验性项目。&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;Sc838YuWPhA&quot;&gt;&lt;strong&gt;演示视频&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;&lt;strong&gt;在线用户手册&lt;&#x2F;strong&gt;（请留下评论！）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 功能丰富的&lt;strong&gt;抛光卡通着色&lt;&#x2F;strong&gt;（见下文）&lt;br&gt;• ​​​&lt;strong&gt;渐变雾&lt;&#x2F;strong&gt;：多层水平&#x2F;垂直渐变雾图像效果&lt;br&gt;• ​​适用于 Unity 或第三方地形的​&lt;strong&gt;地形着色器&lt;&#x2F;strong&gt;&lt;br&gt;• 3D 亮点和上帝之光&lt;strong&gt;光平面着色器&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;strong&gt;移动端支持&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;内置和 URP&lt;&#x2F;strong&gt; - 所有对象着色器和后处理效果支持两种渲染管线。&lt;br&gt;&lt;br&gt;• &lt;&#x2F;strong&gt;支持顶点颜色&lt;&#x2F;strong&gt;（仅限内置 RP），也适用于 Polybrush&lt;br&gt;•Unity 内置阴影的控制能力&lt;br&gt;• 支持间接光照&lt;br&gt;• 直观、简洁和流畅的界面 - 仅使用您需要的功能&lt;br&gt;• 精确地为场景着色 - 无需臆测&lt;br&gt;• 完整源代码&lt;br&gt;• 详尽的在线手册&lt;br&gt;&lt;br&gt;&lt;strong&gt;Core Cel &lt;&#x2F;strong&gt;着色器概述：&lt;br&gt;• 带有参数绑定功能的卡通着色：&lt;strong&gt;单步、跃变、曲线&lt;&#x2F;strong&gt;&lt;br&gt;• 两个独立的卡通层&lt;br&gt;• 高度渐变层&lt;br&gt;• 几种&lt;strong&gt;轮廓线&lt;&#x2F;strong&gt;工具&lt;br&gt;• 法线和卡通着色之间的参数混合&lt;br&gt;• 风格化的&lt;strong&gt;镜面和边缘光照&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;法线贴图&lt;&#x2F;strong&gt;&lt;br&gt;• 可在 .cginc 文件中&lt;strong&gt;重复使用自定义光照&lt;&#x2F;strong&gt;，您可以将其集成到着色器中（非必须）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;该资源包包括&lt;&#x2F;strong&gt;：&lt;br&gt;• 3 种 uber 着色器，带有大量切换键和参数&lt;br&gt;• 自定义卡通着色光照库&lt;br&gt;• 2 种后处理效果：雾和轮廓线&lt;br&gt;• 8 个演示场景&lt;br&gt;• 90+ 个模型&lt;br&gt;• 20+ 种材质预设&lt;br&gt;&lt;br&gt;如有疑问，请告诉我们！&lt;br&gt;&lt;a href=&quot;mailto:info@dustyroom.com&quot;&gt;info@dustyroom.com&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_dstrm&quot;&gt;@_dstrm&lt;&#x2F;a&gt; | 可在&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;在线用户指南&lt;&#x2F;a&gt;上评论&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -40,10 +40,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/stylized-vfx/"/>
-        <id>https://yzzfo.github.io/unitys/stylized-vfx/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/stylized-vfx/"/>
+        <id>https://yzzfo.github.io/unity/stylized-vfx/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/stylized-vfx/">&lt;p&gt;这款令人惊叹的风格化特效受到了《塞尔达传说：荒野之息》和《原神》等游戏的启发！&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/stylized-vfx/">&lt;p&gt;这款令人惊叹的风格化特效受到了《塞尔达传说：荒野之息》和《原神》等游戏的启发！&lt;&#x2F;p&gt;
 &lt;p&gt;这套风格化特效包可以完全根据您的项目需求进行轻松自定义。&lt;&#x2F;p&gt;
 &lt;p&gt;这款风格化特效包还附带音效！您可以随意使用这些声音。&lt;&#x2F;p&gt;
 &lt;p&gt;包含超过40个特效！（包括变体）&lt;&#x2F;p&gt;</content>
@@ -62,10 +62,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/toon-fantasy-nature/"/>
-        <id>https://yzzfo.github.io/unitys/toon-fantasy-nature/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/toon-fantasy-nature/"/>
+        <id>https://yzzfo.github.io/unity/toon-fantasy-nature/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/toon-fantasy-nature/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 呈现：&lt;&#x2F;p&gt;一套风格化的资源集合，为您的游戏增添美丽的环境。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/toon-fantasy-nature/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 呈现：&lt;&#x2F;p&gt;一套风格化的资源集合，为您的游戏增添美丽的环境。&lt;&#x2F;p&gt;
 &lt;p&gt;有任何问题或建议吗？&lt;&#x2F;p&gt;&lt;p&gt;欢迎通过我们的 &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 与我们联系&lt;&#x2F;p&gt;
 &lt;p&gt;◙ &lt;strong&gt;特色&lt;&#x2F;strong&gt; ◙&lt;&#x2F;p&gt;
 &lt;p&gt;• &lt;strong&gt;200&lt;&#x2F;strong&gt; 个预制件，从小植物和岩石到大型橡树和松树。&lt;&#x2F;p&gt;&lt;p&gt;• &lt;strong&gt;8&lt;&#x2F;strong&gt; &lt;strong&gt;演示场景&lt;&#x2F;strong&gt; 展示了该包中的所有资源，并提供多种光照预设（包括后期处理配置文件）。&lt;&#x2F;p&gt;
@@ -96,10 +96,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/polygon-western-frontier-low-poly-3d-art-by-synty/"/>
-        <id>https://yzzfo.github.io/unitys/polygon-western-frontier-low-poly-3d-art-by-synty/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/polygon-western-frontier-low-poly-3d-art-by-synty/"/>
+        <id>https://yzzfo.github.io/unity/polygon-western-frontier-low-poly-3d-art-by-synty/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/polygon-western-frontier-low-poly-3d-art-by-synty/">&lt;p &gt;&lt;strong&gt;◼&lt;&#x2F;strong&gt; &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Discord 社区&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; ◼&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;加入我们的 &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;，学习、创造和分享！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/polygon-western-frontier-low-poly-3d-art-by-synty/">&lt;p &gt;&lt;strong&gt;◼&lt;&#x2F;strong&gt; &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Discord 社区&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; ◼&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;加入我们的 &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;，学习、创造和分享！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Studios™&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 呈现 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;一款史诗级低多边形资产包，包含角色、道具、武器、车辆和环境资产，用于创建西部主题的多边形风格游戏。&lt;&#x2F;p&gt;
 &lt;p &gt;是 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;historic&#x2F;polygon-western-pack-112212&quot; target=&quot;_blank&quot;&gt;POLYGON - 西部包&lt;&#x2F;a&gt; 的绝佳补充。&lt;&#x2F;p&gt;

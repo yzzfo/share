@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/support-package-for-hovl-studio-assets/"/>
-        <id>https://yzzfo.github.io/unitys/support-package-for-hovl-studio-assets/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/support-package-for-hovl-studio-assets/"/>
+        <id>https://yzzfo.github.io/unity/support-package-for-hovl-studio-assets/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/support-package-for-hovl-studio-assets/">&lt;p&gt;这个包为Hovl Studio资产提供了URP和HDRP支持（以及未来可能的新渲染管线）。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/support-package-for-hovl-studio-assets/">&lt;p&gt;这个包为Hovl Studio资产提供了URP和HDRP支持（以及未来可能的新渲染管线）。&lt;&#x2F;p&gt;
 &lt;p&gt;如果您拥有Hovl Studio的资产，这个资产是&lt;strong&gt;免费&lt;&#x2F;strong&gt;的。&lt;&#x2F;p&gt;
 &lt;p&gt;编辑器将所有材料中仅与标准渲染管线兼容的着色器替换为自定义管线。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;编辑器仅适用于来自&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;的资产！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;

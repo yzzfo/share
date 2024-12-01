@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/onejs/"/>
-        <id>https://yzzfo.github.io/unitys/onejs/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/onejs/"/>
+        <id>https://yzzfo.github.io/unity/onejs/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/onejs/">&lt;p&gt;OneJS将JavaScript和许多受欢迎的网页技术带入Unity，无需浏览器或Web视图即可与UI Toolkit无缝集成。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/onejs/">&lt;p&gt;OneJS将JavaScript和许多受欢迎的网页技术带入Unity，无需浏览器或Web视图即可与UI Toolkit无缝集成。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;onejs.com&#x2F;&quot; target=&quot;_blank&quot;&gt;访问onejs.com以获取文档和教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;dwnYFte6SF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Youtube&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Twitter&#x2F;X&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;em&gt;(建议熟悉React和Typescript)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;OneJS将React风格的工作流程的强大功能带入Unity UI开发。它为Preact提供了一个轻量级的DOM层，与UI Toolkit无缝集成，以实现高性能。利用您已经熟悉和喜爱的Typescript、JSX、Tailwind以及许多其他网页技术——所有这些都可以在Unity中原生运行。&lt;&#x2F;p&gt;

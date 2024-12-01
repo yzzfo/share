@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/semantic-color-palette/"/>
-        <id>https://yzzfo.github.io/unitys/semantic-color-palette/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/semantic-color-palette/"/>
+        <id>https://yzzfo.github.io/unity/semantic-color-palette/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/semantic-color-palette/">&lt;p&gt;一个用于Unity的语义颜色管理系统：以有意义的调色板组织您的颜色，并将其分配给各种“可着色”组件。再也不需要在多个地方更新颜色值了！&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/semantic-color-palette/">&lt;p&gt;一个用于Unity的语义颜色管理系统：以有意义的调色板组织您的颜色，并将其分配给各种“可着色”组件。再也不需要在多个地方更新颜色值了！&lt;&#x2F;p&gt;
 &lt;p&gt;该软件包提供了一个&lt;strong&gt;语义颜色管理系统&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;用于Unity。&lt;&#x2F;p&gt;
 &lt;p&gt;了解该系统运行的最佳方式是&lt;a href=&quot;https:&#x2F;&#x2F;www.binarycharm.com&#x2F;tech&#x2F;unity-semantic-color-palette&#x2F;demo&#x2F;&quot; target=&quot;_blank&quot;&gt;尝试在线演示&lt;&#x2F;a&gt;，但视频也同样有效！&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;那么，什么是语义颜色管理？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;

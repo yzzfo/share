@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unitys/save-game-pro-gold-update/"/>
-        <id>https://yzzfo.github.io/unitys/save-game-pro-gold-update/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/save-game-pro-gold-update/"/>
+        <id>https://yzzfo.github.io/unity/save-game-pro-gold-update/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unitys/save-game-pro-gold-update/">&lt;p&gt;Save Game Pro 是一个完整、强大且功能丰富的 Unity（游戏引擎）存档解决方案，允许您在任何地方保存所有内容。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/save-game-pro-gold-update/">&lt;p&gt;Save Game Pro 是一个完整、强大且功能丰富的 Unity（游戏引擎）存档解决方案，允许您在任何地方保存所有内容。&lt;&#x2F;p&gt;
 &lt;p&gt;我们&lt;strong&gt;建议&lt;&#x2F;strong&gt;新用户使用&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;108890&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Bayat - 保存系统&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;，因为 Save Game Pro 将进入维护模式，这意味着它只会接收错误修复和补丁，因此您可以根据此信息开始您的新项目，或者将现有游戏数据迁移到新系统。&lt;&#x2F;p&gt;
 &lt;p&gt;需要注意的是，Save Game Pro 不会被弃用，它只会接收补丁和错误修复，不会有新功能。&lt;&#x2F;p&gt;&lt;p&gt;------&lt;&#x2F;p&gt;&lt;p&gt;Save Game Pro 是一个完整、强大且功能丰富的 Unity（游戏引擎）存档解决方案，允许您保存所有内容，例如组件、数据类型、游戏对象，包括自定义数据类型，保存位置包括 Web &amp;amp; Cloud、本地存储、PlayerPrefs、数据库。&lt;&#x2F;p&gt;&lt;p&gt;Save Game Pro 具有优雅且完整的 API，用于控制保存的数据，例如，通过使用 API，您可以检查数据是否存在，或者检索保存的文件列表并将其显示给用户。&lt;&#x2F;p&gt;&lt;p&gt;与 Unity 2017.x 及更高版本兼容，您也可以使其与旧版本的 Unity 一起使用，只需在导入包之前忽略警告即可。&lt;&#x2F;p&gt;&lt;p&gt;在以下 Unity 版本上进行了测试：&lt;&#x2F;p&gt;
 &lt;p&gt;- 2018.2, 2018.1, 2017.4, 2017.3, 2017.2, 2017.1, 5.6&lt;&#x2F;p&gt;
