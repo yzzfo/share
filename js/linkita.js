@@ -47,14 +47,15 @@
   }
 
   function initTranslationsButton(btn) {
-    let userLanguages = [];
-    if (navigator.languages) {
-      userLanguages = navigator.languages;
-    } else if (navigator.language) {
-      userLanguages = [navigator.language];
-    } else if (navigator.userLanguage) {
-      userLanguages = [navigator.userLanguage];
-    }
+    // let userLanguages = [];
+    // if (navigator.languages) {
+    //   userLanguages = navigator.languages;
+    // } else if (navigator.language) {
+    //   userLanguages = [navigator.language];
+    // } else if (navigator.userLanguage) {
+    //   userLanguages = [navigator.userLanguage];
+    // }
+    let userLanguages = window.support_lang;
     const pageLanguage = document.documentElement.getAttribute("lang");
     const pageTranslations = new Map();
     document.head.querySelectorAll("link[rel='alternate'][hreflang]").forEach(el => {
