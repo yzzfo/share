@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/foliage/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:27:07+00:00</updated>
+    <updated>2024-12-02T21:58:29+00:00</updated>
     <id>https://yzzfo.github.io/tags/foliage/atom.xml</id>
     <entry xml:lang="zh">
         <title>Pure Nature</title>
         <published>2024-11-29T21:22:21+00:00</published>
-        <updated>2024-11-30T13:27:07+00:00</updated>
+        <updated>2024-12-02T21:58:29+00:00</updated>
         
         <author>
           <name>
@@ -30,13 +30,13 @@
 &lt;p &gt;&lt;strong&gt;道具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 废墟&lt;&#x2F;p&gt;&lt;p &gt;- 瀑布&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;材质&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 草&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;沙&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;泥&lt;&#x2F;p&gt;&lt;p &gt;- 沙&lt;&#x2F;p&gt;&lt;p &gt;- 沙滩&lt;&#x2F;p&gt;&lt;p &gt;- 沙砾&lt;&#x2F;p&gt;&lt;p &gt;- 泥&lt;&#x2F;p&gt;&lt;p &gt;- 雪&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;还包括：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;演示场景&lt;&#x2F;p&gt;&lt;p &gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p &gt;准备好绘制和填充的空场景&lt;&#x2F;p&gt;
-&lt;p &gt;环境管理器用于控制风和草的渲染距离&lt;&#x2F;p&gt;
+&lt;p &gt;演示场景&lt;&#x2F;p&gt;&lt;p &gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p &gt;空场景，地形准备好可以绘制和填充&lt;&#x2F;p&gt;
+&lt;p &gt;环境管理器，用于控制风和草的渲染距离&lt;&#x2F;p&gt;
 &lt;p &gt;白天、夜晚、日落、多云、暴风雨等的预设...&lt;&#x2F;p&gt;&lt;p &gt;后处理堆栈的预设&lt;&#x2F;p&gt;
 &lt;p &gt;大多数预制件都有 LOD&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;自定义着色器用于：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;带有风和颜色变化的草&lt;&#x2F;p&gt;&lt;p &gt;带有风和颜色变化的树&lt;&#x2F;p&gt;&lt;p &gt;带有苔藓&#x2F;雪层的岩石&lt;&#x2F;p&gt;&lt;p &gt;带有深度渐变、泡沫和折射的水&lt;&#x2F;p&gt;&lt;p &gt;体积云&lt;&#x2F;p&gt;&lt;p &gt;广告牌&lt;&#x2F;p&gt;
 &lt;p &gt;- - -&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;em&gt;演示场景很大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;推荐使用像 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 的合适解决方案，如 &lt;&#x2F;em&gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;植被引擎&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件包含设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
+&lt;p &gt;&lt;em&gt;演示场景很大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;推荐使用像 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 的合适解决方案，例如 &lt;&#x2F;em&gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Vegetation Engine&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件包含设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
