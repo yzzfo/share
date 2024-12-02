@@ -441,5 +441,17 @@
   "reference_tip": {
     "en": "Check out the details from the Unity Asset Store: ",
     "zh": "在 Unity 资产商店中查看更详细的信息："
+  },
+  "copy_succ_tip": {
+    "zh": "复制成功",
+    "en": "Copied"
+  },
+  "report_invalid_resource": {
+    "zh": "链接失效👈",
+    "en": "Link expired👈"
+  },
+  "report_invalid_resource_tip": {
+    "zh": "已反馈",
+    "en": "Feedback submitted"
   }
 }
