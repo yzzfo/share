@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/runtime-transform-handles/"/>
-        <id>https://yzzfo.github.io/unity/runtime-transform-handles/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-transform-handles/"/>
+        <id>https://yzzfo.github.io/unity/store/runtime-transform-handles/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/runtime-transform-handles/">&lt;p&gt;Runtime Transform Handles 是用于在场景中操作 GameObjects 的运行时 3D 控件。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-transform-handles/">&lt;p&gt;Runtime Transform Handles 是用于在场景中操作 GameObjects 的运行时 3D 控件。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;Runtime Transform Handles&lt;&#x2F;strong&gt; 是用于在场景中操作 GameObjects 的运行时 3D 控件。通过变换组件，有三种内置变换工具用于定位、旋转和缩放对象。补充控件，如场景小工具和网格，允许更改视角和投影模式，并在场景中显示网格。其他重要组件包括选择组件、场景组件和控件组件，它们允许选择对象、导航场景以及更改变换控件的外观。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;这是 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;Runtime Editor&lt;&#x2F;a&gt; 的精简版&lt;&#x2F;p&gt;

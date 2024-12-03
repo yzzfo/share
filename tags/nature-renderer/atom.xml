@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/winter-environment-nature-pack/"/>
-        <id>https://yzzfo.github.io/unity/winter-environment-nature-pack/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/winter-environment-nature-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/winter-environment-nature-pack/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/winter-environment-nature-pack/">&lt;p &gt;&lt;a href=&quot;mailto:contact@angrymesh.com&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;ANGRYMESH&#x2F;&quot; target=&quot;_blank&quot;&gt;脸书&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ANGRY_MESH&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/winter-environment-nature-pack/">&lt;p &gt;&lt;a href=&quot;mailto:contact@angrymesh.com&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;ANGRYMESH&#x2F;&quot; target=&quot;_blank&quot;&gt;脸书&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ANGRY_MESH&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;描述：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;为快速和高质量开发冬季自然场景而创建的冬季环境资产。该包包含额外的着色器，您可以使用它们调整树木、草地和道具上的雪量。&amp;nbsp;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.kmmifbye97yv&quot; target=&quot;_blank&quot;&gt;AG全局设置&lt;&#x2F;a&gt;让您控制全局风设置，如方向、幅度、速度、比例和网格刚度。您可以在整个场景中全局控制风设置，也可以为每种材质局部控制。这使您能够以不同的方式调整物体的刚性及风对它们的影响。&lt;&#x2F;p&gt;
 &lt;p &gt;除了风设置，AG全局设置还包含AO&#x2F;半透明&#x2F;色调颜色和雪的全局参数。全局设置可以为每个场景独特。您可以在不更改基本网格材质的情况下调整环境的外观。&lt;&#x2F;p&gt;

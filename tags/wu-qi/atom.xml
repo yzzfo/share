@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - 武器</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/wu-qi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-13T16:00:17+00:00</updated>
+    <id>https://yzzfo.github.io/tags/wu-qi/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Stylized Medieval Fantasy Weapons Pack</title>
+        <published>2024-12-13T16:00:17+00:00</published>
+        <updated>2024-12-13T16:00:17+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/other/stylized-medieval-fantasy-weapons-pack/"/>
+        <id>https://yzzfo.github.io/unity/other/stylized-medieval-fantasy-weapons-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/other/stylized-medieval-fantasy-weapons-pack/">&lt;p&gt;&lt;b&gt;风格化的中世纪奇幻武器包&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;《风格化的中世纪奇幻武器包》包含了20个专业的武器模型。奇幻武器包提供了高质量的手绘武器纹理。所有武器都适用于移动设备，并且100%即插即用，预制件已准备好，可以直接在您的游戏中使用！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;b&gt;特点：&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;20个专业3D模型&lt;&#x2F;li&gt;
+  &lt;li&gt;纹理尺寸：2048x2048px&lt;&#x2F;li&gt;
+  &lt;li&gt;本捆绑包附带扩展商业许可证，意味着您可以使用这些效果为自己和客户创建惊艳的设计！&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

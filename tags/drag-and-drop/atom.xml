@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/flexalon-ui-layouts/"/>
-        <id>https://yzzfo.github.io/unity/flexalon-ui-layouts/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/flexalon-ui-layouts/"/>
+        <id>https://yzzfo.github.io/unity/store/flexalon-ui-layouts/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/flexalon-ui-layouts/">&lt;p&gt;Create responsive UI for your game using two powerful layouts with built-in animations and interactions.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/flexalon-ui-layouts/">&lt;p&gt;Create responsive UI for your game using two powerful layouts with built-in animations and interactions.&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;flexalon.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VM9cWJ9rjH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;Flexalon UI 布局 &lt;&#x2F;strong&gt;是 uGUI 布局组的替代品，提供了更多的控制和选项来构建您的 UI。布局是 &lt;strong&gt;响应式的，&lt;&#x2F;strong&gt;能够适应屏幕大小以及布局中的文本和图像。&lt;&#x2F;p&gt;
 &lt;ul&gt;&lt;li &gt;uGUI 水平&#x2F;垂直布局组 -&amp;gt; &lt;strong&gt;Flexalon 灵活布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;uGUI 网格布局组 -&amp;gt; &lt;strong&gt;Flexalon 网格布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
@@ -56,10 +56,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/ui-node-connect-4/"/>
-        <id>https://yzzfo.github.io/unity/ui-node-connect-4/</id>
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/ui-node-connect-4/"/>
+        <id>https://yzzfo.github.io/unity/store/ui-node-connect-4/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/ui-node-connect-4/">&lt;p&gt;UI Node Connect 4 是一个可定制的运行时 UGUI 节点图框架，便于在您的游戏或应用程序中创建交互式节点图界面。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/ui-node-connect-4/">&lt;p&gt;UI Node Connect 4 是一个可定制的运行时 UGUI 节点图框架，便于在您的游戏或应用程序中创建交互式节点图界面。&lt;&#x2F;p&gt;
 &lt;p&gt;UI Node Connect 4 是一个 &lt;strong&gt;运行时 UGUI 节点图框架&lt;&#x2F;strong&gt;，具有节点、端口和连接、拖放、自定义 UI 线渲染器以及创建节点图、流程图、电路板、连接谜题等多种创意方式的实用功能，供用户与您的游戏或应用程序进行交互。&lt;&#x2F;p&gt;
 &lt;p&gt;&amp;#128218;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&amp;#128218;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;代码参考&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
