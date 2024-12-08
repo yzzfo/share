@@ -556,6 +556,12 @@
   <loc>https://yzzfo.github.io/en/tags/buttons/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/camera/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/camera/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/canvas/</loc>
 </url>
 <url>
@@ -715,6 +721,12 @@
   <loc>https://yzzfo.github.io/en/tags/complete/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/computer-vision/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/computer-vision/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/connect/</loc>
 </url>
 <url>
@@ -845,6 +857,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/decision/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/deep-learning/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/deep-learning/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/defense/</loc>
@@ -997,6 +1015,12 @@
   <loc>https://yzzfo.github.io/en/tags/easy-setup/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/easy/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/easy/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/editor-tools/</loc>
 </url>
 <url>
@@ -1094,6 +1118,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/extensible/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/facetracking/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/facetracking/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/fantasy/</loc>
@@ -1603,6 +1633,12 @@
   <loc>https://yzzfo.github.io/en/tags/illumination/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/image-processing/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/image-processing/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/impact/</loc>
 </url>
 <url>
@@ -1667,6 +1703,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/installs-in-packages/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/integration/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/integration/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/interaction/</loc>
@@ -2056,6 +2098,9 @@
   <loc>https://yzzfo.github.io/en/tags/mobile/page/2/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/mobile/page/3/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/modding/</loc>
 </url>
 <url>
@@ -2261,6 +2306,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/old-west/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/opencv/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/opencv/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/optimalisation/</loc>
@@ -3400,6 +3451,12 @@
   <loc>https://yzzfo.github.io/en/tags/textmesh-pro/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/texture/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/texture/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/the-vegetation-engine/</loc>
 </url>
 <url>
@@ -3425,6 +3482,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/tool/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/tools/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/tools/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/toon-shader/</loc>
@@ -3782,6 +3845,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/web/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/webcam/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/webcam/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/webgl/</loc>
@@ -4201,6 +4270,10 @@
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/onejs/</loc>
   <lastmod>2024-11-30T13:22:05</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/unity/store/opencv-for-unity/</loc>
+  <lastmod>2024-12-08T12:43:11</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/page/1/</loc>
@@ -4901,6 +4974,12 @@
   <loc>https://yzzfo.github.io/tags/buttons/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/camera/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/camera/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/canvas/</loc>
 </url>
 <url>
@@ -5060,6 +5139,12 @@
   <loc>https://yzzfo.github.io/tags/complete/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/computer-vision/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/computer-vision/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/connect/</loc>
 </url>
 <url>
@@ -5196,6 +5281,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/decision/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/deep-learning/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/deep-learning/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/defense/</loc>
@@ -5360,6 +5451,12 @@
   <loc>https://yzzfo.github.io/tags/easy-setup/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/easy/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/easy/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/editor-tools/</loc>
 </url>
 <url>
@@ -5448,6 +5545,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/extensible/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/facetracking/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/facetracking/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/fantasy/</loc>
@@ -5981,6 +6084,12 @@
   <loc>https://yzzfo.github.io/tags/illumination/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/image-processing/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/image-processing/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/impact/</loc>
 </url>
 <url>
@@ -6452,6 +6561,9 @@
   <loc>https://yzzfo.github.io/tags/mobile/page/2/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/mobile/page/3/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/modding/</loc>
 </url>
 <url>
@@ -6645,6 +6757,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/old-west/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/opencv/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/opencv/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/optimalisation/</loc>
@@ -7796,6 +7914,12 @@
   <loc>https://yzzfo.github.io/tags/textmesh-pro/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/texture/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/texture/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/the-vegetation-engine/</loc>
 </url>
 <url>
@@ -7821,6 +7945,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/tool/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/tools/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/tools/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/toon-shader/</loc>
@@ -8159,6 +8289,12 @@
   <loc>https://yzzfo.github.io/tags/web/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/webcam/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/webcam/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/webgl/</loc>
 </url>
 <url>
@@ -8307,6 +8443,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/zhao-se-qi/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/zheng-he/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/zheng-he/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/</loc>
@@ -8609,6 +8751,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/onejs/</loc>
   <lastmod>2024-11-30T13:22:05</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/opencv-for-unity/</loc>
+  <lastmod>2024-12-08T12:43:11</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/page/1/</loc>
